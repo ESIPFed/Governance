@@ -118,25 +118,25 @@ President who shall be Representatives of the Assembly elected by secret ballot 
 -   VI.4.2  The Constitution and Bylaws Committee will be responsible for conducting elections and other voting of the ESIP Federation according to the Constitution and Bylaws.
 -   VI.4.3 The Constitution and Bylaws Committee will prepare properly formulated amendments to the Constitution and Bylaws of the ESIP Federation at the request of, and advice from the Assembly.
 
-**Section 5 – Finance and Appropriations Committee **
+**Section 5 – Finance and Appropriations Committee**
 
 VI.5.1 The Finance and Appropriations Committee shall administer the financial resources of the ESIP Federation and advise the Federation on financial matters and appropriations according to the Bylaws.
 
-**Section 6 – Partnership Committee **
+**Section 6 – Partnership Committee**
 
 VI.6.1 The Partnership Committee shall be responsible for partnership matters of the ESIP Federation including advising the Federation on new membership categories and new Partners according to the Bylaws.
 
-**ARTICLE VII **
+**ARTICLE VII**
 *Standing Committees, Working Groups and Clusters*
 
-**Section 1 – General **
+**Section 1 – General**
 
 -   VII.1.1  The ESIP Federation shall utilize Standing Committees,
 Working Groups, and Clusters to facilitate the conduct of its business and activities as described in the Bylaws.  
 -   VII.1.2  Recommendations, decisions, and activities of Standing
 Committees, Working Groups, and Clusters may not be represented as those of the ESIP Federation as a whole without the explicit agreement of the Assembly.  
 
-**Section 2 – Standing Committees **
+**Section 2 – Standing Committees**
 
 -   VII.2.1  Standing Committees shall champion and carry out the four central activities of the ESIP Federation (Article II) as explicated in the Bylaws.  
 -   VII.2.2  Participation in a Standing Committee shall be open to
@@ -144,7 +144,7 @@ any ESIP.  
 -   VII.2.3  Standing Committees shall operate and be regulated as
 provided for in the Bylaws.  
 
-**Section 3 – Working Groups **
+**Section 3 – Working Groups**
 
 -   VII.3.1  ESIP Federation Working Groups may be created only by the Assembly or one of its Committees.  
 -   VII.3.2  Working Groups shall have a specified task to perform and
@@ -153,30 +153,30 @@ shall have a finite duration.  
 -   VII.3.4  Further duties and responsibilities of Working Groups shall
 be as provided in the Bylaws.  
 
-**Section 4 – Clusters **
+**Section 4 – Clusters**
 
 -   VII.4.1  ESIP Federation Clusters may form to address an Earth
 science problem of interest to the ESIP Federation.  
 -   VII.4.2  Further duties and responsibilities of ESIP Federation
     Clusters shall be as provided in the Bylaws.  
 
-**ARTICLE VIII **
+**ARTICLE VIII**
 *Bylaws*
 
-**Section 1 – General **
+**Section 1 – General**
 
 - VIII.1.1 The Assembly of Representatives may adopt or amend Bylaws not in conflict with this Constitution as may be necessary for the proper governing of the ESIP Federation.
 
-**ARTICLE IX **
+**ARTICLE IX**
 *Amendments to the Constitution*
 
-**Section 1 – Proposing Amendments **
+**Section 1 – Proposing Amendments**
 
 -   IX.1.1  Any Representative of the Assembly may propose an amendment to the Constitution of the Federation of Earth Science
 Information Partners.  
 -   IX.1.2  Proposals shall be submitted in writing to the Chair of the Constitution and Bylaws Committee at least sixty days prior to any action on the proposed amendment and must contain endorsement of not less than one-fourth of the representatives of the Assembly.  
 
-**Section 2 – Acting on Proposals **
+**Section 2 – Acting on Proposals**
 
 -   IX.2.1  The Constitution and Bylaws Committee shall review the
 proposal and render an opinion as to its relationship to the Constitution.  
@@ -186,46 +186,25 @@ circulate the proposed amendment and the opinion of the Constitution and Bylaws 
 -   IX.2.4  The vote shall be by secret ballot. If two-thirds or more of
 the entire Assembly vote in favor of the proposed amendment, it shall be adopted.  
 
-**ARTICLE X **
+**ARTICLE X**
 *Transition from WP-ESIP Federation*
 
-**Section 1 – General **
+**Section 1 – General**
 
 - X.1.1 During the transition period between the ratification of the
 Constitution and Bylaws and the first Annual Meeting of the newly formed ESIP Federation created by these Constitution and Bylaws, the transition process described in Article X will supersede the election processes described elsewhere in the Constitution and Bylaws.
 -   X.1.2  Following the initial passing of the Constitution and Bylaws
 the following persons shall occupy the following ESIP Federation positions:
-a.  Chair of WP-ESIP Federation Committee of the Whole becomes the
-        President  
+	- a.  Chair of WP-ESIP Federation Committee of the Whole becomes the President  
+	- b.  Vice-Chair of WP-ESIP Federation Committee of the Whole becomes the Vice  President  
+	- c.  Type 1 ESIP Executive Committee Representative for the WP-ESIP Federation  Committee of the Whole becomes the Category 1 Representative to the Executive  Committee.  
+	- d.  Type 2 ESIP Executive Committee Representative for the WP-ESIP Federation  Committee of the Whole becomes the Category 2 Representative to the Executive  Committee.  
+	- e.  Type 3 ESIP Executive Committee Representative for the WP-ESIPFederation  Committee of the Whole becomes the Category 3 Representative to the Executive  Committee.  
+	- f.  The NASA Representative for the WP-ESIP Federation Committee of the Whole  becomes the Category 4 Representative to the Executive Committee.  
+	- g.  Chair of WP-ESIP Federation Bylaws and Rules Sub-Committee of the Whole  becomes the Chair of the Constitution and Bylaws Administrative Committee.  
+-   X.1.3  All other Committee positions are vacant upon the ratification of this Constitution and Bylaws and will be subject to the election processes described in these Constitution and Bylaws.  
 
-    b.  Vice-Chair of WP-ESIP Federation Committee of the Whole becomes
-        the Vice  President  
+**Recorded Changes to Constitution**
 
-    c.  Type 1 ESIP Executive Committee Representative for the WP-ESIP
-        Federation  Committee of the Whole becomes the Category 1
-        Representative to the Executive  Committee.  
-
-    d.  Type 2 ESIP Executive Committee Representative for the WP-ESIP
-        Federation  Committee of the Whole becomes the Category 2
-        Representative to the Executive  Committee.  
-
-    e.  Type 3 ESIP Executive Committee Representative for the WP-ESIP
-        Federation  Committee of the Whole becomes the Category 3
-        Representative to the Executive  Committee.  
-
-    f.  The NASA Representative for the WP-ESIP Federation Committee of
-        the Whole  becomes the Category 4 Representative to the
-        Executive Committee.  
-
-    g.  Chair of WP-ESIP Federation Bylaws and Rules Sub-Committee of
-        the Whole  becomes the Chair of the Constitution and Bylaws
-        Administrative Committee.  
-
--   X.1.3  All other Committee positions are vacant upon the
-    ratification of this Constitution and Bylaws and will be subject to
-    the election processes described in these Constitution and Bylaws.  
-
-Recorded Changes to Constitution
-
-Amend Article VI, Section 2.2, November 2006 Added Article VI, Section
-2.3, November 2006
+- Amend Article VI, Section 2.2, November 2006 
+- Added Article VI, Section 2.3, November 2006
