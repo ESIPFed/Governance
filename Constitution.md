@@ -14,7 +14,7 @@ Information Partners,** hereafter called the ESIP Federation.
 **ARTICLE II**
 *Goals and Activities*
 
-**Section 1 – Goal **
+**Section 1 – Goal**
 
  - II.1.1 The goal of the ESIP Federation is to establish and continuously improve science-based end-to-end processes that increase the quality and value of Earth science products and services throughout their life-cycle for the benefit of the ESIP Federation’s stakeholder communities.
 
