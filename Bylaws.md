@@ -263,6 +263,8 @@ discovered, exchanged and integrated through the use of interoperability standar
 >
 > c\. To facilitate reference to and access to Earth system science data.
 >
+> **Section 5 – [RESERVED]**
+>
 > **Section 6: Standing Committee for Education**
 >
 > V.6.1 The ESIP Federation shall include a Standing Committee for
