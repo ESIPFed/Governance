@@ -101,7 +101,7 @@ President who shall be Representatives of the Assembly elected by secret ballot 
 -   VI.1.1  The Administrative Committees established by this Constitution are an Executive Committee, a Partnership Committee, a Finance and Appropriations Committee, and a Constitution and Bylaws Committee.  
 -   VI.1.2  Other Administrative Committees may be established by the Assembly and they shall have membership, duties, and responsibilities as specified in the Bylaws.  
 
-**Section 2 – Committee Members **
+**Section 2 – Committee Members**
 
 -   VI.2.1  The Chair of each Administrative Committee shall be a Representative to the Assembly.  
 -   VI.2.2  Chairs of each Administrative Committee shall be elected by the Assembly and serve for terms as described in the Bylaws.  
