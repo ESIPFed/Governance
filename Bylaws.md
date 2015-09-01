@@ -1,7 +1,4 @@
-> **BYLAWS**
->
-> **of the**
->
+> **BYLAWS of the**
 > **Federation of Earth Science Information Partners**
 >
 > **BYLAW I** Partnership *(Constitution Article III)*
@@ -11,9 +8,7 @@
 > I.1.1 All ESIPs shall abide by the Constitution and Bylaws.
 >
 > I.1.2 All ESIPs have the right to participate in all Standing
-> Committees and Working
->
-> Groups.
+> Committees and Working Groups.
 >
 > **Section 2 – Data and Information Distributors**
 >
