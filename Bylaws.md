@@ -79,11 +79,9 @@ resolutions put forward by Representatives through formal motions submitted in w
 Assembly, proxy votes from an alternate representative of the same
 ESIP team will be allowed. However, one Representative may not cast a proxy vote for another Representative. The presiding officer must be given the written authority for the proxy prior to roll call.
 >
-> II.2.4 Each meeting of the Assembly shall have a voting session
-provided a quorum is present as described in II.2.2.
+> II.2.4 Each meeting of the Assembly shall have a voting session provided a quorum is present as described in II.2.2.
 >
-> II.2.5 In the case of resolutions brought up during meetings of the Assembly, passing of resolutions shall be by a simple majority of
-votes cast in quorum.
+> II.2.5 In the case of resolutions brought up during meetings of the Assembly, passing of resolutions shall be by a simple majority of votes cast in quorum.
 >
 > II.2.6 Resolutions also may be passed using distance methods if the resolution receives approval by a simple majority of the entire Assembly. All elections carried out via distance methods shall include a closing date after which votes will no longer be accepted.
 >
@@ -337,40 +335,75 @@ electronic means or at a meeting of the Assembly.
 > **Change Record**
 >
 > Adopted Bylaws on 19 January 2000
+
 > Added Bylaw V; Sec. 2-4 on 21 January 2000
+
 > Added Bylaw V, Sec. 5 on 13 July 2000
+
 > Added Bylaw I, Sec 5 on 9 January 2001
+
 > Added Bylaw IV, Sec 1.5 and 1.6 on 9 January 2001
+
 > Modified Bylaw IV, Sec 5.1 and Added Sec. 5.3 on 9 January 2001
+
 > Added Bylaw V, Sec 1.7 and 1.8 on 9 January 2001
+
 > Added Bylaw VI, Sec 1.7 on 9 January 2001
+
 > Added Bylaw V, Sec 6.1 on 25 January 2002
+
 > Modified Bylaw V.4.1 to remove “suitable for education in its widest sense” to account for the creation of the Standing Committee for Education – see Bylaw V, Sec 6.1
+
 > Added Bylaw IV.5.7 and modified V.3.1 on January 14-15, 2003
->Amend Bylaw I, Section 5.3, November 2006
+
+> Amend Bylaw I, Section 5.3, November 2006
+
 > Deleted Bylaw IV, Section 2.5, November 2006 (Number held in RESERVE)
+
 > Amended Bylaw V, Section 1.2, November 2006
-> Bylaw IV, Section 2.1, November 2006
+
+> Added Bylaw IV, Section 2.1, November 2006
+
 > Added Bylaw I, Section 2.3, November 2006
+
 > Added Bylaw I, Section 3.3, November 2006
+
 > Added Bylaw I, Section 4.3, November 2006
+
 > Repealed Bylaw II, Section 2.7, January 2011
+
 > Amended Bylaw I, Section 2.1, January 2011
+
 > Repealed Bylaw I, Section 1.3, December 2011
+
 > Repealed Bylaw VI, Section 1.4, December 2011
+
 > Repealed Bylaw IV, Section 5.7, December 2011
+
 > Amended Bylaw IV, Section 1.3, December 2011
+
 > Amended Bylaw IV, Section 1.5, December 2011
+
 > Repealed Bylaw IV, Section 1.6, December 2011
+
 > Amended Bylaw V, Section 1.7, December 2011
+
 > Repealed Bylaw V, Section 1.8, December 2011
+
 > Amended Bylaw VI, Section 1.7, December 2011
+
 > Amended Bylaw II, Section 2.6, December 2011
+
 > Amended Bylaw II, Section 2.2, December 2011 (reduced quorum requirements from two-thirds to one-half)
-> Repealed Bylaw V, Section 4.1, December 2011 (removed dormant
-committee) 
->Repealed Bylaw V, Section 5.1, December 2011 (removed dormant committee) 
+
+> Repealed Bylaw V, Section 4.1, December 2011 (removed dormantcommittee) 
+
+> Repealed Bylaw V, Section 5.1, December 2011 (removed dormant committee) 
+
 > Amended Bylaw I, Section 4.1, January 2012
+
 > Added Bylaw II, Section 2.7, January 2012
+
 > Added Bylaw V, Section 4.1, January 2012
+
 > Updated April 2012
