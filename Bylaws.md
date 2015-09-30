@@ -1,5 +1,6 @@
-> **BYLAWS of the**
-> **Federation of Earth Science Information Partners**
+> # BYLAWS of the
+> # [Federation of Earth Science Information Partners] (http://esipfed.org)
+---
 >
 > **BYLAW I** 
 > Partnership *(Constitution Article III)*
