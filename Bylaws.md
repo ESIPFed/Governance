@@ -413,3 +413,4 @@ electronic means or at a meeting of the Assembly.
 > Added Bylaw V, Section 4.1, January 2012
 
 > Updated April 2012
+> Amended August 2014.. 
