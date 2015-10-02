@@ -112,16 +112,19 @@ appropriate Rules of the Federation and in disputes about procedures.
 > Officers
 > *(Constitution Article V)*
 >
-> **Section 1 – Electing Officers**
->
-> III.1.1 Candidates for President and Vice President of the ESIP Federation must be nominated by at least two other Representatives. The candidate receiving the most votes by simple majority of a secret ballot shall be elected.
->
-> III.1.2 The President and Vice President may not be from the same ESIP category.
->
-> III.1.4 The term of office for President and Vice President shall be one year.
->
-> III.1.5 No Officer may serve in the same office for more than two
-> consecutive terms.
+**Section 1 – Electing officers **
+
+III.1.1 There shall be a Nominating Committee composed of five (5) members who shall be selected by the President and approved by the Executive Committee at the second Executive Committee Meeting after the Annual Meeting.
+
+III.1.1.1 The Nominating Committee shall have at least one representative from ESIP Partnership Categories 1 through 3 as defined in Article I of these Bylaws.
+
+III.1.1.2 The Committee shall nominate one or more candidates for each elective office, to be announced to the General Assembly prior to the election, at which time additional nominations may be made.
+
+III.1.1.3 Additional nominations must be by at least two other Representatives.
+
+***Section 2 - ESIP prize nominations ***
+
+III.1.2.1 The Nominating Committee will prepare nominations for ESIP Prizes at the request of the President.
 >
 > **Section 2 – Replacing Officers**
 >
