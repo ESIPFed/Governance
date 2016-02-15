@@ -267,9 +267,23 @@ discovered, exchanged and integrated through the use of interoperability standar
 >
 > c\. To facilitate reference to and access to Earth system science data.
 >
-> **Section 5 – [RESERVED]**
+> **Section 5 - Standing Committee for Semantic Technologies**
+> 
+> V.5.1 The ESIP Federation shall include a Standing Committee for Semantic Technologies. Its roles are:
 >
-> **Section 6: Standing Committee for Education**
+> a\. To encourage and promote research and development of semantic technologies in support of Earth science data management, data discovery, data dissemination and data analysis
+>
+> b\. To collaborate with ESIP members, working groups, clusters, and standing committees to identify semantic methods and tools that support the adoption of semantic technologies within ESIP and across its member organizations.
+>
+> c\. To foster sharing and reuse of ontologies and controlled vocabularies within ESIP and its member organizations.
+>
+> d\. To provide a collaborative environment for the development of ontology-based standards and controlled vocabularies.
+>
+> e\. To maintain a long-term agenda and roadmap for integration and evaluation of semantic projects within ESIP.
+>
+> f\. To collaborate with external groups and agencies, including international organizations, on behalf of ESIP in regards to semantic technologies and furthering the aforementioned roles.
+>
+> **Section 6 - Standing Committee for Education**
 >
 > V.6.1 The ESIP Federation shall include a Standing Committee for
 Education. Its purpose is to make accessible to educators and learners at all levels in both formal and informal educational contexts the Earth science data, information, tools, and curricula available within the ESIP Federation. Its roles are:
