@@ -126,15 +126,15 @@ III.1.1.3 Additional nominations must be by at least two other Representatives.
 
 III.1.2.1 The Nominating Committee will prepare nominations for ESIP Prizes at the request of the President.
 >
-> **Section 2 – Replacing Officers**
+> **Section 3 – Replacing Officers**
 >
-> III.2.1 If the President is unable to continue in office, the Vice
+> III.3.1 If the President is unable to continue in office, the Vice
 President shall take over as President, and a special election shall be held to elect a new Vice President.
 >
-> III.2.2 In the event that both the President and Vice President are
+> III.3.2 In the event that both the President and Vice President are
 unable to continue in office, a special election shall be held as described in Bylaw III, Section 1.
 >
-> III.2.3 Any Officer may be removed from office for conduct which in
+> III.3.3 Any Officer may be removed from office for conduct which in
 any way tends to substantially injure the ESIP Federation or to affect adversely its reputation, or which is destructive to the ESIP Federation’s goals and activities. Any Representative to the Assembly may recommend removal of any Officer to the Chair of the Constitution and Bylaws Committee. The Constitution and Bylaws Committee will notify the Officer concerned and ask for comment. The Constitution and Bylaws Committee will then consider the recommendation and, if approved, will present its recommendation for removal with the comments from the concerned Officer in writing to the Assembly. The Constitution and Bylaws Committee will then petition the Representatives. If the recommendation for removal receives approval by two- thirds of the Representatives, the Officer concerned shall be declared unable to continue in office.
 >
 > **BYLAW IV** 
@@ -427,4 +427,6 @@ electronic means or at a meeting of the Assembly.
 > Added Bylaw V, Section 4.1, January 2012
 
 > Updated April 2012
-> Amended August 2014.. 
+> Amended August 2014.e
+> Added Bylaw 1, Section 7, December 2014
+> Added Bylaw V, Section 5.1, January 2016 
