@@ -423,3 +423,4 @@ Updated April 2012
 Amended August 2014.e
 Added Bylaw 1, Section 7, December 2014
 Added Bylaw V, Section 5.1, January 2016
+Added Bylaws on quorum and partner membership lapsing, August 2016
