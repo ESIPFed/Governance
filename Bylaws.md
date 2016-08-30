@@ -52,7 +52,8 @@ I.6.1 Category 5 ESIPs shall be non-voting financial or in-kind supporters of ES
 >
 Section 7 – Ending a Partnership
 >
-I.7.1 Any ESIP may leave the ESIP Federation voluntarily by submitting a letter of resignation to the Chair of the Partnership Committee. >
+I.7.1 Any ESIP may leave the ESIP Federation voluntarily by submitting a letter of resignation to the Chair of the Partnership Committee.
+>
 I.7.2 Any ESIP may be designated as Inactive by the Partnership Committee under the following conditions: 
 (1) The ESIP has not attended a General Assembly meeting, nor designated a proxy, for a period of four (4) consecutive meetings; and,
 (2)    By the discretion of the Partnership Committee for any unusual circumstances. A review of this action by the Executive Committee can be requested by the affected ESIP. In this case, a majority vote by the Executive Committee is binding.
