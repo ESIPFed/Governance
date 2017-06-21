@@ -503,7 +503,8 @@ ESIP will not compensate, whether through commissions, finders’ fees, or other
 
 ### 2.4 Umbrella non-profit and pass-through funding
 ESIP is not equipped to serve as an umbrella non-profit organization. The staff and the leadership are fully engaged in ESIP business. Staff are not available to provide oversight for pass-through funding. ESIP also accepts funding from federal agencies and needs to comply with strict auditing rules that make it more difficult for ESIP to be the funding home for external projects, even those that are led by ESIP members.
-### 2.5 Fundraising (Proposal development etc.)
+
+### 2.5 Proposal development
 Guiding Principles:
  
 All members of the Federation of Earth Science Information Partners (“Federation”) members should be provided with equal access to information on grants, contracts or any other funding opportunities that the Foundation for Earth Science (“Foundation”) discovers and/or pursues. The goal of the Foundation’s fundraising efforts is to open up  new  sources of funding and work for the Federation and its members.
