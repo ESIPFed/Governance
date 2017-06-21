@@ -977,6 +977,6 @@ The employment offer, including recommended pay rate, is approved by the ESIP Di
 ESIP hires and compensates only those foreign nationals who are permanent U.S. residents or who possess an appropriate work authorization for the position being sought.
 
 ### 4.4 Executive Director Evaluation 
-Mike will complete (look in BaseCamp)
+*Mike will complete (reportedly, this document can be found in BaseCamp)*
  
 ## Appendices:  Committee/Working Group/Cluster Best Practices and other Rules
