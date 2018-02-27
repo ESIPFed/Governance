@@ -19,13 +19,13 @@ Information Partners (ESIP)**
 
 2.  **Ethics and Conduct**
 
-    [2.1  Code of Conduct](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Code%20of%20Conduct.md)    [2.2  Conflict of Interest](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.2%20Conflict%20Of%20Interest.md)
+    [2.1  Code of Conduct](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Code%20of%20Conduct.md)
+   
+    [2.2  Conflict of Interest](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.2%20Conflict%20Of%20Interest.md)
 
     [2.3  Gift Acceptance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.3%20Gift%20Acceptance%20Policy.md)
 
      [2.4. Fundraising and Proposal Development](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.4%20Fundraising%20and%20Proposal%20Development%20Policy.md)
-
-
 
      [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
      
