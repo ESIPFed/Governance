@@ -1,8 +1,8 @@
 **Policy and Procedure 3.2 -** **Internal Control**
 ===================================================
 
-A.  Conflict of Interest - See [[Conflict of Interest
-    Policy]{.underline}](https://drive.google.com/open?id=18qD_nKQs_wGNc5oie9z3d8t2l38q1l69p93T9Lz3LZk)
+A.  Conflict of Interest - See [Conflict of Interest
+    Policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.2%20Conflict%20Of%20Interest.md)
 
 B.  Lines of Authority
 
