@@ -10,9 +10,7 @@ Section 1 \-- Amending the Policies and Procedures
 an amendment to the Policies and Procedures of ESIP.
 
 1.1.2 Proposals shall be submitted in writing (e.g., email) to the Chair
-of the
-
-Governance Committee prior to any action on the proposed amendment.
+of the Governance Committee prior to any action on the proposed amendment.
 
 ### **Part 2 -- Acting on Proposals**
 
@@ -24,7 +22,6 @@ amendment and the opinion of the Governance Committee to the Program
 Committee prior to any action on the amendment by the Program Committee.
 
 1.2.3 The proposed amendment shall be discussed either using
-
 electronic means or at a meeting (e.g., telecon) of the Program
 Committee.
 
