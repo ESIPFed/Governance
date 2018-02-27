@@ -29,8 +29,8 @@ Travel expenses incurred while on ESIP business will be paid for by the
 organization if they are reasonable, properly approved and
 well-documented. As a result, approved persons who incur such expenses
 should neither lose nor gain funds. All requests for ESIP-related travel
-should be made on the [[ESIP Travel Expense
-form]{.underline}](https://drive.google.com/open?id=1A4W-U4UEhi8dP5tX5tpUh3kloxCdpHov).
+should be made on the [ESIP Travel Expense
+form](https://drive.google.com/open?id=1A4W-U4UEhi8dP5tX5tpUh3kloxCdpHov).
 
 The ESIP Office is responsible for tracking travel expenses and travel
 reimbursement review.
@@ -209,5 +209,4 @@ Policy Document? At least review with Erin
     > travel, including registration, and anything over and above
     > covered by participant)
 
-This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
