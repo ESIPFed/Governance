@@ -119,8 +119,7 @@ F.  Expense Reimbursement
         to billing@esipfed.org. Reimbursement is made via check or EFT
         within two weeks of receipt of the reimbursement request.
 
-G.  [[Travel Expense - see policy
-    ]{.underline}](https://docs.google.com/document/d/1MTtAmOhBEUEKDrUPSkwWigIMqBHEH7XlvkTzpJnwNNg/edit)
+G.  [Travel Expense - see policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
 
 H.  Company Credit Cards
 
@@ -200,7 +199,5 @@ objectives by means of an allocation base common to all objectives which
 will share in the allocation of the pooled expenses. The basic
 classifications of indirect pools are fringe, indirect, and unallowable.
 
-This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
 
-####
