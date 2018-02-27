@@ -19,9 +19,7 @@ Information Partners (ESIP)**
 
 2.  **Ethics and Conduct**
 
-    [2.1  Code of Conduct](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Code%20of%20Conduct.md)
-
-    [2.2  Conflict of Interest](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.2%20Conflict%20Of%20Interest.md)
+    [2.1  Code of Conduct](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Code%20of%20Conduct.md)    [2.2  Conflict of Interest](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.2%20Conflict%20Of%20Interest.md)
 
     [2.3  Gift Acceptance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.3%20Gift%20Acceptance%20Policy.md)
 
@@ -61,8 +59,7 @@ Information Partners (ESIP)**
 **Appendices**:
 
 A.  Committee/Working Group/Cluster Best Practices and other Rules
-    
-    a. [Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
+    A.1 [Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://drive.google.com/open?id=0B5JaTIDjdUK5ZVFxSFM4U2VSUUU).
