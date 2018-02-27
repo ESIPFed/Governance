@@ -61,7 +61,7 @@ A.1     [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ES
 
 A. Committee, Working Group and Cluster Best Practices and Rules
 
-    [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
+   [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://drive.google.com/open?id=0B5JaTIDjdUK5ZVFxSFM4U2VSUUU).
