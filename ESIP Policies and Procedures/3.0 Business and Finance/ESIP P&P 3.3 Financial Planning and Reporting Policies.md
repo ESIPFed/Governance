@@ -31,7 +31,7 @@ A.  Budgeting Process
         iv. The Board of Directors will review and approve the budget at
             its last meeting prior to the start of the fiscal year.
 
-        v.  [[Timeline]{.underline}](https://docs.google.com/document/d/1gWkrovkyJxQngspWQ2bxcN1lb_nD2gUB9SaFfmOjC7A/edit)
+        v.  [Timeline](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3A%20FiCom%20annual%20budget%20cycle.md)
 
 B.  Internal Financial Reports 
     ---------------------------
@@ -124,9 +124,9 @@ E.  Quarterly Payroll Reports
 F.  Committee and Working Group Proposals and Budget Requests
     ---------------------------------------------------------
 
-    k.  See the [[ESIP Federation Policy on]{.underline} [ Committee and
+    k.  See the [ESIP Federation Policy on Committee and
         Working Group Proposals and Supporting Budget
-        Requests]{.underline}](https://docs.google.com/document/d/1Thl7-nMBjZJWOYuzT1OwPe-Kx1Khh4_XhvXIqMaw9Bo/edit)
+        Requests](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3F%20Federation%20Committee%20Budget%20Request%20Policy.md)
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
