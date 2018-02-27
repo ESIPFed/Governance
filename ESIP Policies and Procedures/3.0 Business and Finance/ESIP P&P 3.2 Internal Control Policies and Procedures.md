@@ -13,7 +13,7 @@ B.  Lines of Authority
 
 C.  Segregation of Duties
 
-    b.  Policy: The organization's financial duties are distributed
+    a.  Policy: The organization's financial duties are distributed
         among multiple people to help ensure protection from fraud and
         error. The distribution of duties aims for maximum protection of
         the organization's assets while also considering efficiency of
@@ -21,12 +21,10 @@ C.  Segregation of Duties
 
 D.  Physical Security
 
-    c.  Policy: The organization maintains physical security of its
+    a.  Policy: The organization maintains physical security of its
         assets to ensure that only people who are authorized have
         physical or indirect access to money and other valuable
         property.
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
-
-####
