@@ -63,7 +63,7 @@ reprisal, intimation or retaliation for good faith reports or complaints
 of incidents of discrimination of any kind, pursuing any discrimination
 claim or cooperating in related investigations (See [Whistleblower
 Protection
-Policy](https://docs.google.com/document/d/1Yqlpx2MplT4D-YLNTXtKHAlg8WlgHgNqFFnZI85T140/edit#)).
+Policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md).
 
 ESIP is committed to enforcing this policy against all forms of
 discrimination. However, the effectiveness of our efforts depends
