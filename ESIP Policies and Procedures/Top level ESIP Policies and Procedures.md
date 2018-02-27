@@ -1,4 +1,4 @@
-**Policies and Procedures for the Federation of Earth Science
+(**Policies and Procedures for the Federation of Earth Science
 Information Partners (ESIP)**
 
 **Approved by the ESIP Board, October, 2017**
@@ -45,7 +45,7 @@ Information Partners (ESIP)**
 
     [3.7 Pass-Through Funding](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.7%20Pass-Through%20Funding.md)
 
-    [3.8 Gift issuance]https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.8%20Gift%20Issuance.md)
+    [3.8 Gift issuance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.8%20Gift%20Issuance.md)
 
 4.  **Human Resources**
 
@@ -60,8 +60,7 @@ Information Partners (ESIP)**
 **Appendices**:
 
 A.  Committee/Working Group/Cluster Best Practices and other Rules
-
-    a.  Here are the [May 2017 Funding Friday Rules](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md).
+    a. [Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://drive.google.com/open?id=0B5JaTIDjdUK5ZVFxSFM4U2VSUUU).
