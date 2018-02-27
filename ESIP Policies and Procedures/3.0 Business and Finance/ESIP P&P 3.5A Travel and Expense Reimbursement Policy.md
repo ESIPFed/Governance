@@ -44,7 +44,7 @@ Expenses for commercial air travel are reimbursed on the basis of the
 actual cost incurred by the traveler using normally traveled routes in
 compliance with the 'Fly America Act'
 [http://www.gsa.gov/portal/content/103191](http://www.gsa.gov/portal/content/103191),
-and at the most economical rate (*_not_* first or business
+and at the most economical rate (**_not_** first or business
 class). A 'passenger receipt' is required for reimbursement, or in the
 case of E-tickets, the receipt provided at the time of booking. If a
 checked baggage or seat selection fee applies the receipt should also
