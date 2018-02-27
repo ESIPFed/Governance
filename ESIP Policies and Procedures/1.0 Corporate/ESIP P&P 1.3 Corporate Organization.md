@@ -1,9 +1,3 @@
----
-title: |
-    []{#_3vkipp67ukws .anchor}**Policy and Procedure 1.3 - ESIP Corporate
-    Organization**
----
-
 Section 1 -- ESIP Board of Directors
 ------------------------------------
 
