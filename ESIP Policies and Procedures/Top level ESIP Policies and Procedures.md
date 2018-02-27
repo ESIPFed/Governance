@@ -1,4 +1,4 @@
-(**Policies and Procedures for the Federation of Earth Science
+**Policies and Procedures for the Federation of Earth Science
 Information Partners (ESIP)**
 
 **Approved by the ESIP Board, October, 2017**
@@ -27,7 +27,7 @@ Information Partners (ESIP)**
 
 
 [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
-
+     
 3.  **Business and Finance**
 
     [3.1 Accounting Policies and Procedures](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.1%20Accounting%20Policies%20and%20Procedures.md)
@@ -60,7 +60,7 @@ Information Partners (ESIP)**
 
 A.  Committee/Working Group/Cluster Best Practices and other Rules
 
-A.1 [Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
+   A.1 [Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://drive.google.com/open?id=0B5JaTIDjdUK5ZVFxSFM4U2VSUUU).
