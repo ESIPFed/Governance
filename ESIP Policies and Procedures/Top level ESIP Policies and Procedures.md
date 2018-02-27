@@ -56,10 +56,8 @@ A.1     [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ES
 
     [4.4 Executive Director Evaluation](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/4.0%20Human%20Resources/ESIP%20P%26P%204.4%20Executive%20Director%20Evaluation%20Policy.md)
 
-**Appendices**:
-
-A.  Committee/Working Group/Cluster Best Practices and other Rules
-
+**Appendices**
+A. Committee, Working Group and Cluster Best Practices and Rules
     [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
