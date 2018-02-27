@@ -26,7 +26,7 @@ Information Partners (ESIP)**
     [2.4. Fundraising and Proposal Development](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.4%20Fundraising%20and%20Proposal%20Development%20Policy.md)
 
 
-    [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
+A.1     [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
      
 3.  **Business and Finance**
 
@@ -60,7 +60,7 @@ Information Partners (ESIP)**
 
 A.  Committee/Working Group/Cluster Best Practices and other Rules
 
-   A.1 [Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
+   [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://drive.google.com/open?id=0B5JaTIDjdUK5ZVFxSFM4U2VSUUU).
