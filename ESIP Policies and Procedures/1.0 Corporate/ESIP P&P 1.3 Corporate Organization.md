@@ -52,22 +52,22 @@ election, at which time additional nominations may be made.
 2.3.4 Additional nominations are encouraged, and can be made by at least
 two ESIP Member Representatives.
 
-**Part 3.2 Nominating Committee: ESIP prize nominations**
+**Part 4 Nominating Committee: ESIP prize nominations**
 
-2.3.1 The Nominating Committee will prepare nominations for ESIP Prizes
+2.4.1 The Nominating Committee will prepare nominations for ESIP Prizes
 at the request of the President.
 
-### **Part 4 -- Replacing Elected Volunteer Leaders**
+### **Part 5 -- Replacing Elected Volunteer Leaders**
 
-2.4.1 If the President is unable to continue in office, the Vice
+2.5.1 If the President is unable to continue in office, the Vice
 President shall take over as President, and a special election shall be
 held to elect a new Vice President.
 
-2.4.2 In the event that both the President and Vice President are unable
+2.5.2 In the event that both the President and Vice President are unable
 to continue in office, a special election shall be held as described in
 Policy III, Section 1.
 
-2.4.3 Any elected volunteer leader may be removed from office for
+2.5.3 Any elected volunteer leader may be removed from office for
 conduct which in any way tends to substantially injure ESIP or to affect
 adversely its reputation, or which is destructive to ESIP's goals and
 activities. Any Representative to the Assembly may recommend removal of
@@ -379,9 +379,7 @@ Representative as described in Bylaw I can vote.
 be given to all ESIPs.
 
 7.1.6 In the event that the elected Chair of a Working Group is
-
 unable to continue to execute the duties of that office, the Executive
-
 Committee shall appoint an eligible replacement to serve out the
 remainder of that term.
 
