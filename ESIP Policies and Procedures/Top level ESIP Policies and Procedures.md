@@ -12,7 +12,7 @@ Information Partners (ESIP)**
     [1.3  Corporate Organization](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md)
 
     [1.4  Policy Approval, Amendments, Administration and Compliance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.4%20Policy%20Approval%2C%20Amendments%2C%20Administration%20and%20Compliance.md)
-
+  
     [1.5  Equal Employment and Volunteer Opportunity](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.5%20Equal%20Opportunity.md)
 
     [1.6  Record Maintenance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.6%20Record%20Maintenance%20Policy.md)
@@ -26,7 +26,7 @@ Information Partners (ESIP)**
     [2.4. Fundraising and Proposal Development](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.4%20Fundraising%20and%20Proposal%20Development%20Policy.md)
 
 
-[2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
+    [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
      
 3.  **Business and Finance**
 
