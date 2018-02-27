@@ -1,41 +1,41 @@
 **Policy and Procedure 1.2 - ESIP Members and Member Organizations**
 
-> **Section 1 -- Eligibility and New Membership**
->
-> 1.1 Any entity engaged in activities pursuant to the goals and
-> objectives of ESIP shall be eligible to join. Specifically, ESIP
-> Partners Organizations (hereafter: ESIP Partners or ESIP Membership
-> Organizations) will be expected to contribute substantively to the
-> provision of improved products and services based on Earth science.
-> ESIP Partner contributions and expertise will include, but will not
-> necessarily be limited to, one or more of the following activities:
-> archiving and distributing remotely sensed and in-situ sensed data;
-> the scientific development, provision, and support of data and
-> information products and services; and the development of Earth
-> science applications. In addition, ESIP Partners may include major
-> financial or in-kind supporters of ESIP's activities.
->
-> 1.2 New ESIP Partners may be added to each ESIP category upon
-> application to the Partnership Committee, review and presentation by
-> the Partnership Committee of candidate qualifications to ESIP
-> Assembly, and upon receipt of approval by a majority vote of the
-> entire ESIP Assembly.
->
-> **Section 2 -- ESIP Partner Categories**
->
-> 2.1 There may be multiple categories of ESIP Partners, whose defining
-> characteristics are as described in the Additional Policies (below).
->
-> 2.2 Each category of ESIP Partner shall have rights and obligations
-> defined in the Additional Policies (below).
->
-> 2.3 New categories for ESIP Partners may be defined upon
-> recommendation of the Partnership Administrative Committee and upon
-> receiving approval by two-thirds of the entire ESIP Assembly.
->
-> 2.4 Existing Partnership categories may be dropped or modified upon
-> recommendation of the Partnership Committee and upon receiving
-> approval by two-thirds of the entire ESIP Assembly.
+**Section 1 -- Eligibility and New Membership**
+
+1.1 Any entity engaged in activities pursuant to the goals and
+objectives of ESIP shall be eligible to join. Specifically, ESIP
+Partners Organizations (hereafter: ESIP Partners or ESIP Membership
+Organizations) will be expected to contribute substantively to the
+provision of improved products and services based on Earth science.
+ESIP Partner contributions and expertise will include, but will not
+necessarily be limited to, one or more of the following activities:
+archiving and distributing remotely sensed and in-situ sensed data;
+the scientific development, provision, and support of data and
+information products and services; and the development of Earth
+science applications. In addition, ESIP Partners may include major
+financial or in-kind supporters of ESIP's activities.
+
+1.2 New ESIP Partners may be added to each ESIP category upon
+application to the Partnership Committee, review and presentation by
+the Partnership Committee of candidate qualifications to ESIP
+Assembly, and upon receipt of approval by a majority vote of the
+entire ESIP Assembly.
+
+**Section 2 -- ESIP Partner Categories**
+
+2.1 There may be multiple categories of ESIP Partners, whose defining
+characteristics are as described in the Additional Policies (below).
+
+2.2 Each category of ESIP Partner shall have rights and obligations
+defined in the Additional Policies (below).
+
+2.3 New categories for ESIP Partners may be defined upon
+recommendation of the Partnership Administrative Committee and upon
+receiving approval by two-thirds of the entire ESIP Assembly.
+
+2.4 Existing Partnership categories may be dropped or modified upon
+recommendation of the Partnership Committee and upon receiving
+approval by two-thirds of the entire ESIP Assembly.
 
 **Section 3 -- ESIP Partner Types Described**
 
@@ -146,8 +146,8 @@ Committee must be made.
 4.6 Any ESIP Member Organization may be removed from ESIP for conduct
 that in any way tends to substantially injure ESIP or to affect
 adversely its reputation, or that is destructive to ESIP's goals and
-activities (Ref: [[ESIP code of
-conduct]{.underline}](https://docs.google.com/document/d/1nlAeEKF9Q-mGmdb3CYMkOiCn4c4w2WXaLNB21NWW8ww/edit)).
+activities (Ref: [ESIP code of
+conduct](https://docs.google.com/document/d/1nlAeEKF9Q-mGmdb3CYMkOiCn4c4w2WXaLNB21NWW8ww/edit)).
 Any Representative to the Assembly may recommend removal of any ESIP
 Member Organization to the Chair of the Partnership Committee. The
 Partnership Committee will notify the ESIP Member Organization concerned
