@@ -40,7 +40,7 @@ Please email the ESIP Partnership Chair or Annie Burgess
 feedback.
 
 This code of conduct was based on:
-[[http://confcodeofconduct.com/]{.underline}](http://confcodeofconduct.com/)
+[http://confcodeofconduct.com/](http://confcodeofconduct.com/)
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
