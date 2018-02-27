@@ -27,7 +27,7 @@ Information Partners (ESIP)**
 
 
 
-A.1     [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
+     [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
      
 3.  **Business and Finance**
 
