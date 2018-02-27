@@ -147,7 +147,7 @@ Committee must be made.
 that in any way tends to substantially injure ESIP or to affect
 adversely its reputation, or that is destructive to ESIP's goals and
 activities (Ref: [ESIP code of
-conduct](https://docs.google.com/document/d/1nlAeEKF9Q-mGmdb3CYMkOiCn4c4w2WXaLNB21NWW8ww/edit)).
+conduct](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Code%20of%20Conduct.md).
 Any Representative to the Assembly may recommend removal of any ESIP
 Member Organization to the Chair of the Partnership Committee. The
 Partnership Committee will notify the ESIP Member Organization concerned
