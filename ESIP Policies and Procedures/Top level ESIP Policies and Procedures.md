@@ -3,7 +3,7 @@ Information Partners (ESIP)**
 
 **Approved by the ESIP Board, October, 2017**
 
-1.  **Corporate **
+1.  **Corporate**
 
     [1.1  Goals](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.1%20Goals.md)
 
@@ -61,8 +61,7 @@ Information Partners (ESIP)**
 
 A.  Committee/Working Group/Cluster Best Practices and other Rules
 
-    a.  Here are the [May 2017 Funding Friday Rules
-        draft](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md).
+    a.  Here are the [May 2017 Funding Friday Rules](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/Appendix/FUNding%20Friday%20Rules.md).
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://drive.google.com/open?id=0B5JaTIDjdUK5ZVFxSFM4U2VSUUU).
