@@ -8,7 +8,7 @@ Board.
 
 ### **Part 2** -- **Policies and Procedures and the Bylaws**
 
-Nothing in the Policies and Procedures document can supercede the ESIP
+1.2.1 Nothing in the Policies and Procedures document can supercede the ESIP
 Bylaws. Nothing in the Policies and Procedures document is meant to
 amplify or constrain ESIP Directors from their roles and
 responsibilities as outlined in the ESIP Bylaws.
