@@ -43,8 +43,8 @@ a\) **Air Travel**
 Expenses for commercial air travel are reimbursed on the basis of the
 actual cost incurred by the traveler using normally traveled routes in
 compliance with the 'Fly America Act'
-[[http://www.gsa.gov/portal/content/103191]{.underline}](http://www.gsa.gov/portal/content/103191),
-and at the most economical rate ([not]{.underline} first or business
+[http://www.gsa.gov/portal/content/103191](http://www.gsa.gov/portal/content/103191),
+and at the most economical rate (_not_ first or business
 class). A 'passenger receipt' is required for reimbursement, or in the
 case of E-tickets, the receipt provided at the time of booking. If a
 checked baggage or seat selection fee applies the receipt should also
@@ -157,8 +157,8 @@ Non-reimbursable expenses include, but are not limited to:
 -   Room service
 
 All requests for reimbursements of travel related expenses must be
-[[properly
-documented]{.underline}](https://drive.google.com/open?id=1A4W-U4UEhi8dP5tX5tpUh3kloxCdpHov)
+[properly
+documented](https://drive.google.com/open?id=1A4W-U4UEhi8dP5tX5tpUh3kloxCdpHov)
 and submitted to the ESIP Office within 30 days of the travel being
 completed. In the event of discrepancies in a reimbursement request
 (*e.g.*, an absence of original receipts, non-matching receipted and
