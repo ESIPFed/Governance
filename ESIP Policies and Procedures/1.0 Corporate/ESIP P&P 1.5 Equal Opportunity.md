@@ -61,9 +61,9 @@ corrective action taken, if appropriate.
 No one will be subject to, and ESIP prohibits, any form of discipline,
 reprisal, intimation or retaliation for good faith reports or complaints
 of incidents of discrimination of any kind, pursuing any discrimination
-claim or cooperating in related investigations (See [[Whistleblower
+claim or cooperating in related investigations (See [Whistleblower
 Protection
-Policy]{.underline}](https://docs.google.com/document/d/1Yqlpx2MplT4D-YLNTXtKHAlg8WlgHgNqFFnZI85T140/edit#)).
+Policy](https://docs.google.com/document/d/1Yqlpx2MplT4D-YLNTXtKHAlg8WlgHgNqFFnZI85T140/edit#)).
 
 ESIP is committed to enforcing this policy against all forms of
 discrimination. However, the effectiveness of our efforts depends
