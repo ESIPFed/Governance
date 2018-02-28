@@ -42,8 +42,8 @@ C.  Purchase & Procurement
         a single item should have bids from three (3) suppliers if
         possible. These bids will be reviewed by the Executive Director
         and the bid award must be specifically approved in advance by
-        the Executive Director.\
-        \
+        the Executive Director.
+        
         Due diligence must be followed for acquisitions of goods and
         services (resources), especially for procurement of resources
         that include costs for acquisition, operation, storage,
@@ -52,7 +52,7 @@ C.  Purchase & Procurement
         must be submitted at least 10 days before the resource must be
         ordered. A comparative analysis of available resources should be
         completed prior to procurement. The procurement of resources
-        that cost more than \$2000 must follow a formal bidding process
+        that cost more than $2000 must follow a formal bidding process
         to ensure that the resource is acquired at a competitive price.
 
 D.  Bill Approval & Processing 
@@ -60,7 +60,7 @@ D.  Bill Approval & Processing
 
     a.  Policy: Bills may be received by postal service or email. All
         hard copy bills received are scanned and the electronic image is
-        stored \[location\]. All bills must be approved by the Executive
+        stored [location]. All bills must be approved by the Executive
         Director. Approved bills will normally be paid within 30 days of
         receipt or as required by the agreement/bill terms. All accounts
         payable transactions must have supporting documentation adequate
@@ -126,7 +126,7 @@ H.  Company Credit Cards
     a.  Policy: A credit card provides ESIP personnel with the ability
         to effectively and efficiently make purchases in relation to the
         Board of Directors approved ESIP budget.
-        **Guidelines**
+         **Guidelines**
         1. The Board of Directors will approve the issuance of all ESIP
         credit cards.
         2. Credit cards will be issued in the name of the employee.
