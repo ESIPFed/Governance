@@ -79,8 +79,10 @@ Budget Proposals</span>
 a.  <span class="c8">ESIP c</span><span class="c3">ommunity-level
     technical solutions that ESIP partners can collectively develop and
     utilize.</span>
+    
 b.  <span class="c3">Travel support to represent an ESIP entity at a
     professional meeting.</span>
+    
 c.  <span class="c3">Short-term projects that can be sustained beyond
     the funded period.</span>
 
@@ -93,8 +95,10 @@ c.  <span class="c3">Short-term projects that can be sustained beyond
 
 a.  <span class="c3">Budget proposals will describe how each proposed
     activity will meet strategic priorities.</span>
+    
 b.  <span class="c3">Proposed activities will be mapped to specific
     strategic plan goals or objectives.</span>
+    
 c.  <span class="c3">Budget proposals will rank individual funding
     requests as Essential, Important, or Desired.</span>
 
