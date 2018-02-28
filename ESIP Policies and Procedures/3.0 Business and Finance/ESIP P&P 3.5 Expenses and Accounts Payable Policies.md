@@ -22,15 +22,15 @@ B.  Time Sheet Preparation & Approval
 
     d.  Procedures:
 
-        ii. Employees complete timesheets and submit them to their
+        i. Employees complete timesheets and submit them to their
             supervisors on the due date, based on the schedule produced
             at the beginning of the year.
 
-        iii. Supervisors review, correct if necessary, sign and submit
+        ii. Supervisors review, correct if necessary, sign and submit
             timesheets to the Finance Manager within three (3) working
             days from the timesheet due date.
 
-        iv. The Finance Manager is responsible for entering time sheet
+        iii. The Finance Manager is responsible for entering time sheet
             information into the accounting system monthly. All paid
             time off balances are maintained within the payroll system,
             based on the information provided on approved timesheets.
@@ -38,7 +38,7 @@ B.  Time Sheet Preparation & Approval
 C.  Purchase & Procurement 
     -----------------------
 
-    e.  Policy: Any expenditure in excess of \$2000 for the purchase of
+    a.  Policy: Any expenditure in excess of \$2000 for the purchase of
         a single item should have bids from three (3) suppliers if
         possible. These bids will be reviewed by the Executive Director
         and the bid award must be specifically approved in advance by
@@ -58,7 +58,7 @@ C.  Purchase & Procurement
 D.  Bill Approval & Processing 
     ---------------------------
 
-    f.  Policy: Bills may be received by postal service or email. All
+    a.  Policy: Bills may be received by postal service or email. All
         hard copy bills received are scanned and the electronic image is
         stored \[location\]. All bills must be approved by the Executive
         Director. Approved bills will normally be paid within 30 days of
@@ -68,23 +68,23 @@ D.  Bill Approval & Processing
         allocable to the grant or other cost objective (personnel,
         indirect), and comply with applicable regulations.
 
-    g.  Procedure:
+    b.  Procedure:
 
-        v.  Bills will be opened, reviewed and scanned to electronic
+        i.  Bills will be opened, reviewed and scanned to electronic
             form by the Executive Director.
 
-        vi. All goods and services purchased directly for a grant are
+        ii. All goods and services purchased directly for a grant are
             coded to the appropriate Job Name in the accounting system.
             The bills will be marked by the Executive Director or
             designee to show job, account, and class to ensure proper
             coding of costs in the accounting system.
 
-        vii. Bills are entered into the accounting system by the Finance
+        iii. Bills are entered into the accounting system by the Finance
             Manager no less than monthly, and a digital copy of the
             original bill as well as supporting documentation (receipts)
             if available will be attached thereto.
 
-        viii. Copies of all bills paid will be filed online by the
+        iv. Copies of all bills paid will be filed online by the
             finance department. After two years these documents will be
             archived but they will not be destroyed. See the Record
             Retention Policy for record disposition guidance.
@@ -92,12 +92,12 @@ D.  Bill Approval & Processing
 E.  Cash Disbursement
     -----------------
 
-    h.  Policy: Cash payments are made from the Operating Account unless
+    a.  Policy: Cash payments are made from the Operating Account unless
         Board approval is granted to use an alternative funding source.
 
-    i.  Procedure:
+    b.  Procedure:
 
-        ix. Vendors submit a request for payment electronically via
+        i. Vendors submit a request for payment electronically via
             email. Email forwards to both Executive Director and Finance
             Manager. Executive Director reviews and approves payment,
             then assigns FOC the task of entering the bill into the
@@ -112,7 +112,7 @@ E.  Cash Disbursement
 
 F.  Expense Reimbursement
 
-    j.  Policy: Staff members are reimbursed for approved travel and
+    a.  Policy: Staff members are reimbursed for approved travel and
         entertainment expenses. Staff members are asked to complete a
         record of all expenses for which they seek reimbursement and to
         submit receipts along with the expense record for reimbursement
@@ -123,32 +123,32 @@ G.  [Travel Expense - see policy](https://github.com/ESIPFed/Governance/blob/mas
 
 H.  Company Credit Cards
 
-    k.  Policy: A credit card provides ESIP personnel with the ability
+    a.  Policy: A credit card provides ESIP personnel with the ability
         to effectively and efficiently make purchases in relation to the
-        Board of Directors approved ESIP budget.\
-        Guidelines\
+        Board of Directors approved ESIP budget.
+        **Guidelines**
         1. The Board of Directors will approve the issuance of all ESIP
-        credit cards.\
-        2. Credit cards will be issued in the name of the employee.\
+        credit cards.
+        2. Credit cards will be issued in the name of the employee.
         a. Current policy authorizes one user, the ESIP Executive
-        Director.\
+        Director.
         3. For employees other than the Executive Director, the card
-        will have a credit limit of \$5,000.\
+        will have a credit limit of $5,000.
         4. The card may be used only for the purchase of goods or
-        services for official business of the ESIP.\
+        services for official business of the ESIP.
         5. All purchases will be within current budget line item
-        amounts. (See Fiscal Procedure for further details.)\
+        amounts. (See Fiscal Procedure for further details.)
         6. The person issued the card is responsible for its protection
         and custody, and shall immediately notify the credit card
-        company and Executive Director if it is lost or stolen.\
+        company and Executive Director if it is lost or stolen.
         7. The person issued the card must immediately surrender the
         card to the current Board Chair or Vice Chair when affiliation
-        with ESIP has ended.\
+        with ESIP has ended.
         8. The person using a credit card for purchases that cannot be
         substantiated as a necessary purchase for official business will
         be subject to disciplinary action
 
-    l.  Procedure: Credit card statements, along with receipts for all
+    b.  Procedure: Credit card statements, along with receipts for all
         items to be paid by the ESIP, will be reconciled on a monthly
         basis by the Financial Manager and reviewed by the Executive
         Director. Receipts must show the date, purpose, and name(s) for
