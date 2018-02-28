@@ -30,13 +30,13 @@ A.  Basis of Accounting
 
 B.  Reconciliations
 
-    c.  Policy: All bank and credit card statements will be opened and
+    a.  Policy: All bank and credit card statements will be opened and
         reviewed in a timely manner. Reconciliation and approval will
         occur within 30 days of the close of the month.
 
-    d.  Procedures:
+    b.  Procedures:
 
-        iv. Monthly statements are reviewed by the Finance Manager, who
+        i. Monthly statements are reviewed by the Finance Manager, who
             then submits them to a third party bookkeeper for
             reconciliation. The bookkeeper communicates to the Finance
             Manager any discrepancies, and reports back the results of
@@ -44,35 +44,35 @@ B.  Reconciliations
 
 C.  Security
 
-    e.  Access to online banking and credit card accounts is restricted
+    a.  Access to online banking and credit card accounts is restricted
         to the following:
 
-        v.  The Executive Director
+        i.  The Executive Director
 
-        vi. The Finance Manager
+        ii. The Finance Manager
 
-        vii. The accountant
+        iii. The accountant
 
-    f.  Access to the internal accounting system (Quickbooks) is
+    b.  Access to the internal accounting system (Quickbooks) is
         restricted to the following:
 
-        viii. The Executive Director
+        i. The Executive Director
 
-        ix. The Finance Manager
+        ii. The Finance Manager
 
-        x.  The accountant
+        iii.  The accountant
 
-        xi. The bookkeeper
+        iv. The bookkeeper
 
-        xii. External Auditor
+        v. External Auditor
 
-    g.  Only the Executive Director has the authority to approve
+    c.  Only the Executive Director has the authority to approve
         payments and sign checks, or perform online banking
         transactions, and any payments in excess of \$5,000 must be
         approved by the ESIP President in addition to the Executive
         Director.
 
-    h.  Only the Executive Director has administrative rights to
+    d.  Only the Executive Director has administrative rights to
         internal and external accounting functions, and only the
         Executive Director can add, delete, or grant permissions to the
         list of others who have access.
