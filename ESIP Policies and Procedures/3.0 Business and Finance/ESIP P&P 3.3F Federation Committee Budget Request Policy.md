@@ -1,6 +1,4 @@
-<span class="c11 c8">ESIP Federation Policy on</span>
-
-<span class="c11 c8">Committee and Working Group Proposals and
+<span class="c11 c8">ESIP Federation Policy on Committee and Working Group Proposals and
 Supporting Budget Requests</span>
 
 <span class="c9"></span>
@@ -78,12 +76,12 @@ Budget Proposals</span>
 
 <!-- end list -->
 
-1.  <span class="c8">ESIP c</span><span class="c3">ommunity-level
+a.  <span class="c8">ESIP c</span><span class="c3">ommunity-level
     technical solutions that ESIP partners can collectively develop and
     utilize.</span>
-2.  <span class="c3">Travel support to represent an ESIP entity at a
+b.  <span class="c3">Travel support to represent an ESIP entity at a
     professional meeting.</span>
-3.  <span class="c3">Short-term projects that can be sustained beyond
+c.  <span class="c3">Short-term projects that can be sustained beyond
     the funded period.</span>
 
 <span class="c0"></span>
@@ -93,11 +91,11 @@ Budget Proposals</span>
 
 <!-- end list -->
 
-1.  <span class="c3">Budget proposals will describe how each proposed
+a.  <span class="c3">Budget proposals will describe how each proposed
     activity will meet strategic priorities.</span>
-2.  <span class="c3">Proposed activities will be mapped to specific
+b.  <span class="c3">Proposed activities will be mapped to specific
     strategic plan goals or objectives.</span>
-3.  <span class="c3">Budget proposals will rank individual funding
+c.  <span class="c3">Budget proposals will rank individual funding
     requests as Essential, Important, or Desired.</span>
 
 <span class="c9"></span>
@@ -108,7 +106,7 @@ Budget Proposals</span>
 
 <!-- end list -->
 
-1.  <span class="c8">Notice of budget deliberations must be sent by the
+a.  <span class="c8">Notice of budget deliberations must be sent by the
     Committee/Working Group chair to the membership at least 14 days
     prior to such deliberations.</span>
 
@@ -122,14 +120,14 @@ Budget Proposals</span>
 
 <!-- end list -->
 
-1.  <span class="c3">Reports will be submitted semi-annually, 30 days
+a.  <span class="c3">Reports will be submitted semi-annually, 30 days
     prior to the Winter and Summer meetings.</span>
-2.  <span class="c3">Reports will document milestones, money spent, and
+b.  <span class="c3">Reports will document milestones, money spent, and
     finished products,</span>
 
 <span class="c3">as appropriate.</span>
 
-3.  <span class="c8">Report formats can vary, as long as the required
+c.  <span class="c8">Report formats can vary, as long as the required
     information is provided (e.g., committee or working group wiki page,
     blog post).</span>
 
