@@ -36,7 +36,7 @@ A.  Budgeting Process
 B.  Internal Financial Reports 
     ---------------------------
 
-    c.  Policy: The organization prepares regular financial reports on a
+    a.  Policy: The organization prepares regular financial reports on a
         monthly basis. All reports are finalized no later than 30 days
         after the close of the prior month. The organization's financial
         statements are prepared in accordance with Generally Accepted
@@ -49,19 +49,19 @@ B.  Internal Financial Reports
         are classified as unrestricted, temporarily restricted and
         permanently restricted.
 
-    d.  Procedures:
+    b.  Procedures:
 
-        vi. The Finance Manager is responsible for producing the
+        i. The Finance Manager is responsible for producing the
             following year-to-date reports within 30 days of the end of
             each month: P&L, Balance Sheet, P&L by Job, and P&L by
             Class.
 
-        vii. The Executive Director and Treasurer review financial
+        ii. The Executive Director and Treasurer review financial
             reports each month, monthly reports are available to Finance
             Committee and the Treasurer presents reports to the full
             Board of Directors on a quarterly basis.
 
-        viii. On a quarterly basis, the Executive Director prepares a
+        iii. On a quarterly basis, the Executive Director prepares a
             narrative report that summarizes the organization's current
             financial position and includes explanations for budget
             variance.
@@ -69,62 +69,62 @@ B.  Internal Financial Reports
 C.  Audit 
     ------
 
-    e.  Policy: An annual audit is required if federal expenditures are
+    a.  Policy: An annual audit is required if federal expenditures are
         above \$700,000. The audit should be completed by end of January
         following close of fiscal year.
 
-    f.  Procedure:
+    b.  Procedure:
 
-        ix. The Finance Committee oversees the audit annually and hires
+        i. The Finance Committee oversees the audit annually and hires
             the CPA firm every five years.
 
-        x.  The Executive Director oversees the external CPA firm and
+        ii.  The Executive Director oversees the external CPA firm and
             liaises between firm and staff.
 
-        xi. The audit report is presented in the first board meeting
+        iii. The audit report is presented in the first board meeting
             following the issuance of the final report. A special
             meeting may be called if the time between report issuance
             and the next meeting is greater than 30 days.
 
-        xii. A link is provided on ESIP website for current audit.
+        iv. A link is provided on ESIP website for current audit.
 
 D.  Tax Compliance
     --------------
 
-    g.  Policy: The annual Federal Form 990 is prepared by external CPA.
+    a.  Policy: The annual Federal Form 990 is prepared by external CPA.
         Federal Form 990 is filed by February 15, the year following the
         close of the fiscal year or an extension is filed.
 
-    h.  Procedure:
+    b.  Procedure:
 
-        xiii. The Executive Director is a staff liaison to the tax
+        i. The Executive Director is a staff liaison to the tax
             preparer.
 
-        xiv. The Executive Director approves the tax returns.
+        ii. The Executive Director approves the tax returns.
 
-        xv. The 990 is made available to the Board electronically.
+        iii. The 990 is made available to the Board electronically.
 
-        xvi. The 990 is made available to public through GuideStar.
+        iv. The 990 is made available to public through GuideStar.
 
 E.  Quarterly Payroll Reports 
     --------------------------
 
-    i.  Policy: ESIP outsources payroll to ADP.
+    a.  Policy: ESIP outsources payroll to ADP.
 
-    j.  Procedure:
+    b.  Procedure:
 
-        xvii. ADP prepares employee W2s by January 15 and the Executive
+        i. ADP prepares employee W2s by January 15 and the Executive
             Director ensures accuracy, timeliness and delivery to
             employees.
 
-        xviii.  ADP files quarterly payroll tax reports. The Executive
+        ii.  ADP files quarterly payroll tax reports. The Executive
             Director oversees this responsibility to ensure accuracy and
             timeliness.
 
 F.  Committee and Working Group Proposals and Budget Requests
     ---------------------------------------------------------
 
-    k.  See the [ESIP Federation Policy on Committee and
+    a.  See the [ESIP Federation Policy on Committee and
         Working Group Proposals and Supporting Budget
         Requests](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3F%20Federation%20Committee%20Budget%20Request%20Policy.md)
 
