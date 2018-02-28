@@ -731,7 +731,6 @@ ESIP on October 17, 2017. </span>
 
 <span class="c28">Created: May, 2017</span>
 
-<span class="c28">Created by: Governance Committee        Page
-</span><span class="c28"> of </span><span class="c28">  </span>
+<span class="c28">Created by: Governance Committee        
 
 </div>
