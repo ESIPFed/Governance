@@ -1,5 +1,4 @@
- # ESIP Federation Policy on Committee and Working Group Proposals and
- Supporting Budget Requests
+ ### ESIP Federation Policy on Committee and Working Group Proposals and Supporting Budget Requests
  
  The ESIP Federation makes funds available to its committees and
  working groups through an annual budget process (funds permitting).
