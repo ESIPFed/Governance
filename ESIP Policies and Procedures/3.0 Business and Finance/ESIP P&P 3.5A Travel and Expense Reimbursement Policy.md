@@ -38,7 +38,7 @@ reimbursement review.
 Actual reasonable expenses will be reimbursed subject to any limits set
 forth in these guidelines and approved budgeted travel limits.
 
-a\) **Air Travel**
+a) **Air Travel**
 
 Expenses for commercial air travel are reimbursed on the basis of the
 actual cost incurred by the traveler using normally traveled routes in
@@ -51,7 +51,7 @@ checked baggage or seat selection fee applies the receipt should also
 include details of these items. Except with prior agreement of the ESIP
 Office, change fees are not normally reimbursable.
 
-b\) **Rental Cars**
+b) **Rental Cars**
 
 Rental car use should be limited to situations where other means of
 transportation are not practical, economical or available. Travelers
@@ -62,18 +62,18 @@ traveler needs to accept the rental car company's Liability and Physical
 Damage coverage. Itemized rental car receipts are required for
 reimbursement.
 
-c\) **Bus, Train, Taxi Services**
+c) **Bus, Train, Taxi Services**
 
 A receipt should be requested to document these expenses.
 
-d\) **Personal Vehicles**
+d) **Personal Vehicles**
 
 The use of personal vehicles is discouraged, except for regional travel,
 and to and from a 'home' airport. Prior approval is required for all
 other journeys, and such personal vehicle travel shall be reimbursed in
 accordance with the GSA guidelines in effect at the time of travel.
 
-e\) **Lodging**
+e) **Lodging**
 
 In the event that there is no scheduled conference or workshop hotel,
 travelers are encouraged to book ordinary accommodations at mid-market
@@ -82,7 +82,7 @@ Reasonable efforts should be made to obtain hotel accomodations at the
 location per diem limit as stated in the GSA guidelines. Original
 itemized hotel receipts are required for reimbursement.
 
-f\) **Conference/Workshop Registration**
+f) **Conference/Workshop Registration**
 
 Original receipts or proof of registration payments are required. Prior
 approval must be obtained if the traveler wishes to attend optional
@@ -91,8 +91,7 @@ standard registration fee.
 
 \[ADD GUIDELINES FOR ESIP Meeting Registration\]
 
--   When can we waive or discount ESIP registration fee? Possible
-    > speaker categories
+-   When can we waive or discount ESIP registration fee? Possible speaker categories
 
     -   E.g., invited speaker not already affiliated with ESIP
 
@@ -104,15 +103,13 @@ standard registration fee.
 
         -   Waive fee if guest speaker just for that session (no badge)
 
-        -   Discounted rate if coming just for the day (we offer this
-            > already - \$200)
+        -   Discounted rate if coming just for the day (we offer this already - \$200)
 
-        -   Case-by-case if attending multiple days (include in travel
-            > costs - see below)
+        -   Case-by-case if attending multiple days (include in travel costs - see below)
 
         -   Waive registration if plenary level speaker (do this now)
 
-g\) **Meal Expenses**
+g) **Meal Expenses**
 
 ESIP reimburses meal and incidental expenses based on standard GSA
 per-diem rates in effect at the time of travel and according to the
@@ -121,28 +118,24 @@ workshop. Prior approval is required for business meals where additional
 professional guests are present, and reimbursement will be made on
 actual cost basis.
 
-h\) **Miscellaneous Expenses**
+h) **Miscellaneous Expenses**
 
 Miscellaneous expenses, such as charges for ground transportation and
 parking, are reimbursable upon submission of original receipts.
 
-i\) **Non-Reimbursable Expenses**
+i) **Non-Reimbursable Expenses**
 
 Non-reimbursable expenses include, but are not limited to:
 
--   Personal entertainment expenses (*e.g.*, movies, games, health club
-    > or spa)
+-   Personal entertainment expenses (*e.g.*, movies, games, health club or spa)
 
--   Optional conference activities not included in the standard
-    > conference fee, for which prior approval has not been sought
+-   Optional conference activities not included in the standard conference fee, for which prior approval has not been sought
 
--   Valet parking, unless a hotel prohibits guests from parking their
-    > own vehicles
+-   Valet parking, unless a hotel prohibits guests from parking their own vehicles
 
 -   Travel accident insurance premiums
 
--   Costs incurred by failure to cancel transportation or hotel
-    > reservations
+-   Costs incurred by failure to cancel transportation or hotel reservations
 
 -   Traffic and/or parking violation fines
 
@@ -172,18 +165,15 @@ NOTES:
 
 Policy Document? At least review with Erin
 
--   Travel requests can be included in committee budgets or special
-    > projects proposals
+-   Travel requests can be included in committee budgets or special projects proposals
 
-    -   To represent ESIP at some other group meeting - connection must
-        > be clear, ESIP must be explicitly represented
+    -   To represent ESIP at some other group meeting - connection must be clear, ESIP must be explicitly represented
 
 -   Invited speakers at committee sessions (Specific to ESIP Meetings)
 
     -   Travel to meeting if not local in area
 
-    -   When can we waive or discount ESIP registration fee? Possible
-        > speaker categories
+    -   When can we waive or discount ESIP registration fee? Possible speaker categories
 
         -   E.g., invited speaker not already affiliated with ESIP
 
@@ -193,20 +183,14 @@ Policy Document? At least review with Erin
 
         -   Recommendations
 
-            -   Waive fee if guest speaker just for that session (no
-                > badge)
+            -   Waive fee if guest speaker just for that session (no badge)
 
-            -   Discounted rate if coming just for the day (we offer
-                > this already - \$200)
+            -   Discounted rate if coming just for the day (we offer this already - $200)
 
-            -   Case-by-case if attending multiple days (include in
-                > travel costs - see below)
+            -   Case-by-case if attending multiple days (include in travel costs - see below)
 
-            -   Waive registration if plenary level speaker (do this
-                > now)
+            -   Waive registration if plenary level speaker (do this now)
 
--   Set limit on how much ESIP will pay (e.g. ESIP will cover \$2k for
-    > travel, including registration, and anything over and above
-    > covered by participant)
+-   Set limit on how much ESIP will pay (e.g. ESIP will cover \$2k for travel, including registration, and anything over and above covered by participant)
 
 This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
