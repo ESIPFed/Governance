@@ -95,21 +95,37 @@ follows:</span>
 <span class="c1"></span>
 
 A.  <span class="c1">Accounting and Finance</span>
+
 B.  <span class="c1">Contracts</span>
+
 C.  <span class="c1">Corporate Records</span>
+
 D.  <span class="c1">Correspondence and Internal Memoranda</span>
+
 E.  <span class="c1">Electronic Documents</span>
+
 F.  <span class="c1">Grant Records </span>
+
 G.  <span class="c1">Insurance Records</span>
+
 H.  <span class="c1">Legal Files and Papers</span>
+
 I.  <span class="c1">Miscellaneous</span>
+
 J. <span class="c1">Payroll Documents</span>
+
 K. <span class="c1">Pension Documents </span>
+
 L. <span class="c1">Personnel Records</span>
+
 M. <span class="c1">Property Records</span>
+
 N. <span class="c1">Tax Records</span>
+
 O. <span class="c1">Contribution Records</span>
+
 P. <span class="c1">Programs & Services Records</span>
+
 Q. <span class="c1">Fiscal Sponsor Project Records</span>
 
 <span class="c1"></span>
