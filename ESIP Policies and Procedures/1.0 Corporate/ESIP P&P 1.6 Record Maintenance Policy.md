@@ -94,29 +94,29 @@ follows:</span>
 
 <span class="c1"></span>
 
-1.  <span class="c1">Accounting and Finance</span>
-2.  <span class="c1">Contracts</span>
-3.  <span class="c1">Corporate Records</span>
-4.  <span class="c1">Correspondence and Internal Memoranda</span>
-5.  <span class="c1">Electronic Documents</span>
-6.  <span class="c1">Grant Records </span>
-7.  <span class="c1">Insurance Records</span>
-8.  <span class="c1">Legal Files and Papers</span>
-9.  <span class="c1">Miscellaneous</span>
-10. <span class="c1">Payroll Documents</span>
-11. <span class="c1">Pension Documents </span>
-12. <span class="c1">Personnel Records</span>
-13. <span class="c1">Property Records</span>
-14. <span class="c1">Tax Records</span>
-15. <span class="c1">Contribution Records</span>
-16. <span class="c1">Programs & Services Records</span>
-17. <span class="c1">Fiscal Sponsor Project Records</span>
+A.  <span class="c1">Accounting and Finance</span>
+B.  <span class="c1">Contracts</span>
+C.  <span class="c1">Corporate Records</span>
+D.  <span class="c1">Correspondence and Internal Memoranda</span>
+E.  <span class="c1">Electronic Documents</span>
+F.  <span class="c1">Grant Records </span>
+G.  <span class="c1">Insurance Records</span>
+H.  <span class="c1">Legal Files and Papers</span>
+I.  <span class="c1">Miscellaneous</span>
+J. <span class="c1">Payroll Documents</span>
+K. <span class="c1">Pension Documents </span>
+L. <span class="c1">Personnel Records</span>
+M. <span class="c1">Property Records</span>
+N. <span class="c1">Tax Records</span>
+O. <span class="c1">Contribution Records</span>
+P. <span class="c1">Programs & Services Records</span>
+Q. <span class="c1">Fiscal Sponsor Project Records</span>
 
 <span class="c1"></span>
 
 <span class="c1"></span>
 
-1.  <span class="c10">ACCOUNTING AND
+A.  <span class="c10">ACCOUNTING AND
 FINANCE</span>
 
 <span class="c1"></span>
@@ -168,7 +168,7 @@ document.</span>
 
 <span class="c1"></span>
 
-2.  <span class="c10">CONTRACTS</span>
+B.  <span class="c10">CONTRACTS</span>
 
 <span class="c1"></span>
 
@@ -196,7 +196,7 @@ document.</span>
 
 <span class="c1"></span>
 
-3.  <span class="c10">CORPORATE RECORDS
+C.  <span class="c10">CORPORATE RECORDS
 </span>
 
 <span class="c1"></span>
@@ -211,7 +211,7 @@ document.</span>
 
 <span class="c1"></span>
 
-4.  <span class="c10">CORRESPONDENCE AND INTERNAL MEMORANDA</span>
+D.  <span class="c10">CORRESPONDENCE AND INTERNAL MEMORANDA</span>
 
 <span class="c1"></span>
 
@@ -272,7 +272,7 @@ traceability.</span>
 
 <span class="c1"></span>
 
-5.  <span class="c10">ELECTRONIC
+E.  <span class="c10">ELECTRONIC
     </span><span class="c10">DOCUMENTS</span>
 
 <span class="c1"></span>
@@ -337,7 +337,7 @@ the electronic document.</span>
 
 <span class="c1"></span>
 
-6.  <span class="c10">GRANT RECORDS
+F.  <span class="c10">GRANT RECORDS
 </span>
 
 <span class="c1"></span>
@@ -432,7 +432,7 @@ the electronic document.</span>
 
 <span class="c1"></span>
 
-7.  <span class="c10">INSURANCE
+G.  <span class="c10">INSURANCE
 RECORDS</span>
 
 <span class="c1"></span>
@@ -458,7 +458,7 @@ RECORDS</span>
 
 -----
 
-8.  <span class="c10">LEGAL FILES AND
+H.  <span class="c10">LEGAL FILES AND
 PAPERS</span>
 
 <span class="c1"></span>
@@ -477,7 +477,7 @@ PAPERS</span>
 
 <span class="c1"></span>
 
-9.  <span class="c10">MISCELLANEOUS</span>
+I.  <span class="c10">MISCELLANEOUS</span>
 
 <span class="c1"></span>
 
@@ -496,7 +496,7 @@ PAPERS</span>
 
 <span class="c1"></span>
 
-10. <span class="c10">PAYROLL
+J. <span class="c10">PAYROLL
 DOCUMENTS</span>
 
 <span class="c1"></span>
@@ -519,7 +519,7 @@ DOCUMENTS</span>
 
 <span class="c1"></span>
 
-11. <span class="c10">PENSION DOCUMENTS AND SUPPORTING EMPLOYEE
+K. <span class="c10">PENSION DOCUMENTS AND SUPPORTING EMPLOYEE
     DATA</span>
 
 <span class="c1"></span>
@@ -544,7 +544,7 @@ pension.</span>
 
 <span class="c1"></span>
 
-12. <span class="c10">PERSONNEL
+L. <span class="c10">PERSONNEL
 RECORDS</span>
 
 <span class="c1"></span>
@@ -581,7 +581,7 @@ RECORDS</span>
 
 <span class="c1"></span>
 
-13. <span class="c10">TAX RECORDS</span>
+M. <span class="c10">TAX RECORDS</span>
 
 <span class="c1"></span>
 
@@ -659,7 +659,7 @@ and Related Correspondence</span></p></td>
 
 <span class="c1"></span>
 
-14. <span class="c10">CONTRIBUTION
+N. <span class="c10">CONTRIBUTION
 RECORDS</span>
 
 <span class="c1"></span>
@@ -676,7 +676,7 @@ RECORDS</span>
 
 <span class="c1"></span>
 
-15. <span class="c10">PROGRAM AND SERVICE
+O. <span class="c10">PROGRAM AND SERVICE
 RECORDS</span>
 
 <span class="c1"></span>
