@@ -232,7 +232,7 @@ categories:</span>
 
 <span class="c1"></span>
 
-2.  <span class="c35">Those pertaining to routine matters and having no
+1.  <span class="c35">Those pertaining to routine matters and having no
     significant, lasting consequences should be discarded
     </span><span class="c35 c46">within two years.
     </span><span class="c1">Some examples include:</span>
@@ -264,7 +264,7 @@ traceability.</span>
 
 <span class="c1"></span>
 
-3.  <span class="c1">Those pertaining to non-routine matters or having
+2.  <span class="c1">Those pertaining to non-routine matters or having
     significant lasting consequences should generally be retained
     permanently.</span>
 
