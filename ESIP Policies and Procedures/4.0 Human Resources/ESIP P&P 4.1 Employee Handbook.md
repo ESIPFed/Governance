@@ -171,7 +171,7 @@ appropriate.
 
 Additionally, any manager or supervisor who observes discriminatory
 conduct must report the conduct to the Executive Director or the Board
-Chaire so that an investigation can be made and corrective action taken,
+Chair so that an investigation can be made and corrective action taken,
 if appropriate.
 
 No one will be subject to, and ESIP prohibits, any form of discipline,
@@ -280,7 +280,7 @@ as-needed basis.
 **Inactive Employee**
 
 An employee who is on a leave of absence and is not receiving pay from
-[ESIP .]{.smallcaps}
+ESIP.
 
 **POSITION DESCRIPTIONS**
 
@@ -431,11 +431,9 @@ Sick leave may be taken when:
 
 1.  An employee is incapacitated by sickness, injury or confinement.
 
-2.  An employee is receiving medical, dental or optical examination or
-    > treatment.
+2.  An employee is receiving medical, dental or optical examination or treatment.
 
-3.  An employee would jeopardize the health of others by his or her
-    > presence in the office.
+3.  An employee would jeopardize the health of others by his or her presence in the office.
 
 4.  An employee is authorized maternity or paternity leave.
 
@@ -451,9 +449,7 @@ accomplished in a timely manner using the ESIP Leave Request Form.
 **Payment**
 
 We do not offer pay in lieu of use of accrued sick time, and staff
-members
-
-do not receive payment for accrued sick time when they leave our employ.
+members do not receive payment for accrued sick time when they leave our employ.
 
 **MATERNITY/PATERNITY LEAVE**
 
@@ -864,7 +860,7 @@ complaint and notify the staff member, in writing, of her/his decision
 within a reasonable amount of time.
 
 As a last resort, a staff member may take her/his complaint to the Board
-of Directors. The Board\'s decision constitutes the agency's final word
+of Directors. The Board's decision constitutes the agency's final word
 on the matter.
 
 **CONFLICT OF INTEREST**
