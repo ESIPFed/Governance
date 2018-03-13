@@ -3,7 +3,7 @@ Section 1 -- ESIP Board of Directors
 
 ### **Part 1** -- **ESIP Bylaws**
 
-1.1.1 [ESIP Bylaws](http://wiki.esipfed.org/images/a/a4/Bylaws_1_05_12_FINAL.pdf) describe duties and responsibilities of the ESIP
+1.1.1 [ESIP Bylaws](https://esip-all.slack.com/files/brucec/F45FXBN1Y/amended_and_restated_bylaws_of_fesip__12-02-16_.pdf) describe duties and responsibilities of the ESIP
 Board.
 
 ### **Part 2** -- **Policies and Procedures and the Bylaws**
