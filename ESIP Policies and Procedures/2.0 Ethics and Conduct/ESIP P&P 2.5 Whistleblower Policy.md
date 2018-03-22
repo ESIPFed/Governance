@@ -1,13 +1,13 @@
 **Policy and Procedure 2.5 - Whistleblower**
 ============================================
 
-A. [Application]{.underline}. This Whistleblower Protection Policy
+A. **Application**. This Whistleblower Protection Policy
 applies to all of ESIP\'s staff, whether full-time, part-time, or
 temporary employees, to all volunteers, to all who provide contract
 services, and to all officers and directors, each of whom shall be
 entitled to protection.
 
-B. [Reporting Credible Information]{.underline}. A protected person
+B. **Reporting Credible Information**. A protected person
 shall be encouraged to report information relating to illegal practices
 or violations of policies of ESIP (a "Violation") that such person in
 good faith has reasonable cause to believe is credible. Information
@@ -20,7 +20,7 @@ Anyone reporting a Violation must act in good faith, and have reasonable
 grounds for believing that the information shared in the report
 indicates that a Violation has occurred.
 
-C. [Investigating Information]{.underline}. The Compliance Officer shall
+C. **Investigating Information**. The Compliance Officer shall
 promptly investigate each such report and prepare a written report to
 the Board of Directors. In connection with such investigation all
 persons entitled to protection shall provide the Compliance Officer with
@@ -28,20 +28,20 @@ credible information. All actions of the Compliance Officer in receiving
 and investigating the report and additional information shall endeavor
 to protect the confidentiality of all persons entitled to protection.
 
-D. [Confidentiality]{.underline}
+D. **Confidentiality**
 
 ESIP encourages anyone reporting a Violation to identify himself or
 herself when making a report in order to facilitate the investigation of
 the Violation. However, reports may be submitted anonymously by filling
 out a "Whistleblower Reporting Form
-([[http://www.surveygizmo.com/s3/3661985/ESIP-Whistle-Blower-Complaint-Form]{.underline}](http://www.surveygizmo.com/s3/3661985/ESIP-Whistle-Blower-Complaint-Form))"
+[http://www.surveygizmo.com/s3/3661985/ESIP-Whistle-Blower-Complaint-Form](http://www.surveygizmo.com/s3/3661985/ESIP-Whistle-Blower-Complaint-Form)"
 and submitting it to Compliance Officer electronically. Reports of
 Violations or suspected Violations will be kept confidential to the
 extent possible, with the understanding that confidentiality may not be
 maintained where identification is required by law or in order to enable
 ESIP or law enforcement to conduct an adequate investigation.
 
-E. [Protection from Retaliation]{.underline}. No person entitled to
+E. **Protection from Retaliation**. No person entitled to
 protection shall be subjected to retaliation, intimidation, harassment,
 or other adverse action for reporting information in accordance with
 this Policy. Any person entitled to protection who believes that he or
@@ -54,7 +54,7 @@ has reported a Violation in good faith or who, in good faith, has
 cooperated in the investigation of a Violation is subject to discipline,
 including termination of employment or volunteer status.
 
-F. [Dissemination and Implementation of Policy]{.underline}. This Policy
+F. **Dissemination and Implementation of Policy**. This Policy
 shall be disseminated in writing to all affected constituencies. ESIP
 shall adopt procedures for implementation of this Policy, which may
 include:
@@ -84,9 +84,7 @@ extent consistent with any privacy or confidentiality limitations.
 *Adapted from: Legal guidance on whistleblower policies and a sample
 whistleblower policy (available through Public Counsel Law Center) - See
 more at:
-[[https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits\#sthash.Yx13W1Ir.dpuf]{.underline}](https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits#sthash.Yx13W1Ir.dpuf)*
+[https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits\#sthash.Yx13W1Ir.dpuf](https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits#sthash.Yx13W1Ir.dpuf)
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
-
-####
