@@ -44,7 +44,7 @@ b.  Procedures:
 
 #### B.  Revenue Recognition 
 
-##### c.  Policy: All contributions will be recorded in accordance with
+c.  Policy: All contributions will be recorded in accordance with
         GAAP, with specific attention to standards FASB 116 and 117.
         Contributions are recorded as pledged or received in accordance
         with FASB 116, and must be credited to the appropriate revenue
