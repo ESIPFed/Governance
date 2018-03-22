@@ -29,7 +29,8 @@ A.  Budgeting Process
         iv. The Board of Directors will review and approve the budget at
             its last meeting prior to the start of the fiscal year.
 
-        v.  [Timeline](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3A%20FiCom%20annual%20budget%20cycle.md)
+        v.  [Timeline]
+        (https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3A%20FiCom%20annual%20budget%20cycle.md)
 
 B.  Internal Financial Reports
 
