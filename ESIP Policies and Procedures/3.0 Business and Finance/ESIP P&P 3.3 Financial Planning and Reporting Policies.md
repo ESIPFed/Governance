@@ -1,8 +1,6 @@
 **Policy and Procedure 3.3 -- Financial Planning and Reporting**
-================================================================
 
 A.  Budgeting Process 
-    ------------------
 
     a.  Policy: The organization's annual budget is prepared and
         approved annually for the organization. The budget is prepared
@@ -33,8 +31,7 @@ A.  Budgeting Process
 
         v.  [Timeline](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3A%20FiCom%20annual%20budget%20cycle.md)
 
-B.  Internal Financial Reports 
-    ---------------------------
+B.  Internal Financial Reports
 
     a.  Policy: The organization prepares regular financial reports on a
         monthly basis. All reports are finalized no later than 30 days
@@ -66,8 +63,7 @@ B.  Internal Financial Reports
             financial position and includes explanations for budget
             variance.
 
-C.  Audit 
-    ------
+C.  Audit
 
     a.  Policy: An annual audit is required if federal expenditures are
         above \$700,000. The audit should be completed by end of January
@@ -89,7 +85,6 @@ C.  Audit
         iv. A link is provided on ESIP website for current audit.
 
 D.  Tax Compliance
-    --------------
 
     a.  Policy: The annual Federal Form 990 is prepared by external CPA.
         Federal Form 990 is filed by February 15, the year following the
@@ -107,7 +102,6 @@ D.  Tax Compliance
         iv. The 990 is made available to public through GuideStar.
 
 E.  Quarterly Payroll Reports 
-    --------------------------
 
     a.  Policy: ESIP outsources payroll to ADP.
 
@@ -122,7 +116,6 @@ E.  Quarterly Payroll Reports
             timeliness.
 
 F.  Committee and Working Group Proposals and Budget Requests
-    ---------------------------------------------------------
 
     a.  See the 
     [ESIP Federation Policy on Committee and
@@ -132,5 +125,3 @@ F.  Committee and Working Group Proposals and Budget Requests
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
-
-####
