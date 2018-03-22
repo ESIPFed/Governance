@@ -1,5 +1,4 @@
 **Policy and Procedure 3.1 - Accounting**
-=========================================
 
 A.  Basis of Accounting
 
@@ -68,7 +67,7 @@ C.  Security
 
     c.  Only the Executive Director has the authority to approve
         payments and sign checks, or perform online banking
-        transactions, and any payments in excess of \$5,000 must be
+        transactions, and any payments in excess of $5,000 must be
         approved by the ESIP President in addition to the Executive
         Director.
 
@@ -79,5 +78,3 @@ C.  Security
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
-
-####
