@@ -1,8 +1,6 @@
 **Policy and Procedure 3.6 - Asset Management**
-===============================================
 
-A.  Cash Management & Investments 
-    ------------------------------
+#### A.  Cash Management & Investments 
 
     a.  Policy: The Executive Director administers the investment
         accounts.
@@ -15,11 +13,10 @@ A.  Cash Management & Investments
         ii. Executive Director obtains Board Chair approval to make
             transfers from interest for restricted purposes.
 
-B.  Capital Equipment
-    -----------------
+#### B.  Capital Equipment
 
     a.  Policy: All property that has been acquired or created by ESIP,
-        which has a current value of \$500.00 or more and a useful life
+        which has a current value of $500.00 or more and a useful life
         greater than one year must be described in the current inventory
         of property, which must include an ESIP Property Identification
         Number (PIN). When practical, the PIN will be permanently
@@ -29,8 +26,7 @@ B.  Capital Equipment
         Property that has been acquired directly for a grant will be
         expensed to the grant and will not be capitalized.
 
-C.  Employee Retirement Accounts 
-    -----------------------------
+#### C.  Employee Retirement Accounts 
 
     a.  Policy: ESIP offers a 403(b) plan to employees held at Vanguard.
         ESIP will provide matching contribution of up to 5% of salary
@@ -45,8 +41,7 @@ C.  Employee Retirement Accounts
         ii. ADP withholds employee contribution and Executive Director
             makes company contributions by 3rd of the month.
 
-D.  Operating Reserve 
-    ------------------
+#### D.  Operating Reserve
 
     a.  Policy: The target minimum operating reserve fund for the
         organization is three (3) months of average operating costs. The
