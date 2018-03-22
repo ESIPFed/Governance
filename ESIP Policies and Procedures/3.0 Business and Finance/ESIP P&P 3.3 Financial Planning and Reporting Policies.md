@@ -1,6 +1,6 @@
 **Policy and Procedure 3.3 -- Financial Planning and Reporting**
 
-### A.  Budgeting Process 
+##### A.  Budgeting Process 
 
  a.  Policy: The organization's annual budget is prepared and
         approved annually for the organization. The budget is prepared
@@ -12,7 +12,7 @@
 
  b.  Procedures:
 
-⋅⋅⋅i.  The Executive Director will work together with the staff,
+   i.  The Executive Director will work together with the staff,
             and ESIP leadership to ensure that the annual budget is an
             accurate reflection of programmatic and infrastructure goals
             for the coming year.
@@ -31,7 +31,7 @@
 
    v. [Timeline](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3A%20FiCom%20annual%20budget%20cycle.md)
 
-B.  Internal Financial Reports
+##### B.  Internal Financial Reports
 
   a.  Policy: The organization prepares regular financial reports on a
         monthly basis. All reports are finalized no later than 30 days
@@ -63,7 +63,7 @@ B.  Internal Financial Reports
             financial position and includes explanations for budget
             variance.
 
-C.  Audit
+##### C.  Audit
 
   a.  Policy: An annual audit is required if federal expenditures are
         above $700,000. The audit should be completed by end of January
@@ -84,7 +84,7 @@ C.  Audit
 
    iv. A link is provided on ESIP website for current audit.
 
-D.  Tax Compliance
+##### D.  Tax Compliance
 
   a.  Policy: The annual Federal Form 990 is prepared by external CPA.
         Federal Form 990 is filed by February 15, the year following the
@@ -101,7 +101,7 @@ D.  Tax Compliance
 
    iv. The 990 is made available to public through GuideStar.
 
-E.  Quarterly Payroll Reports 
+##### E.  Quarterly Payroll Reports 
 
   a.  Policy: ESIP outsources payroll to ADP.
 
@@ -115,7 +115,7 @@ E.  Quarterly Payroll Reports
             Director oversees this responsibility to ensure accuracy and
             timeliness.
 
-F.  Committee and Working Group Proposals and Budget Requests
+##### F.  Committee and Working Group Proposals and Budget Requests
 
   a.  See the [ESIP Federation Policy on Committee and Working Group Proposals and Supporting Budget Requests](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3F%20Federation%20Committee%20Budget%20Request%20Policy.md)
     
