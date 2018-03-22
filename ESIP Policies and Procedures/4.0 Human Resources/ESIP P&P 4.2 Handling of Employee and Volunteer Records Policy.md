@@ -82,7 +82,7 @@ sensitive personal information, may not be accessed or released, except
 as permitted by the handling of employee and volunteer records policy.
 
 Disposal of employee and volunteer personal records shall comply with
-the ESIP Policy and Procedure 1-6: Record Maintenance.
+[ESIP Policy and Procedure 1-6: Record Maintenance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.6%20Record%20Maintenance%20Policy.md).
 
 Employment verification and income verification for current or former
 employees will be provided by ESIP and/or its agents to banks or other
