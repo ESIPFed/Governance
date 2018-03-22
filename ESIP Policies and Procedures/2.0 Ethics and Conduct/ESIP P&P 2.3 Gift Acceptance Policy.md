@@ -37,7 +37,7 @@ know.
 ESIP will not compensate, whether through commissions, finders' fees, or
 other means, any third party for directing a gift or a donor to ESIP.
 
-#### Adapted from: [[https://www.councilofnonprofits.org/tools-resources/gift-acceptance-policies]{.underline}](https://www.councilofnonprofits.org/tools-resources/gift-acceptance-policies)
+#### Adapted from: [https://www.councilofnonprofits.org/tools-resources/gift-acceptance-policies](https://www.councilofnonprofits.org/tools-resources/gift-acceptance-policies)
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
