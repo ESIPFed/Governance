@@ -1,8 +1,7 @@
 **Policy and Procedure 3.5 - Expense and Accounts Payable**
 ===========================================================
 
-A.  Payroll 
-    --------
+#### A.  Payroll
 
     a.  Policy: We pay staff members on the last day of the month. If
         the payday falls on a holiday, staff members will be paid on the
@@ -13,8 +12,7 @@ A.  Payroll
         i.  The Executive Director processes payroll through ADP and
             monitors the relationship with ADP.
 
-B.  Time Sheet Preparation & Approval
-    ---------------------------------
+#### B.  Time Sheet Preparation & Approval
 
     c.  Policy: All staff members must complete a timesheet for each pay
         period. All staff members should record actual hours worked plus
@@ -35,10 +33,9 @@ B.  Time Sheet Preparation & Approval
             time off balances are maintained within the payroll system,
             based on the information provided on approved timesheets.
 
-C.  Purchase & Procurement 
-    -----------------------
+#### C.  Purchase & Procurement 
 
-    a.  Policy: Any expenditure in excess of \$2000 for the purchase of
+    a.  Policy: Any expenditure in excess of $2000 for the purchase of
         a single item should have bids from three (3) suppliers if
         possible. These bids will be reviewed by the Executive Director
         and the bid award must be specifically approved in advance by
@@ -55,12 +52,11 @@ C.  Purchase & Procurement
         that cost more than $2000 must follow a formal bidding process
         to ensure that the resource is acquired at a competitive price.
 
-D.  Bill Approval & Processing 
-    ---------------------------
+#### D.  Bill Approval & Processing 
 
     a.  Policy: Bills may be received by postal service or email. All
         hard copy bills received are scanned and the electronic image is
-        stored [location]. All bills must be approved by the Executive
+        stored. All bills must be approved by the Executive
         Director. Approved bills will normally be paid within 30 days of
         receipt or as required by the agreement/bill terms. All accounts
         payable transactions must have supporting documentation adequate
@@ -89,8 +85,7 @@ D.  Bill Approval & Processing
             archived but they will not be destroyed. See the Record
             Retention Policy for record disposition guidance.
 
-E.  Cash Disbursement
-    -----------------
+#### E.  Cash Disbursement
 
     a.  Policy: Cash payments are made from the Operating Account unless
         Board approval is granted to use an alternative funding source.
@@ -110,7 +105,7 @@ E.  Cash Disbursement
             and pays selected bills by printing checks, signing and
             mailing.
 
-F.  Expense Reimbursement
+#### F.  Expense Reimbursement
 
     a.  Policy: Staff members are reimbursed for approved travel and
         entertainment expenses. Staff members are asked to complete a
@@ -119,9 +114,9 @@ F.  Expense Reimbursement
         to billing@esipfed.org. Reimbursement is made via check or EFT
         within two weeks of receipt of the reimbursement request.
 
-G.  [Travel Expense - see policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
+#### G.  [Travel Expense - see policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
 
-H.  Company Credit Cards
+#### H.  Company Credit Cards
 
     a.  Policy: A credit card provides ESIP personnel with the ability
         to effectively and efficiently make purchases in relation to the
@@ -156,7 +151,7 @@ H.  Company Credit Cards
         will be reviewed at least quarterly by the Treasurer for
         accuracy.
 
-I.  Expense Allocation
+#### I.  Expense Allocation
 
 All cost items (labor, travel and other direct costs) which are incurred
 specifically for the performance of a particular grant or similar cost
