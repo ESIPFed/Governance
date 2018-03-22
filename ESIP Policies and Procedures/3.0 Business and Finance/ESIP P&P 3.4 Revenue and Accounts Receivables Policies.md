@@ -13,7 +13,7 @@ a.  Policy: All grants and sponsors are invoiced each month, or as
 
 b.  Procedures:
 
-&nbsp;&nbsp;&nbsp;i.  The Finance Manager gathers relevant expense documentation,
+    i.  The Finance Manager gathers relevant expense documentation,
             prepares all invoices, and submits to the Executive Director
             for approval by the 10th of each month.
 
