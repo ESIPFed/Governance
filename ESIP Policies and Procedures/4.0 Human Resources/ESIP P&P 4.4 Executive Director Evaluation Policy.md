@@ -1,8 +1,6 @@
-**Policy and Procedure 4.4 - Executive Director Evaluation **
-=============================================================
+### Policy and Procedure 4.4 - Executive Director Evaluation
 
-Executive Director Evaluation 
-------------------------------
+#### Executive Director Evaluation 
 
 a.  Policy: An assessment of Executive Director's performance shall be
     carried out by the ESIP Board of Directors annually.
