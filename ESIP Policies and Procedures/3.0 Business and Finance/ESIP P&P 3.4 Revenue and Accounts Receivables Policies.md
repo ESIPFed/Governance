@@ -7,15 +7,15 @@ a.  Policy: All grants and sponsors are invoiced each month, or as
         required by the agreement, to capture all billable time and
         expenses and ensure a regular healthy cash flow for the
         organization. All invoices for the prior month are completed by
-        the 15th of the following month (ex: June 15^th^ for May).
+        the 15th of the following month (ex: June 15th for May).
         Invoices are based on costs recorded in the accounting system
         and any indirects allowed by the agreement.
 
 b.  Procedures:
 
-   i.  The Finance Manager gathers relevant expense documentation,
+&nbsp;&nbsp;&nbsp;i.  The Finance Manager gathers relevant expense documentation,
             prepares all invoices, and submits to the Executive Director
-            for approval by the 10^th^ of each month.
+            for approval by the 10th of each month.
 
    ii. Following approval, the Finance Manager electronic invoice
             is emailed or mailed and saved in a network folder.
@@ -32,7 +32,7 @@ b.  Procedures:
    v.  The Executive Director determines appropriate collection
             efforts for long outstanding invoices. The Executive
             Director is also notified of any receivables that are more
-            than 90 days outstanding and/or more than \$5000.
+            than 90 days outstanding and/or more than $5000.
 
    vi. If an overpayment from a government customer has been
             identified, the government customer will be notified and
@@ -54,7 +54,7 @@ c.  Policy: All contributions will be recorded in accordance with
 d.  Procedures:
 
    vii. The Executive Director reviews all revenue in excess of
-            \$5,000 and indicates on the letter or copy of the check how
+            $5,000 and indicates on the letter or copy of the check how
             the revenue shall be recognized (as earned/contributed,
             conditional/unconditional and restricted/unrestricted). If
             there is a question or uncertainty about how to recognize a
