@@ -2,7 +2,7 @@
 
 A.  **Pass-Through Policy**
 
-    a.  Policy: ESIP is not equipped to serve as an umbrella non-profit
+ESIP is not equipped to serve as an umbrella non-profit
         organization. The staff and the leadership are fully engaged in
         ESIP business. Staff are not available to provide oversight for
         pass-through funding. ESIP also accepts funding from federal
