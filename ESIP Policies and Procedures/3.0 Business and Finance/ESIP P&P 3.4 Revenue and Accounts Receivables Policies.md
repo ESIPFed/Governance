@@ -3,7 +3,7 @@
 
 #### A.  Invoice Preparation
 
-a.  Policy: All grants and sponsors are invoiced each month, or as
+##### a.  Policy: All grants and sponsors are invoiced each month, or as
         required by the agreement, to capture all billable time and
         expenses and ensure a regular healthy cash flow for the
         organization. All invoices for the prior month are completed by
@@ -11,9 +11,9 @@ a.  Policy: All grants and sponsors are invoiced each month, or as
         Invoices are based on costs recorded in the accounting system
         and any indirects allowed by the agreement.
 
-b.  Procedures:
+##### b.  Procedures:
 
-    i.  The Finance Manager gathers relevant expense documentation,
+   i.  The Finance Manager gathers relevant expense documentation,
             prepares all invoices, and submits to the Executive Director
             for approval by the 10th of each month.
 
@@ -44,14 +44,14 @@ b.  Procedures:
 
 #### B.  Revenue Recognition 
 
-c.  Policy: All contributions will be recorded in accordance with
+##### c.  Policy: All contributions will be recorded in accordance with
         GAAP, with specific attention to standards FASB 116 and 117.
         Contributions are recorded as pledged or received in accordance
         with FASB 116, and must be credited to the appropriate revenue
         lines as presented in the annual budget and coded as designated
         in the organization's Chart of Accounts.
 
-d.  Procedures:
+##### d.  Procedures:
 
    vii. The Executive Director reviews all revenue in excess of
             $5,000 and indicates on the letter or copy of the check how
@@ -68,13 +68,13 @@ d.  Procedures:
 
 #### C.  Cash Receipts 
 
-e.  Policy: Most incremental payments from grants are electronically
+##### e.  Policy: Most incremental payments from grants are electronically
         deposited into a designated ESIP bank account. Monies received
         by other means may be deposited physically or electronically. No
         single deposit account will contain an amount over which the
         FDIC will insure.
 
-f.  Procedure:
+##### f.  Procedure:
 
    ix. The Executive Director receives and opens all mail.
 
