@@ -84,7 +84,7 @@ extent consistent with any privacy or confidentiality limitations.
 *Adapted from: Legal guidance on whistleblower policies and a sample
 whistleblower policy (available through Public Counsel Law Center) - See
 more at:
-[https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits\#sthash.Yx13W1Ir.dpuf](https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits#sthash.Yx13W1Ir.dpuf)
+[https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits\#sthash.Yx13W1Ir.dpuf](https://www.councilofnonprofits.org/tools-resources/whistleblower-protections-nonprofits#sthash.Yx13W1Ir.dpuf)*
 
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
