@@ -742,11 +742,3 @@ RECORDS</span>
 
 <span class="c51">This Policy was approved by the Board of Directors of
 ESIP on October 17, 2017. </span>
-
-<div>
-
-<span class="c28">Created: May, 2017</span>
-
-<span class="c28">Created by: Governance Committee        
-
-</div>
