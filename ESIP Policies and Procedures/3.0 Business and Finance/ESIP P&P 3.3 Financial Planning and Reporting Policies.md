@@ -1,6 +1,6 @@
 **Policy and Procedure 3.3 -- Financial Planning and Reporting**
 
-###A.  Budgeting Process 
+### A.  Budgeting Process 
 
  a.  Policy: The organization's annual budget is prepared and
         approved annually for the organization. The budget is prepared
@@ -12,7 +12,7 @@
 
  b.  Procedures:
 
-  ⋅⋅⋅i.  The Executive Director will work together with the staff,
+⋅⋅⋅i.  The Executive Director will work together with the staff,
             and ESIP leadership to ensure that the annual budget is an
             accurate reflection of programmatic and infrastructure goals
             for the coming year.
