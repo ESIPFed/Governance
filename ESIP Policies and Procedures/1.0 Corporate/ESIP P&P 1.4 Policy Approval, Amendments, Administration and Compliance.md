@@ -28,5 +28,4 @@ electronic means or at a meeting (e.g., telecon) of the Board.
 any official telecon. The Chair of the Governance Committee will then
 commit the changes to the document.
 
-This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+This Policy was revised on May 14, 2018.
