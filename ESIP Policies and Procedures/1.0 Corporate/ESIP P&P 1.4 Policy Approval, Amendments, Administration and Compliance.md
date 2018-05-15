@@ -18,14 +18,13 @@ of the Governance Committee prior to any action on the proposed amendment.
 opinion as to its relationship to the existing Policies and Procedures.
 
 1.2.2 The Chair of the Governance Committee shall announce the proposed
-amendment and the opinion of the Governance Committee to the Program
-Committee prior to any action on the amendment by the Program Committee.
+amendment and the opinion of the Governance Committee to the Board
+prior to any action on the amendment by the Board.
 
 1.2.3 The proposed amendment shall be discussed either using
-electronic means or at a meeting (e.g., telecon) of the Program
-Committee.
+electronic means or at a meeting (e.g., telecon) of the Board.
 
-1.2.4 The vote shall be by a simple majority of the Program Committee on
+1.2.4 The vote shall be by a simple majority of the Board on
 any official telecon. The Chair of the Governance Committee will then
 commit the changes to the document.
 
