@@ -42,8 +42,11 @@ who shall be selected by the President and approved by the Board at the
 second Board Meeting after the Annual Meeting.
 
 2.3.2 The Nominating Committee shall have at least one representative
-from ESIP Partnership Categories 1 through 3 as defined in [Policy and Procedure 1.3
-Section 3](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Members%20and%20Member%20Organizations.md) of these Policies and Procedures.
+from ESIP Partnership Types 1 through 3 as defined in [Policy and Procedure 1.3
+Section 3](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Members%20and%20Member%20Organizations.md) of these Policies and Procedures. One of the
+Nominating Committee members shall be an Early Career member, defined as a
+person no later than five years beyond their most recent degree, and one
+other member who may be external to ESIP.
 
 2.3.3 The Committee shall nominate one or more candidates for each
 elective office, to be announced to the General Assembly prior to the
@@ -392,5 +395,4 @@ Section 8 -- Clusters
 reporting the name and activities of the Cluster to the Vice President
 of the Assembly.
 
-This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+This Policy was revised by the ESIP Board on July 16, 2018.
