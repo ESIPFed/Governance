@@ -1,5 +1,5 @@
 ---
-FUNding Friday Rules'
+FUNding Friday Rules
 ---
 
 Summer 2017
