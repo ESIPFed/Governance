@@ -1,5 +1,5 @@
 ---
-title: '[]{#_3azdcc1emzr9 .anchor}FUNding Friday Rules'
+FUNding Friday Rules'
 ---
 
 Summer 2017
