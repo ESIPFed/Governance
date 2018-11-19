@@ -19,7 +19,7 @@ Information Partners (ESIP)**
 
     [1.7  Endorsements](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.7%20Endorsements.md)
 
-    [1.8  Use of the ESIP Logo](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.8%20Use %02of%20the%20ESIP%20Logo.md)
+    [1.8  Use of the ESIP Logo](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.8%20Use %20of%20the%20ESIP%20Logo.md)
 
 2.  **Ethics and Conduct**
 
