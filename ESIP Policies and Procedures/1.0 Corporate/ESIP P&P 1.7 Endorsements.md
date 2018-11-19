@@ -41,15 +41,15 @@ Endorsements website.
 
 1.7.3 Removing an Endorsement
 
-ESIP volunteer leadership, as defined in [[Policy and Procedure 1.3,
+ESIP volunteer leadership, as defined in [Policy and Procedure 1.3,
 section 2 part
-1]{.underline}](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md),
+1(https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md),
 can request that an endorsement be removed by a majority vote of the
 Assembly if it is found to be inappropriate or out of date.
 
 This policy was approved by the ESIP Board on October 23, 2018.
 
-See also [[the ESIP Endorsement Decision
-tree]{.underline}](https://docs.google.com/drawings/d/1pQBOH-WTo8SAfpvsXOIWP3oSlbPQCX8Xw9Up39ykJZg/edit)
-and a [[list of prior endorsements (Assembly Adopted
-tab)]{.underline}](https://www.esipfed.org/esip-outputs-list).
+See also [the ESIP Endorsement Decision
+tree](https://docs.google.com/drawings/d/1pQBOH-WTo8SAfpvsXOIWP3oSlbPQCX8Xw9Up39ykJZg/edit)
+and a [list of prior endorsements (Assembly Adopted
+tab)](https://www.esipfed.org/esip-outputs-list).
