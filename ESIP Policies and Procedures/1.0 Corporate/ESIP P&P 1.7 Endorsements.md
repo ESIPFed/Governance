@@ -43,7 +43,7 @@ Endorsements website.
 
 ESIP volunteer leadership, as defined in [Policy and Procedure 1.3,
 section 2 part
-1(https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md),
+1](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md),
 can request that an endorsement be removed by a majority vote of the
 Assembly if it is found to be inappropriate or out of date.
 
