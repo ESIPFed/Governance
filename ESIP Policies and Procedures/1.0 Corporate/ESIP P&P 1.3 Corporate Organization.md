@@ -60,7 +60,7 @@ two ESIP Member Representatives.
 2.4.1 The Nominating Committee will prepare nominations for ESIP Prizes
 at the request of the President.
 
-### **Part 5 -- Replacing Elected Volunteer Leaders**
+**Part 5 -- Replacing Elected Volunteer Leaders**
 
 2.5.1 If the President is unable to continue in office, the Vice
 President shall take over as President, and a special election shall be
