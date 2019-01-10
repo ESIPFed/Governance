@@ -42,9 +42,7 @@ approval by two-thirds of the entire ESIP Assembly.
 Type 1 -- Data and Information Distributors
 
 3.1.1 Category 1 ESIP Partners shall be primarily stewards of Earth
-science
-
-and related data sets or its supporting information, as well as
+science and related data sets or its supporting information, as well as
 providers of standardized products derived from those data.
 
 3.1.2 Each Category 1 ESIP Partner must designate one Representative to
