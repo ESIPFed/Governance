@@ -11,6 +11,8 @@ Information Partners (ESIP)**
 
     [1.3  Corporate Organization](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md)
 
+    [1.3A Board and Program Committee Participation and Attendance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3A%20Board%20and%20Program%20Committee%20%20Participation%20and%20Attendance.md)
+    
     [1.4  Policy Approval, Amendments, Administration and Compliance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.4%20Policy%20Approval%2C%20Amendments%2C%20Administration%20and%20Compliance.md)
   
     [1.5  Equal Employment and Volunteer Opportunity](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.5%20Equal%20Opportunity.md)
