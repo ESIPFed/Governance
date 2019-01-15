@@ -1,3 +1,6 @@
+
+**Policy and Procedure 3.9 Procurement**
+
 **Purpose**
 
 The purchase of goods and services is necessary for the smooth operation
