@@ -37,4 +37,4 @@ Annual Meeting.
 Program Committee must be put forward to the Program Committee for comment at
 an initial Program Committee meeting and then voted on at the next monthly meeting.
 
-This Policy was revised on January 14, 2019.
+This Policy was revised by the ESIP Board of Directors on January 14, 2019.
