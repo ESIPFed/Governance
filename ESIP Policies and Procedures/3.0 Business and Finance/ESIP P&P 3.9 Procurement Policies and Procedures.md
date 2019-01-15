@@ -30,43 +30,43 @@ must follow a formal bidding or quote process to ensure that the
 resource is acquired at a competitive price.
 
 -   Purchases under the micro-purchase threshold, currently \$2000, are
-    > awarded without soliciting competitive quotes; however, to the
-    > extent possible, prices are shopped using online and/or local
-    > stores.
+    awarded without soliciting competitive quotes; however, to the
+    extent possible, prices are shopped using online and/or local
+    stores.
 
 -   For purchases above \$2000 and below \$150,000, a quotation/invoice
-    > shall be obtained from two-three qualified sources or from as wide
-    > of a range of suppliers deemed practical in terms of time,
-    > potential savings and good business practice. Four major factors
-    > enter into supplier selection: quality, delivery, service and
-    > price. For meeting hotel contracts, ESIP will consider sponsor
-    > needs as well as price. These quotes will be reviewed by the
-    > Executive Director and the award must be specifically approved in
-    > advance by the Executive Director.
+    shall be obtained from two-three qualified sources or from as wide
+    of a range of suppliers deemed practical in terms of time,
+    potential savings and good business practice. Four major factors
+    enter into supplier selection: quality, delivery, service and
+    price. For meeting hotel contracts, ESIP will consider sponsor
+    needs as well as price. These quotes will be reviewed by the
+    Executive Director and the award must be specifically approved in
+    advance by the Executive Director.
 
 -   For purchases above the simplified acquisition threshold, currently
-    > \$150,000, ESIP must select vendors or suppliers based on publicly
-    > solicited sealed bids or competitive proposals. ESIP will always
-    > negotiate for the best value in performance and price, unless
-    > specified otherwise in a Government Request for Proposal (RFP). If
-    > all non-price evaluation factors are equal, the lowest cost
-    > supplier is awarded the order. ESIP will also perform a cost or
-    > price analysis for purchases over \$150,000, to make independent
-    > estimates before receiving bids or proposals.
+    \$150,000, ESIP must select vendors or suppliers based on publicly
+    solicited sealed bids or competitive proposals. ESIP will always
+    negotiate for the best value in performance and price, unless
+    specified otherwise in a Government Request for Proposal (RFP). If
+    all non-price evaluation factors are equal, the lowest cost
+    supplier is awarded the order. ESIP will also perform a cost or
+    price analysis for purchases over \$150,000, to make independent
+    estimates before receiving bids or proposals.
 
 -   Purchases from a sole source shall be explained in the purchase
-    > file.
+    file.
 
 -   To the extent possible, purchases will be combined in an effort to
-    > negotiate better terms and prices.
+    negotiate better terms and prices.
 
 -   The purchase file shall contain all the documents pertaining to each
-    > transaction, i.e. the purchase requisition, quotations, contact
-    > information of suppliers purchase contracts or orders, invoices,
-    > delivery slips and any other pertinent documents. The purchase
-    > file may be in electronic or hard copy form depending on the
-    > Organization's determination of the best method to support and
-    > retain purchasing decisions.
+    transaction, i.e. the purchase requisition, quotations, contact
+    information of suppliers purchase contracts or orders, invoices,
+    delivery slips and any other pertinent documents. The purchase
+    file may be in electronic or hard copy form depending on the
+    Organization's determination of the best method to support and
+    retain purchasing decisions.
 
 **Award Types**
 
@@ -79,24 +79,24 @@ reimbursement (CR).
 Individuals authorized to perform purchasing functions shall:
 
 -   Avoid the intent or appearance of unethical or uncompromising
-    > practices in relationships, actions and communications.
+    practices in relationships, actions and communications.
 
 -   Demonstrate compliance with this policy by adhering to applicable
-    > laws and policies using sound business judgment within the
-    > authority granted.
+    laws and policies using sound business judgment within the
+    authority granted.
 
 -   Abstain from any private business or professional activity that
-    > would create a real or perceived conflict of interest between
-    > personal interests and the interest of the Organization. Any
-    > potential conflicts must be reported to the Executive Director and
-    > the Board of Directors.
+    would create a real or perceived conflict of interest between
+    personal interests and the interest of the Organization. Any
+    potential conflicts must be reported to the Executive Director and
+    the Board of Directors.
 
 -   Obtain the most competitive pricing possible using best industry
-    > practices.
+    practices.
 
 -   Ensure the review and flow down of applicable grant terms and
-    > conditions are incorporated into all purchase orders and
-    > subawards.
+    conditions are incorporated into all purchase orders and
+    subawards.
 
 Individuals shall be responsible for protecting proprietary and
 financial information of its suppliers. Use or disclosure of supplier
