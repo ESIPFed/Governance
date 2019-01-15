@@ -28,4 +28,13 @@ electronic means or at a meeting (e.g., telecon) of the Board.
 any official telecon. The Chair of the Governance Committee will then
 commit the changes to the document.
 
-This Policy was revised on May 14, 2018.
+1.2.5 All policy changes that will delegate decision-making authority from
+the Assembly must be put forward to the Assembly for comment for a 30 day
+period and then voted on by the Assembly, either online or in person at the
+Annual Meeting.
+
+1.2.6 All policy changes that will delegate decision-making authority from the
+Program Committee must be put forward to the Program Committee for comment at
+an initial Program Committee meeting and then voted on at the next monthly meeting.
+
+This Policy was revised on January 14, 2019.
