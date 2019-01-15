@@ -53,6 +53,8 @@ Information Partners (ESIP)**
 
     [3.8 Gift issuance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.8%20Gift%20Issuance.md)
 
+    [3.9 Procurement](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.9%20Procurement%20Policies%20and%20Procedures.md)
+
 4.  **Human Resources**
 
     [4.1 Employee Handbook](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/4.0%20Human%20Resources/ESIP%20P%26P%204.1%20Employee%20Handbook.md)
