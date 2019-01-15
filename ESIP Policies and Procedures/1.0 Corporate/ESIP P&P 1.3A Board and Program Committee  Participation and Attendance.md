@@ -16,7 +16,7 @@ fashion.
 If a Board or Program Committee member is absent from three consecutive Program Committee meetings or two consecutive Board Meetings,
 the ESIP President or Board Chair will ask the Board to consider removing the person from membership on the Board or Program Committee. 
 
-Policy 1.3, Corporate Organization, Section 2, Part 5: Replacing Elected Volunteer Leaders is relevant in the event that the Board or
+[Policy 1.3, Corporate Organization, Section 2, Part 5: Replacing Elected Volunteer Leaders](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md) is relevant in the event that the Board or
 Program Committee member needs to be removed.
 
 This Policy was approved by the Board of Directors of ESIP on January 14, 2019.
