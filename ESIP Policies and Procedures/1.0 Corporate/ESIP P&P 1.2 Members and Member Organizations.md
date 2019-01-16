@@ -167,4 +167,4 @@ recommendation for removal receives approval by two-thirds of the
 Representatives, ESIP Member Organization concerned will be removed from
 ESIP.
 
-This Policy was approved by the Board of Directors of ESIP on January 14, 2019.
+This Policy was revised by the Board of Directors of ESIP on January 14, 2019.
