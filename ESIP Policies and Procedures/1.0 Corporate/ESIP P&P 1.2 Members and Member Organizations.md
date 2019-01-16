@@ -15,11 +15,20 @@ information products and services; and the development of Earth
 science applications. In addition, ESIP Partners may include major
 financial or in-kind supporters of ESIP's activities.
 
-1.2 New ESIP Partners may be added to each ESIP category upon
-application to the Partnership Committee, review and presentation by
-the Partnership Committee of candidate qualifications to ESIP
-Assembly, and upon receipt of approval by a majority vote of the
-entire ESIP Assembly.
+1.2 New ESIP Partners may be considered for addition to ESIP types through
+an application to the Partnership Committee. The Partnership Committee will
+review the applications for completeness on a quarterly basis. Any concerns
+of the Partnership Committee will be sent to the applicants by the Partnership
+Committee Chair. Initial comments, expressed concerns, responses, and
+summarized comments by the Partnership Committee will be documented and
+available during the open review by the ESIP Assembly, and by the ESIP Board.
+Partnership reviewed applications will be made available to the ESIP Assembly
+for a one month review and comment period by ESIP staff six weeks before
+the next ESIP Board meeting. All comments or concerns expressed by ESIP Assembly
+members are to be addressed by ESIP staff with notice to the Partnership Committee.
+Any comments or concerns not addressed by ESIP staff should be forwarded to the
+Partnership Committee. Following the Assembly comment period, the candidates shall
+be added to the ESIP Assembly upon receipt of approval by a majority vote of the ESIP Board.
 
 **Section 2 -- ESIP Partner Categories**
 
@@ -158,5 +167,4 @@ recommendation for removal receives approval by two-thirds of the
 Representatives, ESIP Member Organization concerned will be removed from
 ESIP.
 
-This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+This Policy was approved by the Board of Directors of ESIP on January 14, 2019.
