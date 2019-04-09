@@ -54,100 +54,100 @@ Earth Science and protection of the organization’s financial assets
 while ensuring compliance with board directives and applicable grantor,
 federal and state requirements. The Executive Director:
 
-  - > Raises funds to support the Foundation’s mission in conjunction
-    > with the Foundation Board of Directors;
+  - Raises funds to support the Foundation’s mission in conjunction
+    with the Foundation Board of Directors;
 
-  - > Manages grants and contracts, and negotiates agreements with
-    > Federal government and other sponsors in support of the
-    > Foundation’s mission; monitors progress of grants; and fulfills
-    > reporting requirements related to all grants;
+  - Manages grants and contracts, and negotiates agreements with
+    Federal government and other sponsors in support of the
+    Foundation’s mission; monitors progress of grants; and fulfills
+    reporting requirements related to all grants;
 
-  - > Works closely with ESIP Federation leadership and other FES
-    > constituents to ensure they are provided with appropriate support
-    > for their work;
+  - Works closely with ESIP Federation leadership and other FES
+    constituents to ensure they are provided with appropriate support
+    for their work;
 
-  - > Assists in the development of current and long-term organizational
-    > goals and objectives as well as policies and procedures for
-    > Foundation operations;
+  - Assists in the development of current and long-term organizational
+    goals and objectives as well as policies and procedures for
+    Foundation operations;
 
-  - > Establishes plans to achieve goals set by the Board of Directors
+  - Establishes plans to achieve goals set by the Board of Directors
 
-  - > Implements policies, subject to approval by the Board of
-    > Directors;
+  - Implements policies, subject to approval by the Board of
+    Directors;
 
-  - > Oversees all accounting functions including those necessary for
-    > auditing, budgeting, financial analysis, and payroll in accordance
-    > with generally accepted accounting principles, Board and Federal
-    > grant requirements, and all other applicable rules and guidelines,
-    > seeking guidance from professionals as needed to comply with all
-    > applicable rules and guidelines of accounting principles;
+  - Oversees all accounting functions including those necessary for
+    auditing, budgeting, financial analysis, and payroll in accordance
+    with generally accepted accounting principles, Board and Federal
+    grant requirements, and all other applicable rules and guidelines,
+    seeking guidance from professionals as needed to comply with all
+    applicable rules and guidelines of accounting principles;
 
-  - > Handles all human resources functions including but not limited to
-    > supervising Foundation staff, hiring and termination, developing
-    > position descriptions, setting compensation, and applying
-    > Board-approved employee policies and benefits in accordance with
-    > federal and state requirements, seeking guidance from human
-    > resources professionals as needed to comply with all applicable
-    > rules and policies in accordance with federal and state
-    > requirements;
+  - Handles all human resources functions including but not limited to
+    supervising Foundation staff, hiring and termination, developing
+    position descriptions, setting compensation, and applying
+    Board-approved employee policies and benefits in accordance with
+    federal and state requirements, seeking guidance from human
+    resources professionals as needed to comply with all applicable
+    rules and policies in accordance with federal and state
+    requirements;
 
-  - > Interacts with other personnel and organizations in government,
-    > academic, commercial, and nonprofit sectors on matters related to
-    > Foundation business;
+  - Interacts with other personnel and organizations in government,
+    academic, commercial, and nonprofit sectors on matters related to
+    Foundation business;
 
-  - > Seeks out and fosters relationships to promote the use of Earth
-    > science data and information products.
+  - Seeks out and fosters relationships to promote the use of Earth
+    science data and information products.
 
-  - > Composes e-mails, memoranda, correspondence and presentations as
-    > necessary to complete the essential job duties and requirements;
+  - Composes e-mails, memoranda, correspondence and presentations as
+    necessary to complete the essential job duties and requirements;
 
 **Core Competencies **
 
 To perform effectively in this position, the individual should
 demonstrate the following competencies:
 
-  - > *Initiative:* Based on interactions with sponsors, program
-    > management, staff, and community members, the Executive Director
-    > (1) pursues opportunities in collaboration with community
-    > constituents that will support Foundation objectives, (2)
-    > recognizes and brings to the attention of the president of the
-    > Board issues that affect the organization, and implements plans to
-    > reach organizational goals as determined by the Board, (3)
-    > resolves problems as they occur, in consultation with the
-    > president and other members of the Board.
+  - *Initiative:* Based on interactions with sponsors, program
+    management, staff, and community members, the Executive Director
+    (1) pursues opportunities in collaboration with community
+    constituents that will support Foundation objectives, (2)
+    recognizes and brings to the attention of the president of the
+    Board issues that affect the organization, and implements plans to
+    reach organizational goals as determined by the Board, (3)
+    resolves problems as they occur, in consultation with the
+    president and other members of the Board.
 
-  - > *Management*: Maintains effective systems of internal controls to
-    > account for all receipts and expenditures of funds. Manages
-    > corporate funds to maximize the earnings under the Federal
-    > regulations. Develops options for partnering with other Earth
-    > science organizations through the use of corporate resources to
-    > advance Foundation programs and services.
+  - *Management*: Maintains effective systems of internal controls to
+    account for all receipts and expenditures of funds. Manages
+    corporate funds to maximize the earnings under the Federal
+    regulations. Develops options for partnering with other Earth
+    science organizations through the use of corporate resources to
+    advance Foundation programs and services.
 
-  - > *Job Knowledge*: Understands the technical aspects of managing a
-    > nonprofit organization. Provides advice to its constituents and
-    > staff directly and/or solicits guidance from community
-    > constituents or other experts. Understands the duties and
-    > responsibilities of the position. Keeps job knowledge up-to-date.
-    > Obtains input from professionals as needed to properly perform job
-    > duties and responsibilities. Clearly understands the research and
-    > education mission of the organization. Continuously works to
-    > promote the Foundation and achieve its goals.
+  - *Job Knowledge*: Understands the technical aspects of managing a
+    nonprofit organization. Provides advice to its constituents and
+    staff directly and/or solicits guidance from community
+    constituents or other experts. Understands the duties and
+    responsibilities of the position. Keeps job knowledge up-to-date.
+    Obtains input from professionals as needed to properly perform job
+    duties and responsibilities. Clearly understands the research and
+    education mission of the organization. Continuously works to
+    promote the Foundation and achieve its goals.
 
-  - > *Communication*: Communicates effectively with multiple audiences
-    > using a variety of formats. Examples include: written
-    > communications that clearly outline the situation and action
-    > items; verbal presentations and briefings at community venues,
-    > meetings of the Board and other parties regarding a variety of
-    > issues affecting the Foundation.
+  - *Communication*: Communicates effectively with multiple audiences
+    using a variety of formats. Examples include: written
+    communications that clearly outline the situation and action
+    items; verbal presentations and briefings at community venues,
+    meetings of the Board and other parties regarding a variety of
+    issues affecting the Foundation.
 
-  - > *Dependability*: Seeks increased responsibility while remaining
-    > conscientious, thorough, accurate, and reliable with respect to
-    > achieving the organization’s goals. This includes being available
-    > and responsive to issues and concerns as they arise.
+  - *Dependability*: Seeks increased responsibility while remaining
+    conscientious, thorough, accurate, and reliable with respect to
+    achieving the organization’s goals. This includes being available
+    and responsive to issues and concerns as they arise.
 
-  - > *Technology*: Maintains current expertise with computers,
-    > software, and remote collaboration technologies to the extent
-    > required to perform the essential job duties and responsibilities.
+  - *Technology*: Maintains current expertise with computers,
+    software, and remote collaboration technologies to the extent
+    required to perform the essential job duties and responsibilities.
 
 **Education and/or Experience **
 
