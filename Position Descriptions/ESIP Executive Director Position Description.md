@@ -46,7 +46,7 @@ face-to-face interactions. The position also requires frequent
 interaction with FES sponsors (e.g., NASA, NOAA, and NSF) and with the
 leadership of the groups that the FES serves.
 
-**Essential Duties and Responsibilities **
+**Essential Duties and Responsibilities**
 
 Under the direction of the Board of Directors, the Executive Director is
 responsible for overall management and operation of the Foundation for
@@ -101,7 +101,7 @@ federal and state requirements. The Executive Director:
   - Composes e-mails, memoranda, correspondence and presentations as
     necessary to complete the essential job duties and requirements;
 
-**Core Competencies **
+**Core Competencies**
 
 To perform effectively in this position, the individual should
 demonstrate the following competencies:
@@ -149,19 +149,19 @@ demonstrate the following competencies:
     software, and remote collaboration technologies to the extent
     required to perform the essential job duties and responsibilities.
 
-**Education and/or Experience **
+**Education and/or Experience**
 
 Advanced degree preferred, with at least 5 years leadership experience
 in a nonprofit, academic or business setting.
 
-**Travel **
+**Travel**
 
 The Executive Director must be able to travel to meet with potential
 partners and sponsors, and to attend conferences, training and other
 events that may be needed to acquire and maintain proficiency in
 fulfilling the responsibilities of the position.
 
-**Work Environment **
+**Work Environment**
 
 Access to a major transportation hub and robust telecommunications
 capabilities are essential.
