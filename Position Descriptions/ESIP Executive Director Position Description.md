@@ -62,34 +62,6 @@ The  Foundation for Earth Science Information Partners (dba ESIP) is looking for
 
 ESIP staff use a role-based system, [Holacracy](https://www.holacracy.org/), for governance. All roles that are filled by the current Executive Director are here: [https://app.glassfrog.com/people/58835](https://app.glassfrog.com/people/58835)
 
-**Core Competencies **
-
-ESIP is a virtual organization, and therefore the location of the position is flexible. Reliable internet and communications access are essential. International travel is required.  Specific requirements include:
-
-* Significant leadership and international experience. Senior level leadership of a nonprofit organization preferred.
-
-* Highly motivated self-starter with the ability to motivate others.
-
-* Understanding of Earth science data and information landscapes and systems around the world, particularly related to data management. Knowledge of or experience with data management or sharing desirable.
-
-* Track record of leading successful collaborations with nonprofit organizations, governmental and intergovernmental organizations and/or educational institutions.
-
-* Experience with organizational and strategic planning, including the successful implementation of complex and diverse projects.
-
-* Solid financial management experience.
-
-* Highly developed cross cultural communication skills, respect for diversity and ability to lead multicultural teams.
-
-* Successful resource development, including fundraising and working with philanthropy.
-
-* Ability to lead diverse staff, ESIP partners and different audiences in the U.S. and internationally.
-
-* Excellent speaking and writing skills in English.  
-
-* Strong public speaking ability.
-
-* An entrepreneurial, open and collaborative spirit.
-
 
 
 **Core Competencies**
