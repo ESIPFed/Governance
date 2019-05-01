@@ -94,11 +94,11 @@ Additionally, the Executive Director should demonstrate competency in the follow
 Advanced degree preferred, with at least 5 years leadership experience in a nonprofit, academic or business setting.
 
 
-**Travel **
+**Travel**
 
 The Executive Director must be able to travel to meet with potential partners and sponsors, and to attend conferences, training and other events that may be needed to acquire and maintain proficiency in fulfilling the responsibilities of the position. 
 
-**Work Environment **
+**Work Environment**
 
 Access to a major transportation hub and robust telecommunications capabilities are essential.
 
