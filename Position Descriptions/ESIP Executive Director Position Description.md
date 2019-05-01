@@ -88,6 +88,7 @@ Additionally, the Executive Director should demonstrate competency in the follow
 
 * Strategic thinking: Assess options and actions based on trends and conditions in global educational environments and the vision and values of the organization. Align activities and plans to these opportunities.
 
+
 **Education and/or Experience**
 
 Advanced degree preferred, with at least 5 years leadership experience in a nonprofit, academic or business setting.
