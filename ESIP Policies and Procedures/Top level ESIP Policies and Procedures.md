@@ -48,6 +48,8 @@ Information Partners (ESIP)**
     [3.5 Expense and Accounts Payable](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5%20Expenses%20and%20Accounts%20Payable%20Policies.md)
 
     [3.5A Travel and Expense Reimbursement](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
+    
+    [3.5B Complimentary Meeting Registration](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P&P%203.5B%20Complimentary%20Registration%20Fee%20Policy.md)
  
     [3.6 Asset Management](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.6%20Asset%20Management%20Policies.md)
 
