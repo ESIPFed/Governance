@@ -43,6 +43,6 @@ an initial Program Committee meeting and then voted on at the next monthly meeti
 
 1.3.2 In the change log for the affected Policy and Procedure, the Chair of the Governance Committee shall note 1) The person requesting the change, 2) The date and method (telecon/face to face meeting) of the Governance Committee discussion of this change and 3) The date and method of the Board approval of this change.
 
-1.3.3 The Chair of the Governance Committee shall modify the revised policy to include the text “This policy was updated on <date>.”, where <date> is the date that the change was committed to the document.
+1.3.3 The Chair of the Governance Committee shall modify the revised policy to include the text “This policy was updated on \<date\>.”, where \<date\> is the date that the change was committed to the document.
 
 This Policy was revised by the ESIP Board of Directors on January 14, 2019.
