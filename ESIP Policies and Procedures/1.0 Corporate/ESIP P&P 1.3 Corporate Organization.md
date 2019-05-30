@@ -221,6 +221,14 @@ appropriate ESIP category for each candidate.
 Partnership Committee shall notify the applicant of its right to appeal
 to the Assembly in writing.
 
+### **Part 5 -- Meeting Committee**
+
+5.5.1 The Meeting Committee shall oversee ESIP's twice annual meetings. This committee will also respond to any meeting feedback.
+
+5.5.2 The Vice President of ESIP will server as the Chair of the Meeting Committee.
+
+5.5.3 Membership to the committee is open to any ESIP participant who wishes to contribute.
+
 Section 6 -- Standing Committees, Working Groups and Clusters
 -------------------------------------------------------------
 
@@ -395,4 +403,4 @@ Section 8 -- Clusters
 reporting the name and activities of the Cluster to the Vice President
 of the Assembly.
 
-This Policy was revised by the ESIP Board on July 16, 2018.
+This Policy was revised by the ESIP Board on April 25, 2019.
