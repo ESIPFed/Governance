@@ -403,4 +403,5 @@ Section 8 -- Clusters
 reporting the name and activities of the Cluster to the Vice President
 of the Assembly.
 
-This Policy was revised by the ESIP Board on April 25, 2019.
+This Policy was approved by the ESIP Board on April 25, 2019.
+This Policy was revised on this site on May 31, 2019.
