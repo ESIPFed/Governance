@@ -21,3 +21,4 @@ To outline the circumstances under which ESIP would provide for complimentary re
 2. The Executive Director and President have the authority to not charge registration fees, as circumstances warrant or as deemed in the best interest of ESIP.
 
 This Policy was approved by the Board of Directors of ESIP on April 25, 2019.
+This Policy was revised on May 31, 2019.
