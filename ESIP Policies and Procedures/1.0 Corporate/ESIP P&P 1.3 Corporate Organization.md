@@ -1,3 +1,6 @@
+**Policy and Procedure 1.3 - Corporate Organization**
+======================================================================
+
 Section 1 -- ESIP Board of Directors
 ------------------------------------
 
@@ -44,7 +47,7 @@ Section 3A -- Elected VOlunteer Leadership Qualifications, Nominations, and Elec
 
 3A.1.1 There shall be a Nominating Committee composed of five (5) members who shall be selected by the President and approved by the Board at the Board Meeting after the Annual Meeting. The ESIP Executive Director will serve as an ex officio advisory member of the committee.
 
-3A.1.2 The Nominating Committee shall have at least one (1) representative from each of ESIP Partnership Types 1 through 3 as defined in [Policy and Procedure 1.2 Section 3] (.../blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Members%20and%20Member%20Organizations.md) of these Policies and Procedures. One of the Nominating Committee members shall be an Early Career representative, defined as a person no later than five years beyond their most recent degree, and one representative who may be external to ESIP. No more than two (2) representatives may be from the same Partnership Type. 
+3A.1.2 The Nominating Committee shall have at least one (1) representative from each of ESIP Partnership Types 1 through 3 as defined in [Policy and Procedure 1.2 Section 3](.../blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P&P%201.2%20Partners%20and%20Partner%20Organizations.md#section-3----esip-partner-types-described) of these Policies and Procedures. One of the Nominating Committee members shall be an Early Career representative, defined as a person no later than five years beyond their most recent degree, and one representative who may be external to ESIP. No more than two (2) representatives may be from the same Partnership Type. 
 
 3A.1.3 If a representative can no longer serve or resigns, the President shall appoint and the Board shall approve an eligible replacement in accordance with the procedure above (3A.1.2).
 
@@ -52,11 +55,11 @@ Section 3A -- Elected VOlunteer Leadership Qualifications, Nominations, and Elec
 
 3A.1.5 Members of the Nominating Committee shall promote leadership development within the ESIP Assembly, including education of roles and responsibilities for interested and/or potential candidates. 
 
-3A.1.6 The Nominating Committee shall ensure, for each elective office, one or more candidates, to be announced to the General Assembly prior to the election in accordance with the election policy (3A.2).
+3A.1.6 The Nominating Committee shall ensure, for each elective office, one or more candidates, to be announced to the General Assembly prior to the election in accordance with the election policy ([3A.2](.../blob/master/ESIP Policies and Procedures/1.0 Corporate/ESIP P%26P 1.3 Corporate Organization.md#part-2----election-procedure-for-volunteer-leaders)).
 
 3A.1.7 The Nominating Committee will solicit and accept nominations, including self-nominations, from the Assembly for any elective office. Self-nominations must include an endorsement from a person associated with an ESIP Partners Organization.
 
-3A.1.8 The Nominating Committee shall accept all candidates who meet the qualifications for candidacy as stated in (3A.3) of this policy, and who are willing to serve.  
+3A.1.8 The Nominating Committee shall accept all candidates who meet the qualifications for candidacy as stated in ([3A.3](.../blob/master/ESIP Policies and Procedures/1.0 Corporate/ESIP P%26P 1.3 Corporate Organization.md#part-3----qualifications-for-assembly-elected-volunteer-leaders)) of this policy, and who are willing to serve.  
 
 ### **Part 2 -- Election Procedure for Volunteer Leaders**
 
@@ -252,5 +255,5 @@ Section 8 -- Clusters
 
 ---
 
-This Policy was approved by the ESIP Board on July 15, 2019.
+This Policy was revised and approved by the ESIP Board on July 15, 2019.
 This Policy was revised on this site on August 9, 2019.
