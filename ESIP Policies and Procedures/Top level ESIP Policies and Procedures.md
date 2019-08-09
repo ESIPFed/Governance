@@ -75,14 +75,15 @@ Information Partners (ESIP)**
 
 A. Committee, Working Group and Cluster Best Practices and Rules
 
-   [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Funding%20Friday%20Rules.md)
+    [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Funding%20Friday%20Rules.md)
    
-   [A.2 Raskin Scholarship Procedures](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Raskin%20Scholarship%20Procedure.md)
+    [A.2 Raskin Scholarship Procedures](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Raskin%20Scholarship%20Procedure.md)
    
-   [A.3 Martha Maiden Award Procedures](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Martha%20Maiden%20Award%20Procedures.md)
+    [A.3 Martha Maiden Award Procedures](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Martha%20Maiden%20Award%20Procedures.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Template%20for%20new%20Policies).
 
 --
+
 This document was updated August 9, 2019
