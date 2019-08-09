@@ -39,5 +39,6 @@ This award honors individuals who have demonstrated leadership, dedication and a
 
 Supplemental materials can be found [here](https://docs.google.com/document/d/1U2HiEsdKzxqDNaQCXkrA-DPOP35WHnsUhzRtdhDZRmM/edit?usp=sharing)
 
+--
 This Policy was approved by the Board of Directors of ESIP on July 15, 2019.
 This Policy was uploaded to this site on August 9, 2019
