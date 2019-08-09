@@ -67,11 +67,11 @@ Partner Types were created in order to organize Partners within ESIP, and a way 
 
 4.2 Any ESIP Partner Organization may be designated as Inactive by the Partnership Committee under the following conditions:
 
-\4.2.1 ESIP Partner Organization has not attended a General Assembly meeting, nor designated a proxy, for a period of four (4) consecutive meetings; and,
+  4.2.1 ESIP Partner Organization has not attended a General Assembly meeting, nor designated a proxy, for a period of four (4) consecutive meetings; and,
 
-\4.2.2 By the discretion of the Partnership Committee for any unusual circumstances. A review of this action by the Board can be requested by the affected ESIP Partner Organization. In this case, a majority vote by the Board is binding.
+  4.2.2 By the discretion of the Partnership Committee for any unusual circumstances. A review of this action by the Board can be requested by the affected ESIP Partner Organization. In this case, a majority vote by the Board is binding.
 
-\4.2.3 Inactive status may be designated by the Partnership Committee to any ESIP Partner Organization that meets the above criteria retroactively when this bylaw comes into effect.
+  4.2.3 Inactive status may be designated by the Partnership Committee to any ESIP Partner Organization that meets the above criteria retroactively when this bylaw comes into effect.
 
 4.3 Any ESIP Partner Organization designated by the Partnership Committee as Inactive shall be notified of their status by email or other means. A good faith effort must be made to contact the ESIP Partner Organization to notify it of its change in status.
 
