@@ -1,4 +1,7 @@
 **Policy and Procedure 1.2 - ESIP Partners and Partner Organizations**
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
 
 **Section 1 -- Eligibility and New Partnership**
 ------------------------------------------------
@@ -8,6 +11,7 @@
 1.2 New ESIP Partners may be considered for addition to ESIP types through an application to the Partnership Committee. The Partnership Committee will review the applications for completeness on a quarterly basis. Any concerns of the Partnership Committee will be sent to the applicants by the Partnership Committee Chair. Initial comments, expressed concerns, responses, and summarized comments by the Partnership Committee will be documented and available during the open review by the ESIP Assembly, and by the ESIP Board. Partnership reviewed applications will be made available to the ESIP Assembly for a one month review and comment period by ESIP staff six weeks before the next ESIP Board meeting. All comments or concerns expressed by ESIP Assembly members are to be addressed by ESIP staff with notice to the Partnership Committee. Following the Assembly comment period, the candidates shall be added to the ESIP Assembly upon receipt of approval by a majority vote of the ESIP Board.
 
 **Section 2 -- ESIP Partner Types**
+------------------------------------------------
 
 2.1 There may be multiple types of ESIP Partners, whose defining characteristics are as described in Section 3 of this policy  (below).
 
@@ -18,6 +22,7 @@
 2.4 Existing Partnership types may be dropped or modified upon recommendation of the Partnership Committee and upon receiving approval by two-thirds of the entire ESIP Assembly.
 
 **Section 3 -- ESIP Partner Types Described**
+------------------------------------------------
 
 Partner Types were created in order to organize Partners within ESIP, and a way to ensure diversity in ESIP governance on Administrative Committees.  Partner Member organizations may fit within more than one type, but are generally advised to choose a type that reflects more than half of the work done by the Partner member organization.  Partners can request a change in Type as their organization changes roles by contacting ESIP Staff.   See the list of current ESIP Partners at:  https://www.esipfed.org/partners
 
@@ -57,6 +62,7 @@ Partner Types were created in order to organize Partners within ESIP, and a way 
 3.5.1 Type 5 ESIP Partners shall be non-voting financial or in-kind supporters of ESIP activities.
 
 **Section 4 -- Ending a Partnership**
+------------------------------------------------
 
 4.1 Any ESIP Partner Organization may leave ESIP voluntarily by submitting a letter of resignation to the Chair of the Partnership Committee.
 
