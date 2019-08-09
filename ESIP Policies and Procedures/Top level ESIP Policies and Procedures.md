@@ -73,7 +73,7 @@ Information Partners (ESIP)**
 
 **Appendices**
 
-A. Committee, Working Group and Cluster Best Practices and Rules
+* A. Committee, Working Group and Cluster Best Practices and Rules
 
     [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Funding%20Friday%20Rules.md)
    
@@ -81,7 +81,7 @@ A. Committee, Working Group and Cluster Best Practices and Rules
    
     [A.3 Martha Maiden Award Procedures](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Martha%20Maiden%20Award%20Procedures.md)
 
-B.  [Here is a blank template for new Policies and Procedures as
+* B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Template%20for%20new%20Policies).
 
 --
