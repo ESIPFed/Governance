@@ -13,64 +13,37 @@ Bylaws. Nothing in the Policies and Procedures document is meant to
 amplify or constrain ESIP Directors from their roles and
 responsibilities as outlined in the ESIP Bylaws.
 
-Section 2 -- ESIP Volunteer Leadership: President and Vice President
+Section 2 -- ESIP Assembly-Elected Volunteer Leadership
 --------------------------------------------------------------------
 
 **Part 1 -- Definition**
 
-2.1.1 Volunteer leaders of ESIP shall be a President and Vice President
-who shall be Representatives of the Assembly elected by secret ballot.
+2.1.1 The principal volunteer leaders of ESIP shall be a President and Vice President who shall be Representatives of the Assembly. 
+
+2.1.2 Additional Assembly-elected volunteer leaders are defined in Article 4, Section 2 of the Bylaws.
+
+2.1.3 All Assembly-elected volunteer leaders will be elected by secret ballot.
+
 
 **Part 2 -- Duties**
 
-2.2.1 The duty of the volunteer leaders is to coordinate the activities
-of ESIP member volunteers. Leaders who are also members of the Board of
-Directors have duties outlined in the ESIP Bylaws.
+2.2.1 The duty of the volunteer leaders is to coordinate the activities of ESIP member volunteers. Leaders who are also members of the Board have duties outlined in the ESIP Bylaws.
 
-2.2.2 The President shall preside at meetings of the Assembly and
-meetings of the Program Committee.
+2.2.2 The President shall preside at meetings of the Assembly.
 
-2.2.3 The Vice President shall preside at meetings of the Assembly and
-meetings of the Program Committee in the absence of the President.
+2.2.3 The Vice President shall preside at meetings of the Program Committee, and in the case of absence of the President, of the Assembly. 
 
-2.2.4 All volunteer leaders may stand for re-election.
+**Part 3 -- Replacing Elected Volunteer Leaders**
 
-**Part 3 -- Nominating Committee: Electing Volunteer Leaders**
-
-2.3.1 There shall be a Nominating Committee composed of five (5) members
-who shall be selected by the President and approved by the Board at the
-second Board Meeting after the Annual Meeting.
-
-2.3.2 The Nominating Committee shall have at least one representative
-from ESIP Partnership Types 1 through 3 as defined in [Policy and Procedure 1.3
-Section 3](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Members%20and%20Member%20Organizations.md) of these Policies and Procedures. One of the
-Nominating Committee members shall be an Early Career member, defined as a
-person no later than five years beyond their most recent degree, and one
-other member who may be external to ESIP.
-
-2.3.3 The Committee shall nominate one or more candidates for each
-elective office, to be announced to the General Assembly prior to the
-election, at which time additional nominations may be made.
-
-2.3.4 Additional nominations are encouraged, and can be made by at least
-two ESIP Member Representatives.
-
-**Part 4 Nominating Committee: ESIP prize nominations**
-
-2.4.1 The Nominating Committee will prepare nominations for ESIP Prizes
-at the request of the President.
-
-**Part 5 -- Replacing Elected Volunteer Leaders**
-
-2.5.1 If the President is unable to continue in office, the Vice
+2.3.1 If the President is unable to continue in office, the Vice
 President shall take over as President, and a special election shall be
 held to elect a new Vice President.
 
-2.5.2 In the event that both the President and Vice President are unable
+2.3.2 In the event that both the President and Vice President are unable
 to continue in office, a special election shall be held as described in
 Policy III, Section 1.
 
-2.5.3 Any elected volunteer leader may be removed from office for
+2.3.3 Any elected volunteer leader may be removed from office for
 conduct which in any way tends to substantially injure ESIP or to affect
 adversely its reputation, or which is destructive to ESIP's goals and
 activities. Any Representative to the Assembly may recommend removal of
@@ -83,6 +56,45 @@ Governance Committee will then petition the Representatives. If the
 recommendation for removal receives approval by two- thirds of the
 Representatives, the leader concerned shall be declared unable to
 continue in office.
+
+Section 3A -- Elected VOlunteer Leadership Qualifications, Nominations, and Elections
+------------------------------
+
+**Part 1 -- Nominating Committee: Electing Volunteer Leaders**
+
+3A.1.1 There shall be a Nominating Committee composed of five (5) members who shall be selected by the President and approved by the Board at the Board Meeting after the Annual Meeting. The ESIP Executive Director will serve as an ex officio advisory member of the committee.
+
+3A.1.2 The Nominating Committee shall have at least one (1) representative from each of ESIP Partnership Types 1 through 3 as defined in [Policy and Procedure 1.2 Section 3] (.../blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Members%20and%20Member%20Organizations.md) of these Policies and Procedures. One of the Nominating Committee members shall be an Early Career representative, defined as a person no later than five years beyond their most recent degree, and one representative who may be external to ESIP. No more than two (2) representatives may be from the same Partnership Type. 
+
+3A.1.3 If a representative can no longer serve or resigns, the President shall appoint and the Board shall approve an eligible replacement in accordance with the procedure above (3A.1.2).
+
+3A.1.4 Members of the Nominating Committee shall not be candidates for elected office while serving on the Committee. 
+
+3A.1.5 Members of the Nominating Committee shall promote leadership development within the ESIP Assembly, including education of roles and responsibilities for interested and/or potential candidates. 
+
+3A.1.6 The Nominating Committee shall ensure, for each elective office, one or more candidates, to be announced to the General Assembly prior to the election in accordance with the election policy (3A.2).
+
+3A.1.7 The Nominating Committee will solicit and accept nominations, including self-nominations, from the Assembly for any elective office. Self-nominations must include an endorsement from a person associated with an ESIP Partners Organization.
+
+3A.1.8 The Nominating Committee shall accept all candidates who meet the qualifications for candidacy as stated in (3A.3) of this policy, and who are willing to serve.  
+
+**Part 2 -- Election Procedure for Volunteer Leaders**
+
+3A.2.1 The Nominating Committee shall present its slate of candidates to the Assembly no later than 15 days prior to the opening of voting. 
+
+3A.2.2 The slate shall be sent via email and posted prominently on the ESIP website.
+
+3A.2.3 Voting shall be conducted by the methods outlined in the ESIP Bylaws further defined within these Policies and Procedures. 
+
+3A.2.4 The vote shall be conducted electronically, with a stated opening and closing date. The voting shall remain open for no less than 15 days but no more than 30 days.
+
+**Part 3 -- Qualifications for Assembly-Elected Volunteer Leaders**
+
+3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partners Organization that is in good standing.
+
+3A.3.2 All volunteer leaders may stand for re-election for one additional consecutive term in the same role.
+
+3A.3.3 There is no limit on the number of times a leader may serve, as long as all other policies are met.
 
 Section 3 -- Program Committee
 ------------------------------
@@ -403,5 +415,7 @@ Section 8 -- Clusters
 reporting the name and activities of the Cluster to the Vice President
 of the Assembly.
 
-This Policy was approved by the ESIP Board on April 25, 2019.
-This Policy was revised on this site on May 31, 2019.
+---
+
+This Policy was approved by the ESIP Board on July 15, 2019.
+This Policy was revised on this site on August 9, 2019.
