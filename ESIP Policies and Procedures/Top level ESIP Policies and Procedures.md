@@ -50,6 +50,8 @@ Information Partners (ESIP)**
     [3.5A Travel and Expense Reimbursement](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
     
     [3.5B Complimentary Meeting Registration](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P&P%203.5B%20Complimentary%20Registration%20Fee%20Policy.md)
+    
+    [3.5C Use of Credit Card Points](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5C%20Use%20of%20Credit%20Card%20Points.md)
  
     [3.6 Asset Management](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.6%20Asset%20Management%20Policies.md)
 
@@ -76,6 +78,11 @@ A. Committee, Working Group and Cluster Best Practices and Rules
    [A.1 Funding Friday](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Funding%20Friday%20Rules.md)
    
    [A.2 Raskin Scholarship Procedures](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Raskin%20Scholarship%20Procedure.md)
+   
+   [A.3 Martha Maiden Award Procedures](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Martha%20Maiden%20Award%20Procedures.md)
 
 B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Template%20for%20new%20Policies).
+
+--
+This document was updated August 9, 2019
