@@ -71,6 +71,8 @@ Section 3A -- Elected VOlunteer Leadership Qualifications, Nominations, and Elec
 
 3A.2.4 The vote shall be conducted electronically, with a stated opening and closing date. The voting shall remain open for no less than 15 days but no more than 30 days.
 
+3A.2.5 Election results will be announced in writing to the Assembly no later than 15 days after the close of voting, and shall include the total number of ballots cast overall and the elected representative for each position. Full results will be posted for persistent public access (e.g., ESIP website, wiki).
+
 ### **Part 3 -- Qualifications for Assembly-Elected Volunteer Leaders**
 
 3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partners Organization that is in good standing.
@@ -255,5 +257,5 @@ Section 8 -- Clusters
 
 ---
 
-This Policy was revised and approved by the ESIP Board on July 15, 2019.
-This Policy was revised on this site on August 9, 2019.
+This Policy was revised and approved by the ESIP Board on October 29, 2019.
+This Policy was revised on this site on November 29, 2019.
