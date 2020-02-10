@@ -23,26 +23,26 @@
 **Section 3 -- ESIP Partner Types Described**
 ------------------------------------------------
 
-Partner Types were created in order to organize Partners within ESIP, and a way to ensure diversity in ESIP governance on Administrative Committees.  Partner Member organizations may fit within more than one type, but are generally advised to choose a type that reflects more than half of the work done by the Partner member organization.  Partners can request a change in Type as their organization changes roles by contacting ESIP Staff.   See the list of current ESIP Partners at:  https://www.esipfed.org/partners
+Partner Types were created in order to (1) allow Partners to better understand other Partners with whom they want to work within ESIP committees and clusters on solutions to data problems in common; (2) provide a simple view of the types of   Partners who have committed to work within ESIP; and (3) ensure diversity in ESIP governance on Administrative Committees. Partners may fit within more than one type, but they are generally advised to choose a type that reflects more than half of the work done by the Partner. Partners can request a change in Type as their organization changes roles by contacting ESIP Staff. See the list of current ESIP Partners:  https://www.esipfed.org/partners
 
-### **Type 1 -- Data and Information Distributors**
-3.1.1 Type 1 ESIP Partners shall be primarily stewards of Earth science and related data sets or its supporting information, as well as providers of standardized products derived from those data.
+### **Type 1 -- Data and Information Distributors, Repositories, and Archive Centers**
+3.1.1 Type 1 ESIP Partners shall be primarily stewards and distributors of Earth science and related data and/or their supporting catalogs, metadata, software, and/or documentation.
 
-3.1.2 Each Type 1 ESIP Partner must designate one Representative to the Assembly by submitting the name to the Chair of the Partnership Committee.
+3.1.2 Each Type 1 ESIP Partner must designate one Representative to the Assembly by submitting the name to the Chair of the Governance Committee.
 
-3.1.3 Type 1 ESIP Partners, as a group, must elect representatives to serve on each of the following Committees: Governance Committee, Partnership Committee, and Finance and Appropriations Committee.
+3.1.3 Type 1 Type 1 ESIP Partners, as a group, must elect representatives to serve on each of the following Committees: Governance Committee, Partnership Committee, and Finance and Appropriations Committee.
 
 ### **Type 2 -- Product and Service Providers**
 
-3.2.1 Type 2 ESIP Partners shall be engaged principally in the scientific development, provision, and support of data and information products, technology, or services aimed primarily at the Earth science and research communities.
+3.2.1 Type 2 ESIP Partners shall be engaged principally in the development, provision, and support of Earth Science research data and information products, including technology, infrastructure, or services, aimed primarily at the Earth science and research communities.
 
 3.2.2 Each Type 2 ESIP Partners must designate one Representative to the Assembly by submitting the name to the Chair of the Governance Committee.
 
 3.2.3 Type 2 ESIP Partners, as a group, must elect representatives to serve on each of the following Committees: Governance Committee, Partnership Committee, and Finance and Appropriations Committee.
 
-### **Type 3 -- Earth Science Application Providers**
+### **Type 3 -- Earth Science Applied Service Providers**
 
-3.3.1 Type 3 ESIP Partners shall be engaged principally in the development, use or dissemination of Earth science information and applications for the purpose of commercial use, decision support, outreach, advocacy, or education.
+3.3.1 Type 3 ESIP Partners shall be engaged principally in the development, provision, and support of applications or services that use or disseminate Earth science data/information for such activities as decision support, outreach, advocacy, or education.
 
 3.3.2 Each Type 3 ESIP Partner must designate one Representative to the Assembly by submitting the name to the Chair of the Governance Committee.
 
@@ -52,13 +52,15 @@ Partner Types were created in order to organize Partners within ESIP, and a way 
 
 3.4.1 Type 4 ESIP Partners shall be major financial or in-kind supporters of ESIP activities.
 
-3.4.2 Each Type 4 ESIP Partner shall have the right to designate one Representative to the Assembly by submitting the name to the Chair of the Governance Committee.
+3.4.2 Each Type 4 ESIP Partner may, at their discretion, designate one voting Representative to the Assembly by submitting the name to the Chair of the Governance Committee.
 
-3.4.3 Each Type 4 ESIP Partner may send one representative as a non-voting member to Board and Finance and Appropriations Committee meetings.
+3.4.3 Each Type 4 ESIP Partner may send one representative to Board meetings and Finance and Appropriations Committee meetings as a non-voting member.
 
-### **Type 5 -- ESIP Supporters**
+### **Type 5 -- Collaborative Data Networks**
 
-3.5.1 Type 5 ESIP Partners shall be non-voting financial or in-kind supporters of ESIP activities.
+3.5.1 Type 5 Partners shall be other associations or networked organizations with missions that complement ESIP (e.g., OGC, EarthCube).
+
+3.5.2 Type 5 ESIP Partners shall be non-voting.
 
 **Section 4 -- Ending a Partnership**
 ------------------------------------------------
@@ -83,5 +85,5 @@ Partner Types were created in order to organize Partners within ESIP, and a way 
 
 --
 
-This Policy was revised and approved by the ESIP Board on July 15, 2019.
-This Policy was revised on this site on August 9, 2019.
+This Policy was revised and approved by the ESIP Board on January 6, 2020.
+This Policy was revised on this site on February 10, 2020.
