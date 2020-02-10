@@ -7,7 +7,7 @@ Information Partners (ESIP)**
 
     [1.1  Goals](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.1%20Goals.md)
 
-    [1.2  Members and Member Organization](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Members%20and%20Member%20Organizations.md)
+    [1.2  Partners and Partner Organizations](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Partners%20and%20Partner%20Organizations.md)
 
     [1.3  Corporate Organization](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md)
 
