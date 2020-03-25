@@ -32,12 +32,12 @@ procurement. The procurement of resources that cost more than \$2000
 must follow a formal bidding or quote process to ensure that the
 resource is acquired at a competitive price.
 
--   Purchases under the micro-purchase threshold, currently \$2000, are
+-   Purchases under the micro-purchase threshold, currently \$3500, are
     awarded without soliciting competitive quotes; however, to the
     extent possible, prices are shopped using online and/or local
     stores.
 
--   For purchases above \$2000 and below \$150,000, a quotation/invoice
+-   For purchases above \$3500 and below \$150,000, a quotation/invoice
     shall be obtained from two-three qualified sources or from as wide
     of a range of suppliers deemed practical in terms of time,
     potential savings and good business practice. Four major factors
@@ -100,6 +100,7 @@ Individuals authorized to perform purchasing functions shall:
 -   Ensure the review and flow down of applicable grant terms and
     conditions are incorporated into all purchase orders and
     subawards.
+-   Ensure that contracts are only made with responsible contractors who possess the potential ability to perform successfully under the terms and conditions of the proposed procurement. Consideration shall be given to such matters as contractor integrity; compliance with public policy, including, where applicable, record of past performance; financial and technical resources or accessibility to other necessary resources. In certain circumstances, contracts with certain parties are restricted by implementation of executive order 12549, “Debarment and Suspension,” at 2 CFR parts 180 and 1880.
 
 Individuals shall be responsible for protecting proprietary and
 financial information of its suppliers. Use or disclosure of supplier
@@ -108,4 +109,6 @@ strictly prohibited. Supplier pricing information shall not be disclosed
 outside of the Organization without the prior written approval of the
 supplier.
 
-Approved by the ESIP Board of Directors on January 14, 2019.
+
+
+Approved by the ESIP Board of Directors on TBD - April 20, 2020.
