@@ -25,7 +25,7 @@ Information Partners (ESIP)**
 
 2.  **Ethics and Conduct**
 
-    [2.1  Code of Conduct](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Code%20of%20Conduct.md)
+    [2.1  ESIP Community Participation Guidelines](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Community%20Participation%20Guidelines.md)
    
     [2.2  Conflict of Interest](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.2%20Conflict%20Of%20Interest.md)
 
