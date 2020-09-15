@@ -11,7 +11,7 @@ For ease of navigation, we provide links to specific sections, but encourage you
 
 [Section 3 – Behaviors That Will Not Be Tolerated](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-3----behaviors-that-will-not-be-tolerated)
 
-[Section 4 – Consequences of Unacceptable Behavior](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-42----consequences-of-unacceptable-behavior)
+[Section 4 – Consequences of Unacceptable Behavior](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-4----consequences-of-unacceptable-behavior)
 
 [Section 5 – Reporting](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-5----reporting)
 
@@ -170,7 +170,7 @@ Sustained disruption of events, forums, or meetings, including talks and present
 Intentional efforts to exclude people from ESIP activities (except as a consequence of these guidelines or other official action) are not acceptable and will be dealt with appropriately.
 
 ### **Influencing Unacceptable Behaviors**
-We will treat influencing or leading unacceptable behaviors the same way we treat the unacceptable behaviors themselves. Thus, the same consequences ([Section 4](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-42----consequences-of-unacceptable-behavior)) apply.
+We will treat influencing or leading unacceptable behaviors the same way we treat the unacceptable behaviors themselves. Thus, the same consequences ([Section 4](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-4----consequences-of-unacceptable-behavior)) apply.
 
 
 **Section 4 -- Consequences of Unacceptable Behavior**
