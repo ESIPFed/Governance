@@ -125,8 +125,7 @@
         1. The Board of Directors will approve the issuance of all ESIP
         credit cards.
         2. Credit cards will be issued in the name of the employee.
-        a. Current policy authorizes one user, the ESIP Executive
-        Director.
+       
         3. For employees other than the Executive Director, the card
         will have a credit limit of $5,000.
         4. The card may be used only for the purchase of goods or
@@ -149,7 +148,7 @@
         Director. Receipts must show the date, purpose, and name(s) for
         which the expense was incurred. Monthly credit card statements
         will be reviewed at least quarterly by the Treasurer for
-        accuracy.
+        accuracy. If receipt is lost or missing, employee will write a description of purchase, sign and date and Executive Director will also sign and date. This will be included with all other monthly receipts. 
 
 #### I.  Expense Allocation
 
