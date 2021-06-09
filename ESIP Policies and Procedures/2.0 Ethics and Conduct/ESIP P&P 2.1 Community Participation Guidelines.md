@@ -205,8 +205,6 @@ If you believe you have experienced or are experiencing unacceptable behavior as
 
    **Email:** esip@integritycounts.ca
 
-Additional details on this process can be found [here](https://docs.google.com/document/d/1XTsZ1Ae-UXYbdkeDakOq_uwnk3WWdGFwBBZlmIMUYSU/edit#).
-
 If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process. Acts of retaliation should also be reported via the same process as described above.
 
 
@@ -223,7 +221,7 @@ ESIP events will have emergency contacts designated for each event. These contac
 
 Participants should be asked to review and agree to these guidelines when they sign up for an event. Conveners of ESIP events are requested to speak about these guidelines at the start of an event, so that participants are reminded of their responsibility to abide by the guidelines. 
 
-Each physical or virtual ESIP space shall have a designated contact. If not otherwise stated, the session lead and any ESIP staff present shall be considered the designated contact. More information on the role of designated contacts can be found [here]( https://docs.google.com/document/d/1XTsZ1Ae-UXYbdkeDakOq_uwnk3WWdGFwBBZlmIMUYSU/edit#).
+Each physical or virtual ESIP space shall have a designated contact. If not otherwise stated, the session lead and any ESIP staff present shall be considered the designated contact.
 
 
 **Section 8 -- Modifications to These Guidelines**
