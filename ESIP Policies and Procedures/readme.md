@@ -86,8 +86,8 @@ Information Partners (ESIP)**
 
 * C. Appendix C. Supplemental Documents
 
-    [C.1 Community Participation Guidelines (CPG) Reporting - Additional Information]
-(https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Community%20Participation%20Guidelines%20(CPG)%20Reporting%20-%20Additional%20Information)
+    [C.1 Community Participation Guidelines (CPG) Reporting - Additional Information](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Community%20Participation%20Guidelines%20(CPG)%20Reporting%20-%20Additional%20Information)
+
 --
 
-This document was updated August 9, 2019
+This document was updated January 14, 2022
