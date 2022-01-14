@@ -84,6 +84,10 @@ Information Partners (ESIP)**
 * B.  [Here is a blank template for new Policies and Procedures as
     necessary](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Template%20for%20new%20Policies).
 
+* C. Appendix C. Supplemental Documents
+
+    [C.1 Community Participation Guidelines (CPG) Reporting - Additional Information]
+
 --
 
 This document was updated August 9, 2019
