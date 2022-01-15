@@ -59,7 +59,7 @@ Section 3A -- Elected Volunteer Leadership Qualifications, Nominations, and Elec
 
 3A.1.7 The Nominating Committee will solicit and accept nominations, including self-nominations, from the Assembly for any elective office. Self-nominations must include an endorsement from a person associated with an ESIP Partners Organization.
 
-3A.1.8 The Nominating Committee shall accept all candidates who meet the qualifications for candidacy as stated in ([3A.3](.../blob/master/ESIP Policies and Procedures/1.0 Corporate/ESIP P%26P 1.3 Corporate Organization.md#part-3----qualifications-for-assembly-elected-volunteer-leaders)) of this policy, and who are willing to serve.  
+3A.1.8 The Nominating Committee shall accept all candidates who meet the qualifications for candidacy as stated in ([3A.3](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P&P%201.3%20Corporate%20Organization.md#part-3----qualifications-for-assembly-elected-volunteer-leaders)) of this policy, and who are willing to serve.
 
 ### **Part 2 -- Election Procedure for Volunteer Leaders**
 
