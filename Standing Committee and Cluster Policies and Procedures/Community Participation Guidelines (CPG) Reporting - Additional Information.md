@@ -46,7 +46,7 @@ members that may include the Governance Chair and the Vice-President. Reporters 
 to exclude one or more of these individuals from viewing the report.
 
 Upon receiving a complaint from a community member, the complaint will be assessed for
-severity and violation of the Community Participation Guidelines and all parties will be notified
+severity and violation of the Community Participation Guidelines, and all parties will be notified
 of the complaint. Investigators will be assigned by ESIP’s Executive Director and/or Board
 President, to investigate the complaint.
 
