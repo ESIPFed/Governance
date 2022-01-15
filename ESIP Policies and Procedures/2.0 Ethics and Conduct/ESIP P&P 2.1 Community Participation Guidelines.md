@@ -205,6 +205,8 @@ If you believe you have experienced or are experiencing unacceptable behavior as
 
    **Email:** esip@integritycounts.ca
 
+Additional details on this process can be found [here](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Community%20Participation%20Guidelines%20(CPG)%20Reporting%20-%20Additional%20Information.md).
+
 If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process. Acts of retaliation should also be reported via the same process as described above.
 
 
