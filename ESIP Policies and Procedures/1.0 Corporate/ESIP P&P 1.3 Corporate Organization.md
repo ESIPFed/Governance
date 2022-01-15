@@ -40,7 +40,7 @@ Section 2 -- ESIP Assembly-Elected Volunteer Leadership
 
 2.3.3 Any elected volunteer leader may be removed from office for conduct which in any way tends to substantially injure ESIP or to affect adversely its reputation, or which is destructive to ESIP's goals and activities. Any Representative to the Assembly may recommend removal of any elected volunteer leader to the Chair of the Governance Committee. The Governance Committee will notify the leader concerned and ask for comment. The Governance Committee will then consider the recommendation and, if approved, will present its recommendation for removal with the comments from the concerned leader in writing to the Assembly. The Governance Committee will then petition the Representatives. If the recommendation for removal receives approval by two- thirds of the Representatives, the leader concerned shall be declared unable to continue in office.
 
-Section 3A -- Elected VOlunteer Leadership Qualifications, Nominations, and Elections
+Section 3A -- Elected Volunteer Leadership Qualifications, Nominations, and Elections
 ------------------------------
 
 ### **Part 1 -- Nominating Committee: Electing Volunteer Leaders**
