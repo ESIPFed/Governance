@@ -41,7 +41,7 @@ report yourself, even anonymously, but want the information recorded, you may as
 
 Reports made to Integrity Counts (Web: https://www.integritycounts.ca/org/esip; Toll Free
 Number: 1-866-921-6714; Email: esip@integritycounts.ca) are shared with ESIP’s Executive
-Director, Operations Director and President, and, optionally, additional review committee
+Director, Operations Director, and President, and, optionally, additional review committee
 members that may include the Governance Chair and the Vice-President. Reporters may elect
 to exclude one or more of these individuals from viewing the report.
 
