@@ -1,4 +1,6 @@
 **Earth Science Information Partners (ESIP)** Travel and Expense Reimbursement
+
+(This Travel Policy is for our Volunteers and Is currently being revised.  The Staff Travel Policy is located in the ESIP Employee Handbook)
 ==============================================================================
 
 Travel (including registration fee) to ESIP workshops and professional
@@ -78,7 +80,7 @@ e) **Lodging**
 In the event that there is no scheduled conference or workshop hotel,
 travelers are encouraged to book ordinary accommodations at mid-market
 hotels or motels, and to take advantage of any available discounts.
-Reasonable efforts should be made to obtain hotel accomodations at the
+Reasonable efforts should be made to obtain hotel accommodations at the
 location per diem limit as stated in the GSA guidelines. Original
 itemized hotel receipts are required for reimbursement.
 
@@ -163,8 +165,6 @@ exception.
 
 NOTES:
 
-Policy Document? At least review with Erin
-
 -   Travel requests can be included in committee budgets or special projects proposals
 
     -   To represent ESIP at some other group meeting - connection must be clear, ESIP must be explicitly represented
@@ -193,4 +193,4 @@ Policy Document? At least review with Erin
 
 -   Set limit on how much ESIP will pay (e.g. ESIP will cover \$2k for travel, including registration, and anything over and above covered by participant)
 
-This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
+This Policy was approved by the Board of Directors of ESIP on October 17, 2017. Revisions to this policy were approved by the Board on September 15 2021.
