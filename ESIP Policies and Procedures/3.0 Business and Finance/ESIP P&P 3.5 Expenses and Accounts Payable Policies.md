@@ -9,8 +9,7 @@
 
     b.  Procedures:
 
-        i.  The Executive Director processes payroll through ADP and
-            monitors the relationship with ADP.
+        i.  The Operations Director processes payroll through Quickbooks.
 
 #### B.  Time Sheet Preparation & Approval
 
@@ -20,22 +19,19 @@
 
     d.  Procedures:
 
-        i. Employees complete timesheets and submit them to their
+        i. Employees complete timesheets in Quickbooks and submit them to their
             supervisors on the due date, based on the schedule produced
             at the beginning of the year.
 
-        ii. Supervisors review, correct if necessary, sign and submit
-            timesheets to the Finance Manager within three (3) working
-            days from the timesheet due date.
+        ii. Supervisors review, correct if necessary, and approve.
 
-        iii. The Finance Manager is responsible for entering time sheet
-            information into the accounting system monthly. All paid
+        iii. All paid
             time off balances are maintained within the payroll system,
             based on the information provided on approved timesheets.
 
 #### C.  Purchase & Procurement 
 
-    a.  Policy: Any expenditure in excess of $2000 for the purchase of
+    a.  Policy: Any expenditure in excess of $10,000 for the purchase of
         a single item should have bids from three (3) suppliers if
         possible. These bids will be reviewed by the Executive Director
         and the bid award must be specifically approved in advance by
@@ -49,14 +45,12 @@
         must be submitted at least 10 days before the resource must be
         ordered. A comparative analysis of available resources should be
         completed prior to procurement. The procurement of resources
-        that cost more than $2000 must follow a formal bidding process
+        that cost more than $10,000 must follow a formal bidding process
         to ensure that the resource is acquired at a competitive price.
 
 #### D.  Bill Approval & Processing 
 
-    a.  Policy: Bills may be received by postal service or email. All
-        hard copy bills received are scanned and the electronic image is
-        stored. All bills must be approved by the Executive
+    a.  Policy: Bills may be received by postal service or email. All bills are processed through Bill.com. All bills must be approved by the Executive
         Director. Approved bills will normally be paid within 30 days of
         receipt or as required by the agreement/bill terms. All accounts
         payable transactions must have supporting documentation adequate
@@ -67,54 +61,24 @@
     b.  Procedure:
 
         i.  Bills will be opened, reviewed and scanned to electronic
-            form by the Executive Director.
+            form by the Operations Director.
 
         ii. All goods and services purchased directly for a grant are
             coded to the appropriate Job Name in the accounting system.
-            The bills will be marked by the Executive Director or
-            designee to show job, account, and class to ensure proper
-            coding of costs in the accounting system.
 
-        iii. Bills are entered into the accounting system by the Finance
-            Manager no less than monthly, and a digital copy of the
-            original bill as well as supporting documentation (receipts)
-            if available will be attached thereto.
+        iii. Bills are entered into Bill.com by the Operations Director upon receipt.
 
-        iv. Copies of all bills paid will be filed online by the
-            finance department. After two years these documents will be
-            archived but they will not be destroyed. See the Record
-            Retention Policy for record disposition guidance.
+        iv. All invoices are stored in Bill.com.
 
-#### E.  Cash Disbursement
-
-    a.  Policy: Cash payments are made from the Operating Account unless
-        Board approval is granted to use an alternative funding source.
-
-    b.  Procedure:
-
-        i. Vendors submit a request for payment electronically via
-            email. Email forwards to both Executive Director and Finance
-            Manager. Executive Director reviews and approves payment,
-            then assigns FOC the task of entering the bill into the
-            accounting system. FOC also monitors any backlog of payment
-            requests (emails) that the ED has not approved, and prompts
-            ED when applicable. FOC enters the approved bill into the
-            accounting system and attaches electronic copies (see Bill
-            Approval & Processing section above.) ED periodically
-            reviews the unpaid bills report from the accounting system,
-            and pays selected bills by printing checks, signing and
-            mailing.
-
-#### F.  Expense Reimbursement
+#### E. Expense Reimbursement
 
     a.  Policy: Staff members are reimbursed for approved travel and
         entertainment expenses. Staff members are asked to complete a
         record of all expenses for which they seek reimbursement and to
         submit receipts along with the expense record for reimbursement
-        to billing@esipfed.org. Reimbursement is made via check or EFT
-        within two weeks of receipt of the reimbursement request.
+        to the Operations Director.  All reimbursements are processed through Bill.com.
 
-#### G.  [Travel Expense - see policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
+#### F.  [Travel Expense - see policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
 
 #### H.  Company Credit Cards
 
@@ -122,32 +86,29 @@
         to effectively and efficiently make purchases in relation to the
         Board of Directors approved ESIP budget.
          **Guidelines**
-        1. The Board of Directors will approve the issuance of all ESIP
+        1. The Executive Director will approve the issuance of all ESIP
         credit cards.
         2. Credit cards will be issued in the name of the employee.
-       
-        3. For employees other than the Executive Director, the card
-        will have a credit limit of $5,000.
-        4. The card may be used only for the purchase of goods or
+        3. The card may be used only for the purchase of goods or
         services for official business of the ESIP.
-        5. All purchases will be within current budget line item
+        4. All purchases will be within current budget line item
         amounts. (See Fiscal Procedure for further details.)
-        6. The person issued the card is responsible for its protection
+        5. The person issued the card is responsible for its protection
         and custody, and shall immediately notify the credit card
         company and Executive Director if it is lost or stolen.
-        7. The person issued the card must immediately surrender the
-        card to the current Board Chair or Vice Chair when affiliation
+        6. The person issued the card must immediately surrender the
+        card to the Executive Director when employment
         with ESIP has ended.
-        8. The person using a credit card for purchases that cannot be
+        7. The person using a credit card for purchases that cannot be
         substantiated as a necessary purchase for official business will
         be subject to disciplinary action
 
     b.  Procedure: Credit card statements, along with receipts for all
         items to be paid by the ESIP, will be reconciled on a monthly
-        basis by the Financial Manager and reviewed by the Executive
+        basis by the Operations Director and reviewed by the Executive
         Director. Receipts must show the date, purpose, and name(s) for
         which the expense was incurred. Monthly credit card statements
-        will be reviewed at least quarterly by the Treasurer for
+        will be reviewed by the Treasurer for
         accuracy. If receipt is lost or missing, employee will write a description of purchase, sign and date and Executive Director will also sign and date. This will be included with all other monthly receipts. 
 
 #### I.  Expense Allocation
@@ -164,8 +125,7 @@ grant. Cost items where (i) the allocability to specific cost objectives
 is not readily measurable or (ii) are insignificant in value (example:
 supplies) are charged to the applicable indirect expense pool.
 
-Upon receipt of an executed grant or other agreement, the Finance
-Manager creates a new customer/job in the accounting system. Service
+Upon receipt of an executed grant or other agreement, the outside accountant creates a new customer/job in the accounting system. Service
 items and classes may be created as needed to facilitate cost tracking
 in accordance with grant requirements.
 
@@ -193,5 +153,5 @@ objectives by means of an allocation base common to all objectives which
 will share in the allocation of the pooled expenses. The basic
 classifications of indirect pools are fringe, indirect, and unallowable.
 
-This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
+This Policy was approved by the Board of Directors of ESIP on October 17, 2017. Revisions to this policy were approved by the Board on September 15 2021.
 
