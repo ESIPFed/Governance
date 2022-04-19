@@ -48,7 +48,7 @@
 
   b.  Procedures:
 
-   i. The Finance Manager is responsible for producing the
+   i. The outside accountant is responsible for producing the
             following year-to-date reports within 30 days of the end of
             each month: P&L, Balance Sheet, P&L by Job, and P&L by
             Class.
@@ -103,17 +103,13 @@
 
 ##### E.  Quarterly Payroll Reports 
 
-  a.  Policy: ESIP outsources payroll to ADP.
+  a.  Policy: The Operations Director processes payroll through Quickbooks.
 
   b.  Procedure:
 
-   i. ADP prepares employee W2s by January 15 and the Executive
+   i. The Operations Director prepares employee W2s by January 15 and the Executive
             Director ensures accuracy, timeliness and delivery to
             employees.
-
-   ii.  ADP files quarterly payroll tax reports. The Executive
-            Director oversees this responsibility to ensure accuracy and
-            timeliness.
 
 ##### F.  Committee and Working Group Proposals and Budget Requests
 
@@ -121,4 +117,4 @@
     
 
 This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+17, 2017. Revisions to this policy were approved by the Board on September 15 2021.
