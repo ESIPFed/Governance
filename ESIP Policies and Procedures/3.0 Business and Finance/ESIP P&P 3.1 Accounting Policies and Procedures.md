@@ -31,14 +31,11 @@ B.  Reconciliations
 
     a.  Policy: All bank and credit card statements will be opened and
         reviewed in a timely manner. Reconciliation and approval will
-        occur within 30 days of the close of the month.
+        occur within 30 days of the close of the month. The Treasurer approves the Executive Director charges and any invoice over $5,000.
 
     b.  Procedures:
 
-        i. Monthly statements are reviewed by the Finance Manager, who
-            then submits them to a third party bookkeeper for
-            reconciliation. The bookkeeper communicates to the Finance
-            Manager any discrepancies, and reports back the results of
+        i. Monthly statements are reviewed and reconciled by the Operations Director. The Operations Director communicates to the Executive Director any discrepancies, and reports back the results of
             the reconciliations.
 
 C.  Security
@@ -48,28 +45,26 @@ C.  Security
 
         i.  The Executive Director
 
-        ii. The Finance Manager
-
-        iii. The accountant
+        ii. The Operations Director
 
     b.  Access to the internal accounting system (Quickbooks) is
         restricted to the following:
 
         i. The Executive Director
 
-        ii. The Finance Manager
+        ii. Operations Director
 
         iii.  The accountant
 
-        iv. The bookkeeper
-
-        v. External Auditor
+        iv. External Auditor
 
     c.  Only the Executive Director has the authority to approve
         payments and sign checks, or perform online banking
         transactions, and any payments in excess of $5,000 must be
         approved by the ESIP President in addition to the Executive
         Director.
+        
+        For continuity, the operations Director will have access to online bank and grant accounts.  In the event that the Executive Director is unable to perform these tasks, the Operations Director may approve payments and sign checks, or perform online banking transactions, and initiate draws from federal grant accounts with written permission from the Executive Director or Treasurer for each instance.  (exercising this authority without express permission is grounds for disciplinary action up to and including termination.)  All authorizations will be kept for review by the auditors.
 
     d.  Only the Executive Director has administrative rights to
         internal and external accounting functions, and only the
@@ -77,4 +72,4 @@ C.  Security
         list of others who have access.
 
 This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+17, 2017. Revisions to this policy were approved by the Board on September 15 2021.
