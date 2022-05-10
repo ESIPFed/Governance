@@ -326,8 +326,7 @@ by investment counsel.\]
         i. Executive Director is responsible for ERISA compliances and
             works with a third party firm.
 
-        ii. ADP withholds employee contribution and Executive Director
-            makes company contributions by 3rd of the month.
+        ii. Employee contributions are withheld from employees’ paychecks and contributions are submitted by the Operations Director each payday.
 
 #### D.  Operating Reserve
 

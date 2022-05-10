@@ -13,19 +13,19 @@ a.  Policy: All grants and sponsors are invoiced each month, or as
 
 b.  Procedures:
 
-   i.  The Finance Manager gathers relevant expense documentation,
+   i.  The Operations Director gathers relevant expense documentation,
             prepares all invoices, and submits to the Executive Director
             for approval by the 10th of each month.
 
-   ii. Following approval, the Finance Manager electronic invoice
+   ii. Following approval, the Operations Director electronic invoice
             is emailed or mailed and saved in a network folder.
 
-   iii. The Finance Manager will perform a monthly reconciliation
+   iii. The outside accountant will perform a monthly reconciliation
             between recorded direct costs shown in the accounting system
             and amounts invoiced. Discrepancies will be addressed in the
             next billing cycle.
 
-   iv. As part of the monthly close process, the Finance Manager
+   iv. As part of the monthly close process, the outside accountant
             reviews an Accounts Receivable Aging report and alerts the
             Executive Director of invoices more than 60 days overdue.
 
@@ -62,7 +62,7 @@ d.  Procedures:
             that the donor is contacted to clarify the intent of the
             contribution.
 
-   viii. The Finance Manager is responsible for posting revenue to
+   viii. The Operations Director is responsible for posting revenue to
             the general ledger in accordance with the determination made
             by the Executive Director.
 
@@ -76,11 +76,9 @@ e.  Policy: Most incremental payments from grants are electronically
 
 f.  Procedure:
 
-   ix. The Executive Director receives and opens all mail.
+   ix. The Operations Director receives and opens all mail.
 
-   x.  Checks are endorsed by Executive Director and deposited
-            electronically. Electronically deposited checks are retained
-            at 4524 14th St., Boulder, CO. If a bank deposit is made,
+   x.  Checks are endorsed by Executive Director and deposited. If a bank deposit is made,
             the check is first scanned or copied to retain a record of
             its existence.
 
@@ -89,4 +87,4 @@ f.  Procedure:
             24 hours except when received over a weekend or holiday.
 
 This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+17, 2017. Revisions to this policy were approved by the Board on September 15 2021.
