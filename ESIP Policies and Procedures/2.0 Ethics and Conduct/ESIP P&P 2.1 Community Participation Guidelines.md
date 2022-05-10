@@ -60,6 +60,7 @@ These guidelines outline our behavior expectations as members of the ESIP commun
 -	Participating in ESIP Meetings.
 -	Representing ESIP at public events.
 -	Representing ESIP in social media (official accounts, staff accounts, Facebook pages).
+-	Sharing materials at ESIP meetings, or on ESIP organizational platforms (ESIP website, Figshare repository, GitHub etc).
 -	Participating in ESIP-related forums, mailing lists, wikis, websites, Slack channels, GitHub issues, group or person-to-person meetings, and ESIP-related correspondence.
 
 While these guidelines are specifically aimed at ESIP’s work and community, we recognize that actions taken outside of ESIP’s online or in-person spaces could impact community health. For example, actions taken outside of ESIP’s spaces by an ESIP community member against another ESIP community member may warrant corrective measures as detailed later in this document (Section 4).
@@ -106,6 +107,10 @@ ESIP community participants come from many cultures and backgrounds. Cultural di
 
 By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond in ways that are valuable and appropriate for our organizational outcomes. Design your community and your work for inclusion. Hold yourself and others accountable for inclusive behaviors. Make decisions based on the highest good for [ESIP’s Mission](https://www.esipfed.org/about/mission))
 
+### **Provide Credit and Attribution**
+
+Provide appropriate attribution to the work and ideas of others in both speech and material development. By recognizing the contributions of others we highlight provenance and demonstrate value for our colleagues, promoting collaboration and cohesion. We follow community leading practices in citation of  publications, data, code, images and other artifacts. When preparing materials to include in presentations recorded as part of the ESIP activities, we adhere to licensing and usage restrictions for all materials (including those fun images found via google!)
+ 
 
 **Section 3 -- Behaviors That Will Not Be Tolerated**
 ------------------------------------------------
