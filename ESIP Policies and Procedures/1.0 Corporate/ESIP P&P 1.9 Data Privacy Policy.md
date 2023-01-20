@@ -13,7 +13,8 @@ When accessing our Site, we will learn certain information about you during your
 
 For people participating in ESIP partnerships, meetings, newsletter subscriptions, and other activities, we may also collect other information such as education, employment data, gender, scientific interest. This information will be stored in our community database.
 
-**2.1.1. IMAGES AND PHOTOGRAPHY**
+***2.1.1. IMAGES AND PHOTOGRAPHY***
+
 During ESIP events, staff or participants may gather screen captures and at some in-person events a photographer may take photographs. For all ESIP Meetings, participants are asked during registration to give consent for recording and photo release.
 #### 2.2. COOKIES
 A “cookie” is a file that a website stores in a user’s computer for future reference. Individuals may set their browsers to reject cookies; however, there are ESIP services that will not fully function unless the user accepts the ESIP cookie. For example, when a user returns to that ESIP service, the cookie will identify the user as a previous visitor. Information supplied through an ESIP cookie is used only by ESIP to help enhance services provided and is not shared with others. 
@@ -24,7 +25,7 @@ Web “beacons” are transparent pixel images embedded at certain points on web
 #### 2.3. WEBSITE ANALYTICS
 ESIP gathers web traffic through a third-party service, Google Analytics as well as email marketing, event planning, and social media analytics through other platforms. All information is aggregated and is not personally identifiable. On the ESIPfed.org website we use WordPress plugins to enable acknowledgement of the use of cookies. Users can choose to accept or withhold certain information from Google Analytics in this way. 
 
-### 3.USE OF INFORMATION
+### 3. USE OF INFORMATION
 Once collected, ESIP may use information in a variety of ways including: 
 
 - To communicate with you about your ESIP participation, if applicable, or to communicate information about ESIP. For example, we may send all new users a registration e-mail, and we will also occasionally send important notices or information.
