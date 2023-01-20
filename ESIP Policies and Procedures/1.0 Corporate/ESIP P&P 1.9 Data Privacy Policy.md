@@ -1,11 +1,13 @@
 **Policy and Procedure 1.8 - ESIP Data Privacy Policy**
 
 Section 1 -- 1. OVERVIEW
+----
 Earth Science Information Partners (ESIP) is committed to protecting your privacy. We respect your right to make choices about the information you share and we do not, rent, or lease your information to third parties. This privacy policy (“Privacy Policy”) describes how ESIP collects information, including certain personally identifiable information, and how ESIP may use, process, and share such information. The Privacy Policy serves as the notice to inform individuals about the collection and use of personally identifiable information that is about them.
 By using the ESIP website (“Site”), including any other ESIP managed sites or apps, you agree to the collection and use of information in accordance with this policy. This policy is effective (January 2023). We reserve the right to update or change our policy at any time consistent with the process detailed in the section, ‘Changes to Policy’ below. Your continued use of the Site after we post any modifications to this policy will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified policy.
 In service of our mission, ESIP collects information about those who engage with us and/or visit our Sites (esipfed.org, wiki.esipfed.org, and igniteagu.io). This information and the data derived are used, in part, to improve the communication and supporting the Earth Science data management community, to understand and improve programs and websites, and to serve the interests of partners, meeting attendees and others.
 
 Section 2 -- INFORMATION COLLECTED
+----
 ## 2.1. INDIVIDUAL INFORMATION
 When accessing our Site, we will learn certain information about you during your visit. Information may include, but is not limited to, your name, email addresses and phone number. We may also collect information that your browser sends whenever you visit our Site. Our website utilizes a standard technology called “cookies” (described below) and server logs to collect information about how our Site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your computer’s Internet Protocol (“IP”) address.
 For people participating in ESIP partnerships, meetings, newsletter subscriptions, and other activities, we may also collect other information such as education, employment data, gender, scientific interest. This information will be stored in our community database.
