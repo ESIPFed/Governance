@@ -1,4 +1,4 @@
-## Policy and Procedure 1.8 - ESIP Data Privacy Policy
+## Policy and Procedure 1.9 - ESIP Data Privacy Policy
 
 ### 1. OVERVIEW
 Earth Science Information Partners (ESIP) is committed to protecting your privacy. We respect your right to make choices about the information you share and we do not, rent, or lease your information to third parties. This privacy policy (“Privacy Policy”) describes how ESIP collects information, including certain personally identifiable information, and how ESIP may use, process, and share such information. The Privacy Policy serves as the notice to inform individuals about the collection and use of personally identifiable information that is about them.
