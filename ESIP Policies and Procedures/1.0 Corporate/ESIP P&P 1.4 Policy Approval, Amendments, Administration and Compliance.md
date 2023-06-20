@@ -35,7 +35,7 @@ Annual Meeting.
 
 1.2.6 All policy changes that will delegate decision-making authority from the
 Program Committee must be put forward to the Program Committee for comment at
-an initial Program Committee meeting and then voted on at the next monthly meeting.
+a Program Committee meeting and then voted on at the next meeting.
 
 ### **Part 3 -- Updating Policy and Procedure Documents**
 
