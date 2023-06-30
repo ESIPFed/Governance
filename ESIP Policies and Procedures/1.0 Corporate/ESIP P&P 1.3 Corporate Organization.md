@@ -75,7 +75,7 @@ Section 3A -- Elected Volunteer Leadership Qualifications, Nominations, and Elec
 
 ### **Part 3 -- Qualifications for Assembly-Elected Volunteer Leaders**
 
-3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partners Organization that is in good standing.
+3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partner Organization that is in good standing. Alternatively, a candidate may be affiliated with an organization whose partnership application is pending. In this instance, pending status would be indicated on the ballot and the candidate will not take office until Organizational Partnership is approved. 
 
 3A.3.2 All volunteer leaders may stand for re-election for one additional consecutive term in the same role.
 
