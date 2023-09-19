@@ -45,4 +45,4 @@ a Program Committee meeting and then voted on at the next meeting.
 
 1.3.3 The Chair of the Governance Committee shall modify the revised policy to include the text “This policy was updated on \<date\>.”, where \<date\> is the date that the change was committed to the document.
 
-This Policy was updated on June 20, 2023.
+This Policy was updated on July 17, 2023.
