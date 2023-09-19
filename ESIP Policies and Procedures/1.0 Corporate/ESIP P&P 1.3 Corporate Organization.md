@@ -165,7 +165,7 @@ Section 6 -- Standing Committees, Working Groups and Clusters
 
 ### **Part 1 -- General**
 
-6.1.1 Standing Committees are created by amendment of the Policies and Procedures to include a new Section in Bylaw V. Proposals to amend the Policies and Procedures to create a new Standing Committee must state the name and general activities and responsibilities of the proposed Standing Committee.
+6.1.1 Standing Committees are created by amendment of the Policies and Procedures to include a new Part under this Section of the Policy and Procedures. Proposals to amend the Policies and Procedures to create a new Standing Committee must state the name and general activities and responsibilities of the proposed Standing Committee.
 
 6.1.2 Each Standing Committee shall have a Chair elected by simple majority of a secret ballot of the Assembly. Each Standing Committees shall have a Vice Chair elected by a simple majority of the members of the Committee.
 
