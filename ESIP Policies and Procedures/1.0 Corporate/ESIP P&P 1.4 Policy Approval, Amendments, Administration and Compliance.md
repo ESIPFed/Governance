@@ -35,7 +35,7 @@ Annual Meeting.
 
 1.2.6 All policy changes that will delegate decision-making authority from the
 Program Committee must be put forward to the Program Committee for comment at
-an initial Program Committee meeting and then voted on at the next monthly meeting.
+a Program Committee meeting and then voted on at the next meeting.
 
 ### **Part 3 -- Updating Policy and Procedure Documents**
 
@@ -45,4 +45,4 @@ an initial Program Committee meeting and then voted on at the next monthly meeti
 
 1.3.3 The Chair of the Governance Committee shall modify the revised policy to include the text “This policy was updated on \<date\>.”, where \<date\> is the date that the change was committed to the document.
 
-This Policy was updated on May 30, 2019.
+This Policy was updated on June 20, 2023.

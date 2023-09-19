@@ -75,7 +75,7 @@ Section 3A -- Elected Volunteer Leadership Qualifications, Nominations, and Elec
 
 ### **Part 3 -- Qualifications for Assembly-Elected Volunteer Leaders**
 
-3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partners Organization that is in good standing.
+3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partner Organization that is in good standing. Alternatively, a candidate may be affiliated with an organization whose partnership application is pending. In this instance, pending status would be indicated on the ballot and the candidate will not take office until Organizational Partnership is approved. 
 
 3A.3.2 All volunteer leaders may stand for re-election for one additional consecutive term in the same role.
 
@@ -156,7 +156,7 @@ Section 5 -- Administrative Committees
 
 5.5.1 The Meeting Committee shall oversee ESIP's twice annual meetings. This committee will also respond to any meeting feedback.
 
-5.5.2 The Vice President of ESIP will server as the Chair of the Meeting Committee.
+5.5.2 The Vice President of ESIP will serve as the Chair of the Meeting Committee.
 
 5.5.3 Membership to the committee is open to any ESIP participant who wishes to contribute.
 
@@ -169,7 +169,7 @@ Section 6 -- Standing Committees, Working Groups and Clusters
 
 6.1.2 Each Standing Committee shall have a Chair elected by simple majority of a secret ballot of the Assembly. Each Standing Committees shall have a Vice Chair elected by a simple majority of the members of the Committee.
 
-6.1.3 Standing Committees shall each year hold at least one physical meeting. All ESIPs will be notified not less than four weeks in advance of the meeting date.
+6.1.3 Standing Committees shall each year hold at least one meeting. All ESIPs will be notified not less than four weeks in advance of the meeting date.
 
 6.1.4 Standing Committees shall report program and/or project activity to the Assembly at least quarterly.
 
