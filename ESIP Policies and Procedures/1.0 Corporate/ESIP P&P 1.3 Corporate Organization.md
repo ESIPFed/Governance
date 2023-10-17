@@ -161,6 +161,20 @@ Section 5 -- Administrative Committees
 5.5.3 Membership to the committee is open to any ESIP participant who wishes to contribute.
 
 Section 6 -- Standing Committees, Working Groups and Clusters
+
+### **Part 6 -- Equity, Diversity, Inclusion, and Justice Committee**
+
+5.6.1 The Equity, Diversity, Inclusion, and Justice (EDIJ) Committee is charged with ensuring that ESIP improves the equity, diversity, inclusion, and justice of both ESIP itself and ESIP’s impact on the world around us.
+
+5.6.2 The EDIJ Committee meets this charge by 
+    * Recommending goals, programs, and actions for Board consideration; 
+    * Ensuring appropriate assessment activities are conducted; 
+    * Collaborating with other committees and clusters; and
+    * Contributing to the leadership and execution of EDIJ-related activities, in collaboration with ESIP staff and the broader ESIP membership.
+
+5.6.2 Membership in the EDIJ committee is open to any ESIP participant who wishes to contribute.
+
+
 -------------------------------------------------------------
 
 ### **Part 1 -- General**
