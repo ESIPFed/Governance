@@ -122,7 +122,7 @@ Section 5 -- Administrative Committees
 
 ### **Part 2 -- Governance Committee**
 
-5.2.1 The Governance Committee shall consider all amendments to the Policies and Procedures. This committee will also respond to any Member Organization requests for clarification of the Policies and Procedures document.
+5.2.1 The Governance Committee shall consider all amendments to the Policies and Procedures and Bylaws. In coordination with the Governance COmmittee the Executive Director will respond to any requests for clarification of the Policies and Procedures or Bylaws documents.
 
 ### **Part 3 -- Finance Committee**
 
@@ -159,6 +159,18 @@ Section 5 -- Administrative Committees
 5.5.2 The Vice President of ESIP will serve as the Chair of the Meeting Committee.
 
 5.5.3 Membership to the committee is open to any ESIP participant who wishes to contribute.
+
+### **Part 6 -- Equity, Diversity, Inclusion, and Justice (EDIJ) Committee
+
+5.6.1 The EDIJ Committee is charged with ensuring that ESIP improves the equity, diversity, inclusion, and justice of both ESIP itself and ESIP’s impact on the world around us.
+
+5.6.2 The EDIJ Committee meets this charge by
+- recommending goals, programs, and actions for Board Consideration;
+- ensuring appropriate assessment activities are conducted;
+- collaborating with other committees and clusters;
+- and contributing to the leadership and execution of EDIJ related activities, in collaboration with ESIP staff and the broader ESIP membership.
+
+5.6.3 Membership in the EDIJ committee is open to any ESIP participant who wishes to contribute.
 
 Section 6 -- Standing Committees, Working Groups and Clusters
 -------------------------------------------------------------
@@ -257,5 +269,5 @@ Section 8 -- Clusters
 
 ---
 
-This Policy was revised and approved by the ESIP Board on October 29, 2019.
-This Policy was revised on this site on July 17, 2023.
+This Policy was revised and approved by the ESIP Board on January 18, 2024.
+This Policy was revised on this site on Mar 27, 2024.
