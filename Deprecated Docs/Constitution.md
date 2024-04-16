@@ -33,26 +33,26 @@ Information Partners,** hereafter called the ESIP Federation.
 
  - III.1.1 Any entity engaged in activities pursuant to the goals and
 objectives of the ESIP Federation shall be eligible to join.
-Specifically, ESIP Federation Partners (ESIPs) will be expected to
+Specifically, ESIP Partner Organizations will be expected to
 contribute substantively to the provision of improved products and
-services based on Earth science. ESIP contributions and expertise will include, but will not necessarily be limited to, one or more of the following activities: archiving and distributing remotely sensed and ground based data; the scientific development, provision, and support of data and information products and services; and the development of Earth science applications. In addition, ESIPs may include major financial or in-kind supporters of the ESIP Federation’s activities.
+services based on Earth science. ESIP contributions and expertise will include, but will not necessarily be limited to, one or more of the following activities: archiving and distributing remotely sensed and ground based data; the scientific development, provision, and support of data and information products and services; and the development of Earth science applications. In addition, ESIP Partner Organizations may include major financial or in-kind supporters of the ESIP Federation’s activities.
 
 **Section 2 – ESIP Categories** 
 
- - III.2.1  There may be multiple categories of ESIPs, whose defining characteristics are as described in the Bylaws.
- - III.2.2  Each category of ESIP shall have rights and obligations defined in the Bylaws.  
- - III.2.3  New categories of ESIP may be defined upon recommendation of the Partnership Administrative Committee and upon receiving approval by two-thirds of the entire ESIP Federation Assembly.  
+ - III.2.1  There may be multiple categories of ESIP Partner Organizations, whose defining characteristics are as described in the Bylaws.
+ - III.2.2  Each category of ESIP Partner Organization shall have rights and obligations defined in the Bylaws.  
+ - III.2.3  New categories of ESIP Partner Organization may be defined upon recommendation of the Partnership Administrative Committee and upon receiving approval by two-thirds of the entire ESIP Federation Assembly.  
  - III.2.4  Existing Partnership categories may be dropped or modified upon recommendation of the Partnership Committee and upon receiving approval by two-thirds of the entire ESIP Federation Assembly.  
 
-**Section 3 – New ESIPs**
+**Section 3 – New ESIP Partner Organizations**
 
- - III.3.1 New ESIPs may be added to each ESIP category upon application to the Partnership Committee (see Article VI), review and presentation by the Partnership Committee of candidate qualifications to the ESIPFederation Assembly (see Article IV), and upon receipt of approval by two-thirds vote of the entire ESIP Federation Assembly.
+ - III.3.1 New ESIP Partner Organizations may be added to each ESIP category upon application to the Partnership Committee (see Article VI), review and presentation by the Partnership Committee of candidate qualifications to the ESIP Federation Assembly (see Article IV), and upon receipt of approval by two-thirds vote of the entire ESIP Federation Assembly.
 
 **Section 4 – Ending a Partnership**
 
-- III.4.1  Any ESIP may leave the ESIP Federation voluntarily by the
+- III.4.1  Any ESIP Partner Organization may leave the ESIP Federation voluntarily by the
 process defined in the Bylaws.  
-- III.4.2  Any ESIP may be removed from the ESIP Federation for conduct that in any way tends to substantially injure the ESIP Federation or to affect adversely its reputation, or that is destructive of the ESIP Federation’s goals and objectives. No ESIP shall be removed except after opportunity to be heard as provided in the Bylaws and upon receiving a two-thirds vote for termination by the entire ESIP Federation Assembly.
+- III.4.2  Any ESIP Partner Organization may be removed from the ESIP Federation for conduct that in any way tends to substantially injure the ESIP Federation or to affect adversely its reputation, or that is destructive of the ESIP Federation’s goals and objectives. No ESIP Partner Organization shall be removed except after opportunity to be heard as provided in the Bylaws and upon receiving a two-thirds vote for termination by the entire ESIP Federation Assembly.
  
 
 **ARTICLE IV**
@@ -140,7 +140,7 @@ Committees, Working Groups, and Clusters may not be represented as those of the 
 
 -   VII.2.1  Standing Committees shall champion and carry out the four central activities of the ESIP Federation (Article II) as explicated in the Bylaws.  
 -   VII.2.2  Participation in a Standing Committee shall be open to
-any ESIP.  
+any ESIP Partner Organization.  
 -   VII.2.3  Standing Committees shall operate and be regulated as
 provided for in the Bylaws.  
 
@@ -149,7 +149,7 @@ provided for in the Bylaws.  
 -   VII.3.1  ESIP Federation Working Groups may be created only by the Assembly or one of its Committees.  
 -   VII.3.2  Working Groups shall have a specified task to perform and
 shall have a finite duration.  
--   VII.3.3  Participation in Working Groups is open to any ESIP.  
+-   VII.3.3  Participation in Working Groups is open to any ESIP Partner Organization.  
 -   VII.3.4  Further duties and responsibilities of Working Groups shall
 be as provided in the Bylaws.  
 
