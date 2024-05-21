@@ -183,7 +183,7 @@ Section 6 -- Standing Committees, Working Groups and Clusters
 
 6.1.3 Standing Committees shall each year hold at least one meeting. All ESIPs will be notified not less than four weeks in advance of the meeting date.
 
-6.1.4 Standing Committees shall report program and/or project activity to the Assembly at least quarterly.
+6.1.4 Standing Committees shall report program and/or project activity at the regulary scheduled Program Committee meeting.
 
 6.1.5 Any Chair or Vice Chair of any Standing Committee may be removed from office for conduct that in any way tends to substantially injure ESIP or to affect adversely its reputation, or that is destructive to ESIP's goals and activities. Any Representative to the Assembly may recommend removal of any Chair or Vice Chair of a Standing Committee in writing to the President of the Assembly. The President will notify the Chair or Vice Chair concerned and ask for comment. The Program Committee will then consider the recommendation and, if approved, will present its recommendation for removal with the comments from the concerned Chair or Vice Chair in writing to the Assembly. The Program Committee will then petition the Representatives. If the recommendation for removal receives approval by two-thirds of the Representatives, the Chair or Vice Chair concerned shall be declared unable to continue in office.
 
