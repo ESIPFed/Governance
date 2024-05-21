@@ -20,9 +20,4 @@
 | <span class="c4">Committee Membership Cycle </span>                                                                                                                       | <span class="c4">Nominal 1 year term</span>                      |
 
 <span class="c3"></span>
-Committee elections occur at the annual Winter Meeting, for the budget cycle to include Committee and Working Group budgets for the next fiscal year, and any special project requests received.
 
-Transition period:  outgoing FiCom members complete review of any budget proposals pending at time of January meeting.
-
--------
-Actual dates for a given fiscal year will depend on the calendar (i.e., whether October 1 falls on a weekday) and annual meeting dates.
