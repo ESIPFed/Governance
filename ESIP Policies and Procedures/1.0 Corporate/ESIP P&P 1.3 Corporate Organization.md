@@ -94,7 +94,7 @@ Section 3 -- Program Committee
 
 3.5 The Program Committee shall report on its activities at each meeting of the Assembly.
 
-3.6 The Program Committee shall ensure that mechanisms are provided for notifying all ESIPs of official ESIP business.
+3.6 The Program Committee shall ensure that mechanisms are provided for notifying all ESIP Partner Organizations of official ESIP business.
 
 Section 4 -- Assembly Meetings
 ------------------------------
@@ -136,7 +136,7 @@ Section 5 -- Administrative Committees
 
 5.3.5 Upon receipt of a proposal, the Finance Committee will promptly notify the Assembly that proposals are under review. The Finance Committee will assure that appropriate, timely reviews of the proposals are carried out and then forward its recommendations to the Program Committee for further review. If the Program Committee also recommends funding, appropriate actions will be taken to allocate the funds upon approval by the Board. Alternatively, the Finance Committee may submit proposals to the Board for review. If the Board recommends funding, appropriate actions will be taken to allocate the funds.
 
-5.3.6 Category 4 ESIPs, as a group, may send one representative as a non-voting observer to Finance Committee meetings.
+5.3.6 Category 4 ESIP Partner Organizations, as a group, may send one representative as a non-voting observer to Finance Committee meetings.
 
 5.3.7 The Finance Committee will report on its actions at each Meeting of the Assembly and submit an Annual Finance Report and Proposed Budget for the coming year at each Annual Meeting of the Assembly.
 
@@ -181,7 +181,7 @@ Section 6 -- Standing Committees, Working Groups and Clusters
 
 6.1.2 Each Standing Committee shall have a Chair elected by simple majority of a secret ballot of the Assembly. Each Standing Committees shall have a Vice Chair elected by a simple majority of the members of the Committee.
 
-6.1.3 Standing Committees shall each year hold at least one meeting. All ESIPs will be notified not less than four weeks in advance of the meeting date.
+6.1.3 Standing Committees shall each year hold at least one meeting. All ESIP Partner Organizations will be notified not less than four weeks in advance of the meeting date.
 
 6.1.4 Standing Committees shall report program and/or project activity at the regulary scheduled Program Committee meeting.
 
@@ -252,11 +252,11 @@ Section 7 -- Working Groups
 
 7.1.2 Each Working Group shall have a Chair elected by a simple majority of the Assembly or Committee that created the Working Group.
 
-7.1.3 All ESIPs will be notified promptly by the Assembly or Committee that created the Working Group of the Working Group's goals, activities, and expected duration.
+7.1.3 All ESIP Partner Organizations will be notified promptly by the Assembly or Committee that created the Working Group of the Working Group's goals, activities, and expected duration.
 
-7.1.4 Individuals from all ESIPs and from outside will be allowed to participate in any Working Group. However, only the designated ESIP Representative as described in Bylaw I can vote.
+7.1.4 Individuals from all ESIP Partner Organizations and from outside will be allowed to participate in any Working Group. However, only the designated ESIP Representative as described in Bylaw I can vote.
 
-7.1.5 Due notice of all Working Group meetings and teleconferences shall be given to all ESIPs.
+7.1.5 Due notice of all Working Group meetings and teleconferences shall be given to all ESIP Partner Organizations.
 
 7.1.6 In the event that the elected Chair of a Working Group is unable to continue to execute the duties of that office, the Executive Committee shall appoint an eligible replacement to serve out the remainder of that term.
 
