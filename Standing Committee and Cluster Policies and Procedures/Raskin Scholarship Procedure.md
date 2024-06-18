@@ -13,7 +13,7 @@
 
 -   Physical award ordered
 
--   Summer Meeting Presentation at ESIP meeting
+-   July Meeting Presentation at ESIP meeting
 
 **Email announcement: **
 
@@ -96,14 +96,14 @@ selected the winner, I would like to congratulate you on being selected
 as our [[2017 Raskin
 Scholar]{.underline}](http://esipfed.org/raskinscholarship)! The
 committee was very impressed with your work and we are looking forward
-to meeting you at the [[Summer ESIP
+to meeting you at the [[July ESIP
 meeting]{.underline}](http://www.esipfed.org/meetings/upcoming-meetings/esip-summer-meeting-2017),
 July 25-28, 2017 at Indiana University in Bloomington, IN. Your travel
 will be covered as part of the award. **
 
 **Attached please find the official correspondence from Emily Law, ESIP
 President, and myself, about the award. Please confirm that you are able
-to receive this award and participate in the summer meeting. In
+to receive this award and participate in the July meeting. In
 addition, if you could send staff@esipfed.org a quick bio, we will be
 sharing a press release once we have confirmation from you. **
 

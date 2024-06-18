@@ -3,7 +3,7 @@
 
 ### **Purpose**
 
-To outline the circumstances under which ESIP would provide for complimentary registrations for ESIP Summer and ESIP Winter Meetings.
+To outline the circumstances under which ESIP would provide for complimentary registrations for ESIP July and ESIP January Meetings.
 
 ### **Policy**
 
@@ -16,7 +16,7 @@ To outline the circumstances under which ESIP would provide for complimentary re
   f. 1 attendee for each Friends of ESIP Level Sponsors at meeting
   g. Organizations that have reciprocal event fee MOUs in place with ESIP
   h. Plenary Speakers
-  i. For ESIP Summer Meeting only, Teachers registered for the concurrent ESIP Teacher’s Workshop. 
+  i. For ESIP July Meeting only, Teachers registered for the concurrent ESIP Teacher’s Workshop. 
   j. Attendees funded under the Finance Committee’s special travel
 2. The Executive Director and President have the authority to not charge registration fees, as circumstances warrant or as deemed in the best interest of ESIP.
 
