@@ -5,7 +5,7 @@ FUNding Friday Rules
 Summer 2017
 
 FUNding Friday is an annual mini-grant competition associated with
-ESIP's Summer Meeting.
+ESIP's July Meeting.
 
 The mini-grants are available to ESIP members (\$5000) and to students
 and Education Committee workshop participants (\$3000), with total
@@ -13,7 +13,7 @@ number of awards specified annually and generally 2-4 awards per
 participant group.
 
 Projects are expected to be completed over the six month period between
-the Summer Meeting of the award and the next Winter Meeting.
+the July Meeting of the award and the next January Meeting.
 
 (FUNding Friday will be abbreviated as FF throughout this document.)
 
@@ -34,7 +34,7 @@ Successful projects are:
 3.  Valuable to the ESIP community
 
 Interested participants are encouraged to consider the meeting theme and
-the discussions and activities of the Summer Meeting registrants when
+the discussions and activities of the July Meeting registrants when
 developing a project idea. The competition does not have a single theme
 or topical focus. A list of awarded projects is
 [[available]{.underline}](http://wiki.esipfed.org/index.php/FUNding_Friday_Projects).
@@ -45,8 +45,8 @@ Eligibility and Participation
 ### Eligibility
 
 FF project leads can be ESIP members, student attendees including ESIP
-student fellow, and participants of the Education committee's summer
-meeting workshop. Other meeting attendees are welcome as project
+student fellow, and participants of the Education committee's July
+Meeting workshop. Other meeting attendees are welcome as project
 participants.
 
 Education Committee workshop participants do not need an ESIP member to
@@ -85,7 +85,7 @@ Information for the FUNding Friday awards** below).
 ### How to Participate
 
 Interested participants must exhibit a poster describing the project
-during the Poster Pitch session (Friday morning, check the Summer
+during the Poster Pitch session (Friday morning, check the July
 Meeting schedule for specific time and place). The poster should be hung
 in the provided space before the pitch session begins.
 
@@ -108,7 +108,7 @@ Poster Pitch session.
 
 You must be present at the Poster Pitch session to vote.
 
-Anyone who is a registrant of the Summer Meeting, i.e. anyone with a
+Anyone who is a registrant of the July Meeting, i.e. anyone with a
 badge, is eligible to vote.
 
 Each person attending the Poster Pitch session (Friday morning) will
@@ -123,7 +123,7 @@ flip a coin to determine the winner. In the case of a three (or more)
 way tie, the winner of the tie will be determined by a vote of the ESIP
 Programming Committee at the next scheduled telecon.
 
-The winners will be announced during lunch (refer to the Summer Meeting
+The winners will be announced during lunch (refer to the July Meeting
 schedule for details). Participants do not need to be present at the
 award announcement; however, the project lead should verify that their
 contact information is correct with ESIP staff immediately following the
@@ -141,12 +141,12 @@ The awards are distributed in two parts:
 
 1.  Half once a Memorandum of Understanding (MOU), containing a
     > statement of work, is delivered to ESIP staff at the start of the
-    > project after the Summer Meeting;
+    > project after the July Meeting;
 
-2.  Half following the next Winter Meeting after the results of the
+2.  Half following the next January Meeting after the results of the
     > project are presented during the poster session. All work must be
     > completed at this time. Awardees may present their projects in a
-    > relevant session at the Winter Meeting but must present a poster.
+    > relevant session at the January Meeting but must present a poster.
 
 Note that funding is not immediately disbursed - awardees should account
 for the time needed to draft the MOU and ESIP staff response.

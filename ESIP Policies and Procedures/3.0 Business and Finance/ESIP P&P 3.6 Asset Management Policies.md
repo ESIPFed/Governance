@@ -158,7 +158,7 @@ contributions may be made to the Fund and such gifts shall be subject to the ter
 Fund and will be considered permanent. The annual income from the Fund may be paid out
 partially or in its entirety as scholarships or rolled over for use in a future year or
 any combination thereof. The scholarship will be awarded annually and will provide a
-stipend, travel support to the Earth Science Federation summer meeting and an invited
+stipend, travel support to the Earth Science Federation July meeting and an invited
 talk covering the winner's field of interest.
 
 As required by accounting principles generally accepted in the United

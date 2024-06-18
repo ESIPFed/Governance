@@ -72,7 +72,7 @@
      will submit required reports to the Executive Committee.
     
     a.   Reports will be submitted semi-annually, 30 days prior to the
-         Winter and Summer meetings.
+         January and July meetings.
     
     b.   Reports will document milestones, money spent, and finished
          products,as appropriate.

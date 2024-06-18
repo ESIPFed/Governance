@@ -10,7 +10,7 @@ leading or supporting relevant activities.
 
 If they so desire and have no other funding mechanism to support this,
 Program Committee and ESIP Board members will receive *de facto* support
-to attend the ESIP Winter and Summer Meetings. In addition, ESIP
+to attend the ESIP January and July Meetings. In addition, ESIP
 provides travel to the Student Fellows, FUNDing Friday winners according
 to their positions.
 
