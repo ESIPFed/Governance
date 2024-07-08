@@ -8,64 +8,64 @@ Partnership (Constitution Article III)
 >
 Section 1 – General
 >
-I.1.1 All ESIPs shall abide by the Constitution and Bylaws.
+I.1.1 All ESIP Partner Organizations shall abide by the Constitution and Bylaws.
 >
-I.1.2 All ESIPs have the right to participate in all Standing
+I.1.2 All ESIP Partner Organizations have the right to participate in all Standing
 Committees and Working Groups.
 >
 Section 2 – Data and Information Distributors
 >
-I.2.1 Category 1 ESIPs shall be primarily stewards of Earth science
+I.2.1 Category 1 ESIP Partner Organizations shall be primarily stewards of Earth science
 and related data sets or its supporting information, as well as providers of standardized products derived from those data.
 >
-I.2.2 Each Category 1 ESIP must designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
+I.2.2 Each Category 1 ESIP Partner Organization must designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
 >
-I.2.3 Category 1 ESIPs, as a group, must elect representatives to serve on each of the following Committees: Executive Committee, Constitution and Bylaws Committee, Partnership Committee, and Finance and Appropriations Committee.
+I.2.3 Category 1 ESIP Partner Organizations, as a group, must elect representatives to serve on each of the following Committees: Executive Committee, Constitution and Bylaws Committee, Partnership Committee, and Finance and Appropriations Committee.
 >
 Section 3 – Product and Service Providers
 >
-I.3.1 Category 2 ESIPs shall be engaged principally in the scientific development, provision, and support of data and information products, technology, or services aimed primarily at the Earth science and research communities.
+I.3.1 Category 2 ESIP Partner Organizations shall be engaged principally in the scientific development, provision, and support of data and information products, technology, or services aimed primarily at the Earth science and research communities.
 >
-I.3.2 Each Category 2 ESIP must designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
+I.3.2 Each Category 2 ESIP Partner Organization must designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
 >
-I.3.3 Category 2 ESIPs, as a group, must elect representatives to serve on each of the following Committees: Executive Committee, Constitution and Bylaws Committee, Partnership Committee, and Finance and Appropriations Committee.
+I.3.3 Category 2 ESIP Partner Organizations, as a group, must elect representatives to serve on each of the following Committees: Executive Committee, Constitution and Bylaws Committee, Partnership Committee, and Finance and Appropriations Committee.
 >
 Section 4 – Earth Science Application Providers
 >
-I.4.1 Category 3 ESIPs shall be engaged principally in the development, use or dissemination of Earth science information and applications for the purpose of commercial use, decision support, outreach, advocacy, or education.
+I.4.1 Category 3 ESIP Partner Organizations shall be engaged principally in the development, use or dissemination of Earth science information and applications for the purpose of commercial use, decision support, outreach, advocacy, or education.
 >
-I.4.2 Each Category 3 ESIP must designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
+I.4.2 Each Category 3 ESIP Partner Organization must designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
 >
-I.4.3. Category 3 ESIPs, as a group, must elect representatives to                                                   serve on each of the following Committees: Executive Committee, Constitution and Bylaws Committee, Partnership Committee, and Finance and Appropriations Committee.
+I.4.3. Category 3 ESIP Partner Organizations, as a group, must elect representatives to                                                   serve on each of the following Committees: Executive Committee, Constitution and Bylaws Committee, Partnership Committee, and Finance and Appropriations Committee.
 >
 Section 5 – ESIP Federation Sponsors
 >
-I.5.1 Category 4 ESIPs shall be major financial or in-kind supporters of ESIP Federation activities.
+I.5.1 Category 4 ESIP Partner Organizations shall be major financial or in-kind supporters of ESIP Federation activities.
 >
-I.5.2 Each Category 4 ESIP shall have the right to designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
+I.5.2 Each Category 4 ESIP Partner Organization shall have the right to designate one Representative to the Assembly by submitting the name to the Chair of the Constitution and Bylaws Committee.
 >
-I.5.3 Each Category 4 ESIP may send one representative as a non-voting member to Executive Committee and Finance and Appropriations Committee meetings.
+I.5.3 Each Category 4 ESIP Partner Organization may send one representative as a non-voting member to Executive Committee and Finance and Appropriations Committee meetings.
 >
 Section 6 – ESIP Federation Supporters
 >
-I.6.1 Category 5 ESIPs shall be non-voting financial or in-kind supporters of ESIP Federation activities.
+I.6.1 Category 5 ESIP Partner Organizations shall be non-voting financial or in-kind supporters of ESIP Federation activities.
 >
 Section 7 – Ending a Partnership
 >
-I.7.1 Any ESIP may leave the ESIP Federation voluntarily by submitting a letter of resignation to the Chair of the Partnership Committee.
+I.7.1 Any ESIP Partner Organization may leave the ESIP Federation voluntarily by submitting a letter of resignation to the Chair of the Partnership Committee.
 >
-I.7.2 Any ESIP may be designated as Inactive by the Partnership Committee under the following conditions: 
-(1) The ESIP has not attended a General Assembly meeting, nor designated a proxy, for a period of four (4) consecutive meetings; and,
-(2)    By the discretion of the Partnership Committee for any unusual circumstances. A review of this action by the Executive Committee can be requested by the affected ESIP. In this case, a majority vote by the Executive Committee is binding.
-(3)    Inactive status may be designated by the Partnership Committee to any ESIP that meets the above criteria retroactively when this bylaw comes into effect.
+I.7.2 Any ESIP Partner Organization may be designated as Inactive by the Partnership Committee under the following conditions: 
+(1) The ESIP Partner Organization has not attended a General Assembly meeting, nor designated a proxy, for a period of four (4) consecutive meetings; and,
+(2)    By the discretion of the Partnership Committee for any unusual circumstances. A review of this action by the Executive Committee can be requested by the affected ESIP Partner Organization. In this case, a majority vote by the Executive Committee is binding.
+(3)    Inactive status may be designated by the Partnership Committee to any ESIP Partner Organization that meets the above criteria retroactively when this bylaw comes into effect.
 >
-I.7.3    Any ESIP designated by the Partnership Committee as Inactive shall be notified by email or other means of their status. A good faith effort must be made to contact the ESIP to notify them of their change in status.
+I.7.3    Any ESIP Partner Organization designated by the Partnership Committee as Inactive shall be notified by email or other means of their status. A good faith effort must be made to contact the ESIP Partner Organization to notify them of their change in status.
 >
-I.7.4   Any ESIP designated as Inactive may be restored to Active status by resuming participation in the business of the Federation through attending a General Assembly meeting directly or by proxy, and/or a petition to the Partnership Committee stating reasons for inactivity.
+I.7.4   Any ESIP Partner Organization designated as Inactive may be restored to Active status by resuming participation in the business of the Federation through attending a General Assembly meeting directly or by proxy, and/or a petition to the Partnership Committee stating reasons for inactivity.
 >
-I.7.5    If an Inactive ESIP does not restore to Active status after a period of one (1) year from the date of their notification, the ESIP concerned may be removed from the ESIP Federation by a majority vote of the Partnership Committee. After removal, application as a new ESIP to the Partnership Committee must be made.
+I.7.5    If an Inactive ESIP Partner Organization does not restore to Active status after a period of one (1) year from the date of their notification, the ESIP Partner Organization concerned may be removed from the ESIP Federation by a majority vote of the Partnership Committee. After removal, application as a new ESIP Partner Organization to the Partnership Committee must be made.
 >
-I.7.6 Any ESIP may be removed from the ESIP Federation for conduct that in any way tends to substantially injure the ESIP Federation or to affect adversely its reputation, or that is destructive to the ESIP Federation’s goals and activities. Any Representative to the Assembly may recommend removal of any ESIP to the Chair of the Partnership Committee. The Partnership Committee will notify the ESIP concerned and ask for comment in its defense. The Partnership Committee will then consider the recommendation and, if approved, will present its recommendation for removal with the comments from the concerned ESIP in writing to the Chair of the Constitution and Bylaws Committee.  The Constitution and Bylaws Committee will then petition the Representatives. If the recommendation for removal receives approval by two-thirds of the Representatives, the ESIP concerned will be removed from the ESIP Federation.
+I.7.6 Any ESIP Partner Organization may be removed from the ESIP Federation for conduct that in any way tends to substantially injure the ESIP Federation or to affect adversely its reputation, or that is destructive to the ESIP Federation’s goals and activities. Any Representative to the Assembly may recommend removal of any ESIP Partner Organization to the Chair of the Partnership Committee. The Partnership Committee will notify the ESIP concerned and ask for comment in its defense. The Partnership Committee will then consider the recommendation and, if approved, will present its recommendation for removal with the comments from the concerned ESIP in writing to the Chair of the Constitution and Bylaws Committee.  The Constitution and Bylaws Committee will then petition the Representatives. If the recommendation for removal receives approval by two-thirds of the Representatives, the ESIP concerned will be removed from the ESIP Federation.
 >
 BYLAW II
 Assembly
@@ -77,7 +77,7 @@ II.1.1 Each Annual Meeting of the Assembly shall be called by the Executive Comm
 >
 II.1.2 Additional meetings of the Assembly may be called by the Executive Committee at least thirty days prior to the meeting.
 >
-II.1.3 Additional meetings may also be called if at least half of the ESIPs petition the Executive Committee to call a meeting.
+II.1.3 Additional meetings may also be called if at least half of the ESIP Partner Organizations petition the Executive Committee to call a meeting.
 >
 II.1.4 Participation in an Assembly meeting can be through distance methods.
 >
@@ -95,7 +95,7 @@ II.2.5 In the case of resolutions brought up during meetings of the Assembly, pa
 >
 II.2.6 Resolutions also may be passed using distance methods if the resolution receives approval by a simple majority of the entire Assembly. All elections carried out via distance methods shall include a closing date after which votes will no longer be accepted.
 >
-II.2.7 Any resolution imposing a binding requirement on any ESIP shall require a two-thirds approval vote of the Assembly for passage.
+II.2.7 Any resolution imposing a binding requirement on any ESIP Partner Organization shall require a two-thirds approval vote of the Assembly for passage.
 >
 Section 3 – Elections
 >
@@ -172,7 +172,7 @@ IV.2.5 [RESERVED]
 IV.2.6 The Executive Committee shall report on its activities at each meeting of the Assembly.
 >
 IV.2.7 The Executive Committee shall ensure that mechanisms are
-provided for notifying all ESIPs of official ESIP Federation business.
+provided for notifying all ESIP Partner Organizations of official ESIP Federation business.
 >
 Section 3 – Constitution and Bylaws Committee
 >
@@ -190,7 +190,7 @@ IV.4.4 Proposals for the expenditure of ESIP Federation financial resources shal
 >
 IV.4.5 Upon receipt of a proposal, the Finance and Appropriations Committee will promptly notify the Assembly that proposals are under review. The Finance and Appropriations Committee will assure that appropriate, timely reviews of the proposals are carried out and then forward its recommendations to the Executive Committee for further review. If the Executive Committee also recommends funding, appropriate actions will be taken to allocate the funds. Alternatively, the Finance and Appropriations Committee may submit proposals to the Assembly for review. If a resolution of the Assembly recommends funding, appropriate actions will be taken to allocate the funds.
 >
-IV.4.6 Category 4 ESIPs, as a group, may send one representative as a non-voting observer to Finance and Appropriations Committee meetings.
+IV.4.6 Category 4 ESIP Partner Organizations, as a group, may send one representative as a non-voting observer to Finance and Appropriations Committee meetings.
 >
 IV.4.7 The Finance and Appropriations Committee will report on its actions at each Meeting of the Assembly and submit an Annual Finance Report and Proposed Budget for the coming year at each Annual Meeting of the Assembly.
 >
@@ -219,7 +219,7 @@ V.1.1 Standing Committees are created by amendment of the Bylaws to include a ne
 >
 V.1.2 Each Standing Committee shall have a Chair elected by simple majority of a secret ballot of the Assembly. Each Standing Committees shall have a Vice Chair elected by a simple majority of the members of the Committee.
 >
-V.1.3 Standing Committees shall each year hold at least one physical meeting. All ESIPs will be notified not less than four weeks in advance of the meeting date.
+V.1.3 Standing Committees shall each year hold at least one physical meeting. All ESIP Partner Organizations will be notified not less than four weeks in advance of the meeting date.
 >
 V.1.4 Standing Committees shall report program and/or project activity to the Federation at least quarterly.
 >
@@ -300,12 +300,12 @@ VI.1.1 Working Groups are created by resolution of the Assembly or by simple maj
 >
 VI.1.2 Each Working Group shall have a Chair elected by a simple majority of the Assembly or Committee that created the Working Group .
 >
-VI.1.3 All ESIPs will be notified promptly by the Assembly or
+VI.1.3 All ESIP Partner Organizations will be notified promptly by the Assembly or
 Committee that created the Working Group of the Working Group’s goals, activities, and expected duration.
 >
-VI.1.4 Individuals from all ESIPs and from outside the Federation will be allowed to participate in any Working Group. However, only the designated ESIP Representative as described in Bylaw I can vote.
+VI.1.4 Individuals from all ESIP Partner Organizations and from outside the Federation will be allowed to participate in any Working Group. However, only the designated ESIP Representative as described in Bylaw I can vote.
 >
-VI.1.5 Due notice of all Working Group meetings and teleconferences shall be given to all ESIPs.
+VI.1.5 Due notice of all Working Group meetings and teleconferences shall be given to all ESIP Partner Organizations.
 >
 VI.1.6 Working Groups may be required to report on their activities at each meeting of the Assembly, in a form agreed by the Assembly.
 >
