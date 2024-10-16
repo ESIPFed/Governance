@@ -116,5 +116,8 @@
   -  Committee and Working Group budget requests are due annually on
      August 15.
 
+  -  ESIP does not pay stipends and/or gifts to volunteers.  ESIP community members are volunteers, and in order to comply with the Volunteer Protection Act, ESIP cannot pay stipends.  Doing so would take away protections given to volunteers under the Volunteer Protection Act. An exception to this policy would be cases where the payment of stipends is specifically stated in ESIP’s cooperative agreement and/or grants with a funder.  In this case, the money will be paid from the budget set forth in the agreement and not from committee budgets.
+
+
 This Policy was approved by the Board of Directors of ESIP on October
 17, 2017.
