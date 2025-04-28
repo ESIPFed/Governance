@@ -9,6 +9,8 @@ Information Partners (ESIP)**
 
     [1.2  Partners and Partner Organizations](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Partners%20and%20Partner%20Organizations.md)
 
+    [1.2A  Nonvoting Associates](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2A%20Nonvoting%20Associates.md)
+
     [1.3  Corporate Organization](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md)
 
     [1.3A Board and Program Committee Participation and Attendance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3A%20Board%20and%20Program%20Committee%20%20Participation%20and%20Attendance.md)
@@ -25,7 +27,7 @@ Information Partners (ESIP)**
     
     [1.9  ESIP Data Privacy Policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.9%20Data%20Privacy%20Policy.md)
 
-2.  **Ethics and Conduct**
+3.  **Ethics and Conduct**
 
     [2.1  ESIP Community Participation Guidelines](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Community%20Participation%20Guidelines.md)
    
@@ -37,7 +39,7 @@ Information Partners (ESIP)**
 
      [2.5 Whistleblower](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.5%20Whistleblower%20Policy.md)
      
-3.  **Business and Finance**
+4.  **Business and Finance**
 
     [3.1 Accounting Policies and Procedures](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.1%20Accounting%20Policies%20and%20Procedures.md)
 
@@ -63,7 +65,7 @@ Information Partners (ESIP)**
 
     [3.9 Procurement](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.9%20Procurement%20Policies%20and%20Procedures.md)
 
-4.  **Human Resources**
+5.  **Human Resources**
 
     [4.1 Employee Handbook](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/4.0%20Human%20Resources/ESIP%20P%26P%204.1%20Employee%20Handbook.md)
 
@@ -92,4 +94,4 @@ Information Partners (ESIP)**
 
 --
 
-This document was updated January 20, 2023
+This document was updated April 28, 2025
