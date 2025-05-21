@@ -9,6 +9,8 @@ Information Partners (ESIP)**
 
     [1.2  Partners and Partner Organizations](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2%20Partners%20and%20Partner%20Organizations.md)
 
+    [1.2A  Nonvoting Associates](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.2A%20Nonvoting%20Associates.md)
+
     [1.3  Corporate Organization](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3%20Corporate%20Organization.md)
 
     [1.3A Board and Program Committee Participation and Attendance](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.3A%20Board%20and%20Program%20Committee%20%20Participation%20and%20Attendance.md)
@@ -92,4 +94,4 @@ Information Partners (ESIP)**
 
 --
 
-This document was updated January 20, 2023
+This document was updated April 29, 2025

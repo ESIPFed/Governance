@@ -75,7 +75,7 @@ Section 3A -- Elected Volunteer Leadership Qualifications, Nominations, and Elec
 
 ### **Part 3 -- Qualifications for Assembly-Elected Volunteer Leaders**
 
-3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partner Organization that is in good standing. Alternatively, a candidate may be affiliated with an organization whose partnership application is pending. In this instance, pending status would be indicated on the ballot and the candidate will not take office until Organizational Partnership is approved. 
+3A.3.1 To qualify as a candidate for volunteer leadership, a person must be affiliated with an ESIP Partner Organization that is in good standing or belong to a category of nonvoting associate. Alternatively, a candidate may be affiliated with an organization whose partnership application is pending. In this instance, pending status would be indicated on the ballot and the candidate will not take office until Organizational Partnership is approved. 
 
 3A.3.2 All volunteer leaders may stand for re-election for one additional consecutive term in the same role.
 
@@ -160,7 +160,7 @@ Section 5 -- Administrative Committees
 
 5.5.3 Membership to the committee is open to any ESIP participant who wishes to contribute.
 
-### **Part 6 -- Equity, Diversity, Inclusion, and Justice (EDIJ) Committee
+### **Part 6 -- Equity, Diversity, Inclusion, and Justice (EDIJ) Committee**
 
 5.6.1 The EDIJ Committee is charged with ensuring that ESIP improves the equity, diversity, inclusion, and justice of both ESIP itself and ESIP’s impact on the world around us.
 
@@ -191,7 +191,7 @@ Section 6 -- Standing Committees, Working Groups and Clusters
 
 6.1.7 In the event that the elected Chair of a Standing Committee is unable to continue to execute the duties of that office, the Program Committee shall appoint an eligible replacement to serve out the remainder of that term.
 
-### **Part 2 -- OPEN **
+### **Part 2 -- OPEN**
 
 NOTE: The Products and Services Committee was retired on a unanimous vote of the ESIP Program Committee, July 11, 2017. This Part can be reused as needed in the future.
 
@@ -269,5 +269,5 @@ Section 8 -- Clusters
 
 ---
 
-This Policy was revised and approved by the ESIP Board on January 18, 2024.
-This Policy was revised on this site on Mar 27, 2024.
+This Policy was revised and approved by the ESIP Board on April 24, 2025.
+This Policy was revised on this site on April 28, 2025.
