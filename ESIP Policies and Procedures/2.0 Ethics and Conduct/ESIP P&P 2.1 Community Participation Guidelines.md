@@ -199,16 +199,14 @@ We encourage you to report incidents where someone has engaged in behavior that 
 
 If you experience or witness unacceptable behavior, you may ask the person to stop their unacceptable behavior. You should also contact relevant authorities (for example, event security, emergency medical services) as you feel necessary. However, you are not obligated to take these actions prior to making a report to ESIP.
 
-ESIP has engaged a third-party reporting service, [IntegrityCounts](https://www.integritycounts.ca/). This is a private, confidential, and optionally anonymous reporting system, meant to encourage reporting without fear of retaliation and afford transparency in the process by providing an independent record. Note that it is possible to make an anonymous report and to exclude certain individuals from the process.
+ESIP has an online reporting form to file a report. This form is submitted to the ESIP Executive Director, Operations Director, and President. Should you wish to exclude one or more of these people from the report, email is the best method of first report. ESIP staff email addresses can be found at: [https://www.esipfed.org/about/people/#](https://www.esipfed.org/about/people/#) and the ESIP President can be reached at [President@esipfed.org](mailto://President@esipfed.org). It is also possible to make an anonymous report. Anonymous reporting limits ESIP’s ability to follow-up on the status of the report, but we encourage anonymous reporting over not reporting so we can address issues that occur.
 
-If you believe you have experienced or are experiencing unacceptable behavior as outlined in [Section 3](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-3----behaviors-that-will-not-be-tolerated), please use one of the following methods of reporting to ESIP via IntegrityCounts:
+If you believe you have experienced or are experiencing unacceptable behavior as outlined in [Section 3](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P&P%202.1%20Community%20Participation%20Guidelines.md#section-3----behaviors-that-will-not-be-tolerated), please use one of the following methods of reporting to ESIP:
 
 
-   **Web:** https://www.integritycounts.ca/org/esip
+   **Web:** <<reporting form>>
 
-   **Toll Free Number:** 1-866-921-6714
-
-   **Email:** esip@integritycounts.ca
+   **Toll Free Number:** 1-800-881-9418 select Executive Director or Operations Director
 
 Additional details on this process can be found [here](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Community%20Participation%20Guidelines%20(CPG)%20Reporting%20-%20Additional%20Information.md).
 
