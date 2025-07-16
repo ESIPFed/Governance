@@ -207,6 +207,7 @@ If you believe you have experienced or are experiencing unacceptable behavior as
    **Web:** [Report Form](https://docs.google.com/forms/d/1FVCG6QFaqtM0Whe_kQ9n3vccZTHPOGHBzOGzAEtI4pw/edit)
 
    **Toll Free Number:** 1-800-881-9418 select Executive Director or Operations Director
+   **Email:** inclusion@esipfed.org
 
 Additional details on this process can be found [here](https://github.com/ESIPFed/Governance/blob/master/Standing%20Committee%20and%20Cluster%20Policies%20and%20Procedures/Community%20Participation%20Guidelines%20(CPG)%20Reporting%20-%20Additional%20Information.md).
 
