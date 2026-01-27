@@ -1,5 +1,4 @@
-**Policies and Procedures for the Federation of Earth Science
-Information Partners (ESIP)**
+**Policies and Procedures for Earth Science Information Partners (ESIP)**
 
 **Approved by the ESIP Board, October, 2017**
 

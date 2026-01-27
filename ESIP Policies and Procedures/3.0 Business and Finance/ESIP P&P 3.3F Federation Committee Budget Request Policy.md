@@ -1,9 +1,9 @@
- ### ESIP Federation Policy on Committee and Working Group Proposals and Supporting Budget Requests
+ ### ESIP Policy on Committee and Working Group Proposals and Supporting Budget Requests
  
- The ESIP Federation makes funds available to its committees and
+ ESIP makes funds available to its committees and
  working groups through an annual budget process (funds permitting).
  The following details the guiding principles and required elements for
- any budget request submitted to the ESIP Federation’s Finance and
+ any budget request submitted to ESIP's Finance and
  Appropriations Committee.
  
 **Guiding Principles for Committee/Working Group
@@ -26,8 +26,8 @@
      initiate appropriate actions to allocate funds.
 
 4.   Committee and Working Group proposals will be evaluated on their
-     direct long-term benefit to the ESIP Federation. Proposals should
-     align with ESIP Federation strategic interests and should
+     direct long-term benefit to ESIP. Proposals should
+     align with ESIP's strategic interests and should
      emphasize collaborations that provide long-term benefits to the
      ESIP community.
 
@@ -48,7 +48,7 @@
     c.   Short-term projects that can be sustained beyond the funded
          period.
 
-2.   Funded activities will align with the ESIP Federation’s strategic
+2.   Funded activities will align with ESIP's strategic
      plan.
     
     a.   Budget proposals will describe how each proposed activity will
@@ -111,7 +111,7 @@
 
   -  Committee and Working Group proposals should benefit the broader
      ESIP community and work toward a sustainable infrastructure for
-     the ESIP Federation and its partners.
+     ESIP and its partners.
 
   -  Committee and Working Group budget requests are due annually on
      August 15.
