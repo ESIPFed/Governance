@@ -113,7 +113,7 @@
 
 ##### F.  Committee and Working Group Proposals and Budget Requests
 
-  a.  See the [ESIP Federation Policy on Committee and Working Group Proposals and Supporting Budget Requests](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3F%20Federation%20Committee%20Budget%20Request%20Policy.md)
+  a.  See the [ESIP Policy on Committee and Working Group Proposals and Supporting Budget Requests](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3F%ESIP%20Committee%20Budget%20Request%20Policy.md)
     
 
 This Policy was approved by the Board of Directors of ESIP on October

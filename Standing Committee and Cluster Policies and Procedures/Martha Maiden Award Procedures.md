@@ -4,7 +4,7 @@
 **Purpose**
 ------------------------------------
 
-In honor of Martha E. Maiden’s leadership, dedication and tireless efforts to nurture the ESIP Federation into a vibrant and mature organization, the Martha Maiden Lifetime Achievement Award for Service to the Earth Science Information Community award was established in 2009 to recognize outstanding service to the Earth Science information community. 
+In honor of Martha E. Maiden’s leadership, dedication and tireless efforts to nurture ESIP into a vibrant and mature organization, the Martha Maiden Lifetime Achievement Award for Service to the Earth Science Information Community award was established in 2009 to recognize outstanding service to the Earth Science information community. 
 
 This award honors individuals who have demonstrated leadership, dedication and a collaborative spirit in advancing the field of Earth Science information.
 
@@ -20,7 +20,7 @@ This award honors individuals who have demonstrated leadership, dedication and a
 3. Nominations should address the following within the nomination package:
     - The nature of the leadership role that the nominee has taken within the Earth Science information community
     - Characteristics that demonstrate the nominee’s dedication to the principles of Earth Science information access and sharing
-    - How the nominee exemplifies the collaborative spirit of the ESIP Federation
+    - How the nominee exemplifies the collaborative spirit of ESIP
 4. The Award selection committee shall be:
     - The Vice President, who will serve as chair of the award selection committee.
     - Four (4) additional committee members, solicited by the Chair, who should be mindful of maintaining diversity of Partner Type, career stage, gender, and/or other criteria.

@@ -17,11 +17,11 @@
 
 **Email announcement: **
 
-> *In March 2012, the ESIP Federation lost long-time member, Rob Raskin.
+> *In March 2012, ESIP lost long-time member, Rob Raskin.
 > Rob was soft-spoken, easy-going, wise and an Earth science information
 > partner extraordinaire. Rob was a mentor to many aspiring Earth
-> science data professionals. In collaboration with Rob's family, the
-> ESIP Federation and the Foundation for Earth Science remember Rob and
+> science data professionals. In collaboration with Rob's family, 
+> Federation and the Foundation for Earth Science remember Rob and
 > his dedication to support the next generation of Earth science data
 > and technology leaders through the Robert G. Raskin Scholarship.*
 >
@@ -45,11 +45,11 @@
 >
 > ***Here are details about Rob and the award: ***
 >
-> *In March 2012, the ESIP Federation lost long-time member, Rob Raskin.
+> *In March 2012, ESIP lost long-time member, Rob Raskin.
 > Rob was soft-spoken, easy-going, wise and an Earth science information
 > partner extraordinaire. Rob was a mentor to many aspiring Earth
-> science data professionals. In collaboration with Rob's family, the
-> ESIP Federation and the Foundation for Earth Science remember Rob and
+> science data professionals. In collaboration with Rob's family,
+> ESIP and the Foundation for Earth Science remember Rob and
 > his dedication to support the next generation of Earth science data
 > and technology leaders through the Robert G. Raskin Scholarship. *
 >
