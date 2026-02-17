@@ -304,12 +304,9 @@ by investment counsel.\]
 #### B.  Capital Equipment
 
     a.  Policy: All property that has been acquired or created by ESIP,
-        which has a current value of $500.00 or more and a useful life
+        which has a current value of $5000.00 or more and a useful life
         greater than one year must be described in the current inventory
-        of property, which must include an ESIP Property Identification
-        Number (PIN). When practical, the PIN will be permanently
-        affixed to the physical property or included within the
-        packaging for intellectual assets. Property that does that meet
+        of property. Property that does that meet
         this requirement will be expensed in the year of acquisition.
         Property that has been acquired directly for a grant will be
         expensed to the grant and will not be capitalized.
