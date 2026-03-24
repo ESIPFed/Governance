@@ -55,18 +55,18 @@ community organization.
 **B : ESIP Letters of Support:**
 ================================
 
-**D-1:** Any ESIP member can request a standard letter of support
+**B-1:** Any ESIP member can request a standard letter of support
 for their proposals from ESIP even when competing with another ESIP
 member for the same grant or contract.
 
-**D-2:** To receive a letter of support from ESIP, the ESIP member
+**B-2:** To receive a letter of support from ESIP, the ESIP member
 shall articulate how the proposed work would benefit ESIP as a whole.
 
-**D-3:** The application for a letter of support (and the accompanying
+**B-3:** The application for a letter of support (and the accompanying
 proposal) should be addressed to the ESIP President and sent to
 staff@esipfed.org.
 
-**D-4:** The ESIP member shall notify the ESIP about the results of
+**B-4:** The ESIP member shall notify the ESIP about the results of
 the proposal selection process.
 
 This Policy was approved by the Board of Directors of ESIP on October
