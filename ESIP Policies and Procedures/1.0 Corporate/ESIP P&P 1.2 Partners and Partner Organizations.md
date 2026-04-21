@@ -60,8 +60,6 @@ Partner Types were created in order to (1) allow Partners to better understand o
 
 3.5.1 Type 5 Partners shall be other associations or networked organizations with missions that complement ESIP (e.g., OGC, EarthCube).
 
-3.5.2 Type 5 ESIP Partners shall be non-voting.
-
 **Section 4 -- Ending a Partnership**
 ------------------------------------------------
 
