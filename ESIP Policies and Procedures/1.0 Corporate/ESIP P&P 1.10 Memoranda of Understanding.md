@@ -8,4 +8,5 @@ any financial considerations, the Finance Committee Chair shall also review and 
 provides for formal reciprocal partnership or membership, the external organization shall still go through the regular 
 ESIP Partnership application and approval process.
 
-**This Policy is pending approved by the Board of Directors of ESIP**
+This Policy was approved by the ESIP Board on April 20, 2026.
+This Policy was created on this site on May 8, 2026.
