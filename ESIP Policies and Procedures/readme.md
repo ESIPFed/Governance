@@ -26,6 +26,8 @@
     
     [1.9  ESIP Data Privacy Policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.9%20Data%20Privacy%20Policy.md)
 
+    [1.10 Memoranda of Understanding](https://github.com/BenGalewsky/Governance/blob/5ff908377b630b19474b58f9c6850448bc1613d0/ESIP%20Policies%20and%20Procedures/1.0%20Corporate/ESIP%20P%26P%201.10%20Memoranda%20of%20Understanding.md)
+
 2.  **Ethics and Conduct**
 
     [2.1  ESIP Community Participation Guidelines](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.1%20Community%20Participation%20Guidelines.md)
