@@ -24,6 +24,7 @@ to suggest edits or report issues — no Git knowledge required.
 | [Business & Finance](policies/3-business-finance/3-1-accounting.qmd) | Financial policies, accounting, procurement, and expense reimbursement |
 | [Human Resources](policies/4-human-resources/4-1-employee-handbook.qmd) | HR policies including the employee handbook and search procedures |
 | [Committee Procedures](procedures/index.qmd) | Award procedures and committee-specific rules |
+| [Position Descriptions](positions/executive-director.qmd) | Role descriptions for ESIP staff positions |
 | [Contributing](contributing/index.qmd) | How to propose changes or report issues |
 
 ## About this resource
