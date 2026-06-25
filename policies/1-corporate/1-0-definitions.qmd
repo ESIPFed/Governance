@@ -1,0 +1,15 @@
+---
+title: "1.0 Definitions"
+---
+
+::: {.callout-warning}
+This document has not yet been approved by the Board of Directors of ESIP. It is included here for reference. Contact [governance@esipfed.org](mailto:governance@esipfed.org) for the current status.
+:::
+
+**Policy and Procedure 1.0 - Definitions**
+
+For the purposes of this document, the following terms and definitions shall apply:
+
+1.0.1 *Organization*: The Foundation for Earth Science Information Partners, hereinafter referred to as "ESIP."
+
+This Policy has not yet been approved by the Board of Directors of ESIP
