@@ -1,0 +1,130 @@
+---
+title: "Article 5: Director Duty of Care and Conduct"
+---
+
+## **5.1 - DUTY OF CARE AND LOYALTY**
+
+### **5.1.1**
+
+It is the obligation of each director of the Corporation to perform his or her duties in good faith, in a manner such director believes to be in the best interests of the Corporation and with such care that a person in a like position would reasonably believe appropriate under similar circumstances.
+
+## **5.1.2**
+
+In discharging Board or committee duties a director shall disclose, or cause to be disclosed, to the other directors or committee members information not already known by them but known by the director to be material to the discharge of their decision making or oversight functions, except that disclosure is not required to the extent that the director reasonably believes that doing so would violate a duty imposed by law, a legally enforceable obligation of confidentiality, or a professional ethics rule.
+
+## **5.1.3**
+
+In discharging Board or committee duties, a director who does not have knowledge that makes reliance unwarranted may rely on the performance by any of the persons (set forth in section 5.1.5) to whom the Board may have delegated, formally or informally by course of conduct, the authority or duty to perform one or more of the Board's functions that are delegable under applicable law.
+
+## **5.1.4**
+
+In discharging Board or committee duties a director who does not have knowledge that makes reliance unwarranted may rely on information, opinions, reports, or statements, including financial statements and other financial data, prepared or presented by any of the persons specified in section 5.1.5 of this section.
+
+## **5.1.5**
+
+A director may rely, in accordance with sections 5.1.3 or 5.1.4, on:
+
+   **5.1.5.1** - One or more officers, employees, or volunteers of the nonprofit corporation whom the director reasonably believes to be reliable and competent in the functions performed or the information, opinions, reports, or statements provided;  
+   **5.1.5.2** - Legal counsel, public accountants, or other persons retained by the Corporation as to matters involving skills or expertise the director reasonably believes are matters:  
+      **5.1.5.2.1** - Within the particular person's professional or expert competence; or  
+      **5.1.5.2.2** - As to which the particular person merits confidence.
+
+   **5.1.5.3** - A committee of the Board of which the director is not a member if the director reasonably believes the committee merits confidence.
+
+
+
+## **5.2 - GENERAL DUTIES**
+
+### **5.2.1**
+
+It is the duty of each director to:
+
+   **5.2.1.1** - Perform any and all duties imposed on him or her individually, or collectively upon the Board, by law, by the Articles of Incorporation of this Corporation, or by these bylaws; and  
+   **5.2.1.2** - Register his or her addresses, phone number and primary email address with the Secretary of the Corporation. Notices of meetings delivered or telephoned to a director at such address shall be valid notices. Notices of meetings delivered by phone (including a voice messaging system), email or by other electronic means shall be valid notices thereof if, prior to delivery of the notice, the director has given his or her consent to receive notice by such means.
+
+### **5.2.2**
+
+It is the duty of the Board to:
+
+   **5.2.2.1** - Appoint and remove, employ and discharge, and, except as otherwise provided in these bylaws, prescribe and supervise the duties and fix the compensation, if any, of all officers, agents and employees of the Corporation;  
+   **5.2.2.2** - Meet at such times and places as required by these bylaws.
+
+
+
+## **5.3 - CONFLICTING INTEREST TRANSACTIONS**
+
+### **5.3.1**
+
+The Corporation shall not enter into any contract or transaction, directly or indirectly, with one or more of its members, directors, members of a designated body, or officers or between a nonprofit corporation and any other entity in which one or more of its directors, members of a designated body, or officers are directors or officers, hold a similar position, or have a financial interest, unless:
+
+   **5.3.1.1** - The material facts as to the relationship or interest and as to the contract or transaction are disclosed or are known to the Board of Directors and the Board in good faith authorizes the contract or transaction by the affirmative votes of a majority of the disinterested directors even though the disinterested directors are less than a quorum;  
+   **5.3.1.2** - The material facts as to the relationship or interest of the member, director, or officer and as to the contract or transaction are disclosed or are known to the members entitled to vote thereon, if any, and the contract or transaction is specifically approved in good faith by vote of those members; or  
+   **5.3.1.3** - The contract or transaction is fair as to the Corporation as of the time it is authorized, approved, or ratified by the Board of Directors or the members.
+
+### **5.3.2**
+
+Common or interested directors may be counted in determining the presence of a quorum at a meeting of the Board that authorizes a contract or transaction specified in subsection (a) of this section.
+
+
+## **5.4 – COMPENSATION**
+
+Directors shall serve without compensation. Directors and other disqualified persons may be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their regular duties as specified in [Section 5.2 of this Article](https://github.com/ESIPFed/Governance/blob/master/Bylaws/Article%2005%20Director%20duty%20of%20care%20and%20conduct/5.02%20General%20duties.md). Directors may be compensated for rendering services to the Corporation in any capacity other than director only if such other compensation is reasonable, allowable and has been authorized under the provisions of [Section 5.3](https://github.com/ESIPFed/Governance/blob/master/Bylaws/Article%2005%20Director%20duty%20of%20care%20and%20conduct/5.03%20Conflicting%20interest%20transactions.md).
+
+
+## **5.5 - LOANS TO OFFICERS OR DIRECTORS**
+
+The Corporation shall not make any loan of money or property to or guarantee the obligation of any director or officer; provided, however, that the Corporation may advance money to a director or officer of the Corporation or of its parent or any subsidiary for expenses reasonably anticipated to be incurred in the performance of the duties of such officer or director, provided that in the absence of such advance, such director or officer would be entitled to be reimbursed for such expenses by such Corporation, its parent, or any subsidiary.
+
+
+
+## **5.6 - PROHIBITION AGAINST SHARING CORPORATE PROFITS AND ASSETS**
+
+No director, officer, employee, or other person connected with this Corporation, or any private individual, shall receive at any time any of the net earnings or pecuniary profit from the operations of the Corporation; provided, however, that this provision shall not prevent payment to any such person for reasonable compensation for services performed for the Corporation in effecting any of its public or charitable purposes, provided that such compensation is otherwise permitted by these bylaws and is fixed by resolution of the Board; and no such person or persons shall be entitled to share in the distribution of, and shall not receive, any of the corporate assets on dissolution of the Corporation.
+
+
+## **5.7 - NON-LIABILITY OF DIRECTORS**
+
+The directors shall not be liable to the nonprofit corporation for any debts, liabilities, or other obligations of the Corporation, unless the party asserting liability in a proceeding establishes that the challenged conduct of the director consisted or was the result of:
+
+### **5.7.1**
+
+Action not in good faith;
+
+### **5.7.2**
+
+A decision which the director did not reasonably believe to be in the best interests of the Corporation;
+
+### **5.7.3**
+
+A decision as to which the director was not informed to an extent the director reasonably believed appropriate in the circumstances;
+
+### **5.7.4**
+
+A lack of objectivity due to the director's conflict of interest;
+### **5.7.5**
+
+A sustained failure of the director to devote attention to ongoing oversight of the activities and affairs of the Corporation; or
+
+### **5.7.6**
+
+Any other reason set forth in Section 29 406.31 of the Act.
+
+
+## **5.8 - INSURANCE FOR CORPORATE AGENTS**
+
+The Board may authorize the purchase of insurance on behalf of any director, officer, employee, or other agent against any liability asserted against or incurred by him that arises out of such person's status as a director, officer, employee, or agent or out of acts taken in such capacity, whether or not the Corporation would have the power to indemnify the person against that liability under law.
+
+
+## **5.9 - INDEMNIFICATION BY CORPORATION OF DIRECTORS, OFFICERS, EMPLOYEES AND OTHER AGENTS**
+
+### **5.9.1**
+
+The Corporation may indemnify any person who is or was a director, officer, employee or agent of the Corporation to the extent permitted by Section 29 406.50 et seq of the Act.
+
+### **5.9.2**
+
+In no case, however, shall the Corporation indemnify, reimburse or insure any person for any taxes imposed on such individual under chapter 42 of the Internal Revenue Code, as now in effect or may hereafter be amended (the "Code"). Further, if at any time the Corporation is deemed to be a private foundation within the meaning of section 509 of the Code, then during such time, no payment shall be made under this Section if such payment would constitute on act of self-dealing or a taxable expenditure, as defined in section 4941(d) or 4945(d) of the Code. Moreover, the Corporation shall not indemnify, reimburse or insure any person in any instance where such indemnification, reimbursement or insurance is inconsistent with section 4958 of the Code or any other provision of the Code applicable to corporations described in section 501(c)(3) of the Code.
+
+
+
+
