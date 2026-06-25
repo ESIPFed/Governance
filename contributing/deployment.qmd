@@ -1,0 +1,62 @@
+---
+title: "How Publishing Works"
+---
+
+This page explains what happens automatically when a change is merged into the
+`master` branch of the repository.
+
+## The publishing pipeline
+
+Every merge to `master` triggers the following sequence automatically — no one
+needs to run any commands:
+
+1. **GitHub receives the merge.** The push to `master` triggers a GitHub Actions
+   workflow defined in `.github/workflows/publish.yml`.
+
+2. **A virtual machine starts.** GitHub spins up a fresh Ubuntu environment in
+   the cloud. This takes about 30 seconds.
+
+3. **Quarto is installed on the VM.** The workflow installs Quarto automatically.
+   This happens every run — the VM starts fresh each time.
+
+4. **`quarto render` runs.** Quarto reads `_quarto.yml`, processes all `.qmd`
+   files listed under `book.chapters`, and generates HTML output.
+
+5. **The output is published to the `gh-pages` branch.** The rendered site is
+   pushed to a special `gh-pages` branch in this repository. Only the built
+   output lives there — not the source files.
+
+6. **GitHub Pages serves the updated site.** GitHub detects the push to
+   `gh-pages` and updates the live site, usually within 60 seconds.
+
+The full pipeline takes about 2–3 minutes from merge to live.
+
+## Checking if a build succeeded
+
+1. Go to the repository on GitHub.
+2. Click the **Actions** tab.
+3. Find the most recent workflow run ("Quarto Publish").
+4. A green checkmark means the site updated successfully.
+5. A red X means something failed — click the run to see the error log.
+
+## What to do if a build fails
+
+1. Click the failed run in the Actions tab to read the error.
+2. Common causes: a `.qmd` file listed in `_quarto.yml` doesn't exist yet, or
+   there's a YAML syntax error in frontmatter.
+3. Fix the issue in a new commit — the workflow re-runs automatically on push.
+4. If you can't diagnose the error, email
+   [governance@esipfed.org](mailto:governance@esipfed.org).
+
+## Previewing changes locally (optional)
+
+If you have Quarto installed on your machine, you can preview changes before
+opening a pull request:
+
+```bash
+# Install Quarto: https://quarto.org/docs/get-started/
+quarto preview
+```
+
+This opens a live-reloading browser preview at `http://localhost:4567`. Changes
+you save to any `.qmd` file appear in the browser immediately.
