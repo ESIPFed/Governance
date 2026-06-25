@@ -1,0 +1,31 @@
+---
+title: "Bylaws"
+---
+
+# Amended and Restated Bylaws of the Foundation for Earth Science Information Partners
+
+**Restated as of December 2, 2016**
+
+These bylaws govern the Foundation for Earth Science Information Partners (ESIP).
+They are organized into eleven articles covering offices, purposes, membership,
+directors, conduct, meetings, officers, committees, instruments, records, and
+miscellaneous provisions.
+
+Amendments to the bylaws require a two-thirds vote of the entire membership
+present at a duly called meeting (see [Article 11.2](article-11-miscellaneous.qmd)).
+
+## Articles
+
+| Article | Title |
+|---------|-------|
+| [1](article-01-offices.qmd) | Offices |
+| [2](article-02-purposes.qmd) | Purposes |
+| [3](article-03-members.qmd) | Members |
+| [4](article-04-directors.qmd) | Directors, Election and Removal |
+| [5](article-05-director-conduct.qmd) | Director Duty of Care and Conduct |
+| [6](article-06-board-meetings.qmd) | Meetings of the Board |
+| [7](article-07-officers.qmd) | Officers |
+| [8](article-08-committees.qmd) | Committees |
+| [9](article-09-instruments.qmd) | Execution of Instruments, Deposits and Funds |
+| [10](article-10-records.qmd) | Corporate Records, Reports and Seal |
+| [11](article-11-miscellaneous.qmd) | Miscellaneous Provisions |

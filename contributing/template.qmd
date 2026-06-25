@@ -1,0 +1,44 @@
+---
+title: "Policy/Procedure Template"
+---
+
+*This is a blank template for drafting new ESIP policies or procedures.
+Copy this file, fill in the sections, and open a pull request.*
+
+---
+
+**Policy and Procedure X.X — [Policy Title]**
+
+**Proposed by:** [Name / Committee]
+**Date proposed:** [YYYY-MM-DD]
+**Status:** Draft — pending board approval
+
+---
+
+## Section 1 — Purpose
+
+[Describe the purpose of this policy in one to three sentences.]
+
+## Section 2 — Scope
+
+[Describe who this policy applies to.]
+
+## Section 3 — Policy
+
+[State the policy requirements clearly, using numbered subsections (3.1, 3.2, …).]
+
+3.1 [First requirement.]
+
+3.2 [Second requirement.]
+
+## Section 4 — Procedures
+
+[Optional: describe step-by-step procedures for implementing the policy.]
+
+## Section 5 — Exceptions
+
+[Optional: describe any exceptions to the policy.]
+
+---
+
+*This policy was approved by the ESIP Board of Directors on [date].*

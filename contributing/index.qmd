@@ -1,0 +1,46 @@
+---
+title: "How to Contribute"
+---
+
+Changes to ESIP governance documents are proposed through GitHub. There are two
+paths depending on your comfort with GitHub.
+
+## Path 1 — Edit in the browser (recommended for board members)
+
+No GitHub account setup or Git knowledge required.
+
+1. Find the page you want to edit in the web book.
+2. Click **Edit this page** (top-right corner of every page).
+3. GitHub opens the source file in its web editor.
+4. Make your changes directly in the browser.
+5. Scroll down and click **Propose changes**.
+6. GitHub creates a pull request automatically — staff will review and merge it.
+
+## Path 2 — Pull request (for staff)
+
+Standard GitHub workflow for larger changes:
+
+1. Create a branch from `master`.
+2. Edit `.qmd` files locally or in the GitHub interface.
+3. Open a pull request with a description of what changed and why.
+4. A reviewer merges after approval.
+
+## Review and approval rules
+
+| Change type | Who can approve |
+|---|---|
+| Typo, formatting, broken link | Staff (single reviewer) |
+| Wording clarification, date update | Staff (single reviewer) |
+| Policy content change | Board approval required before merge |
+| New policy or procedure | Board approval required before merge |
+| Structural or navigation changes | Staff lead + one other reviewer |
+
+## Reporting an issue without editing
+
+Click **Report an issue** (top-right on any page) to open a pre-filled GitHub
+Issue. Staff will triage and make the fix. No edits required on your part.
+
+## Questions
+
+Email [governance@esipfed.org](mailto:governance@esipfed.org) or
+[open an issue](https://github.com/ESIPFed/Governance/issues/new).

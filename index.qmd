@@ -1,0 +1,34 @@
+---
+title: "ESIP Governance"
+---
+
+This resource contains the official governance documents for the Foundation for
+Earth Science Information Partners (ESIP), including the bylaws, policies and
+procedures, committee procedures, and position descriptions.
+
+## How to use this resource
+
+**Finding a document:** Use the sidebar on the left to browse by section, or use
+the **search bar** (top-right) to search by keyword across all documents.
+
+**Proposing a change:** See [How to Contribute](contributing/index.qmd) for how
+to suggest edits or report issues — no Git knowledge required.
+
+## Document sections
+
+| Section | Description |
+|---|---|
+| [Bylaws](bylaws/index.qmd) | The foundational legal governing document of ESIP, restated December 2016 |
+| [Corporate Policies](policies/index.qmd) | Organizational policies covering membership, structure, and operations |
+| [Ethics & Conduct](policies/2-ethics-conduct/2-1-community-participation-guidelines.qmd) | Community guidelines, conflict of interest, and whistleblower policies |
+| [Business & Finance](policies/3-business-finance/3-1-accounting.qmd) | Financial policies, accounting, procurement, and expense reimbursement |
+| [Human Resources](policies/4-human-resources/4-1-employee-handbook.qmd) | HR policies including the employee handbook and search procedures |
+| [Committee Procedures](procedures/index.qmd) | Award procedures and committee-specific rules |
+| [Position Descriptions](positions/executive-director.qmd) | Role descriptions for ESIP staff positions |
+| [Contributing](contributing/index.qmd) | How to propose changes or report issues |
+
+## About this resource
+
+This web book is maintained by the ESIP Governance Committee. To reach the
+committee, email [governance@esipfed.org](mailto:governance@esipfed.org) or
+[open an issue](https://github.com/ESIPFed/Governance/issues/new) on GitHub.
