@@ -1,0 +1,95 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "ESIP Governance"
+  author: "Earth Science Information Partners"
+  description: "Official bylaws, policies, and procedures of the Foundation for Earth Science Information Partners."
+  sidebar:
+    style: "docked"
+    collapse-level: 1
+  search: true
+  repo-url: https://github.com/ESIPFed/Governance
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - part: "Bylaws"
+      chapters:
+        - bylaws/index.qmd
+        - bylaws/article-01-offices.qmd
+        - bylaws/article-02-purposes.qmd
+        - bylaws/article-03-members.qmd
+        - bylaws/article-04-directors.qmd
+        - bylaws/article-05-director-conduct.qmd
+        - bylaws/article-06-board-meetings.qmd
+        - bylaws/article-07-officers.qmd
+        - bylaws/article-08-committees.qmd
+        - bylaws/article-09-instruments.qmd
+        - bylaws/article-10-records.qmd
+        - bylaws/article-11-miscellaneous.qmd
+    - part: "Corporate Policies"
+      chapters:
+        - policies/index.qmd
+        - policies/1-corporate/1-0-definitions.qmd
+        - policies/1-corporate/1-1-goals.qmd
+        - policies/1-corporate/1-2-partners.qmd
+        - policies/1-corporate/1-2a-nonvoting-associates.qmd
+        - policies/1-corporate/1-3-corporate-organization.qmd
+        - policies/1-corporate/1-3a-board-participation.qmd
+        - policies/1-corporate/1-4-policy-approval.qmd
+        - policies/1-corporate/1-5-equal-opportunity.qmd
+        - policies/1-corporate/1-6-record-maintenance.qmd
+        - policies/1-corporate/1-7-endorsements.qmd
+        - policies/1-corporate/1-8-logo-use.qmd
+        - policies/1-corporate/1-9-data-privacy.qmd
+        - policies/1-corporate/1-10-memoranda-of-understanding.qmd
+    - part: "Ethics & Conduct"
+      chapters:
+        - policies/2-ethics-conduct/2-1-community-participation-guidelines.qmd
+        - policies/2-ethics-conduct/2-2-conflict-of-interest.qmd
+        - policies/2-ethics-conduct/2-3-gift-acceptance.qmd
+        - policies/2-ethics-conduct/2-4-fundraising.qmd
+        - policies/2-ethics-conduct/2-5-whistleblower.qmd
+    - part: "Business & Finance"
+      chapters:
+        - policies/3-business-finance/3-1-accounting.qmd
+        - policies/3-business-finance/3-2-internal-controls.qmd
+        - policies/3-business-finance/3-3-financial-planning.qmd
+        - policies/3-business-finance/3-3a-ficom-budget-cycle.qmd
+        - policies/3-business-finance/3-3f-committee-budget-request.qmd
+        - policies/3-business-finance/3-4-revenue-accounts-receivable.qmd
+        - policies/3-business-finance/3-5-expenses-accounts-payable.qmd
+        - policies/3-business-finance/3-5a-travel-expense.qmd
+        - policies/3-business-finance/3-5b-complimentary-registration.qmd
+        - policies/3-business-finance/3-5c-credit-card-points.qmd
+        - policies/3-business-finance/3-6-asset-management.qmd
+        - policies/3-business-finance/3-7-pass-through-funding.qmd
+        - policies/3-business-finance/3-8-gift-issuance.qmd
+        - policies/3-business-finance/3-9-procurement.qmd
+    - part: "Human Resources"
+      chapters:
+        - policies/4-human-resources/4-1-employee-handbook.qmd
+        - policies/4-human-resources/4-2-personnel-records.qmd
+        - policies/4-human-resources/4-3-employee-search-selection.qmd
+        - policies/4-human-resources/4-4-executive-director-evaluation.qmd
+    - part: "Committee Procedures"
+      chapters:
+        - procedures/index.qmd
+        - procedures/funding-friday.qmd
+        - procedures/raskin-scholarship.qmd
+        - procedures/martha-maiden-award.qmd
+        - procedures/cpg-reporting.qmd
+    - part: "Position Descriptions"
+      chapters:
+        - positions/executive-director.qmd
+    - part: "Contributing"
+      chapters:
+        - contributing/index.qmd
+        - contributing/deployment.qmd
+        - contributing/template.qmd
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: true

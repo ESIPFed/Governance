@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+/*
+ * ESIP brand colors — extract from esipfed.org:
+ *   1. Open https://www.esipfed.org in a browser
+ *   2. Right-click → Inspect → Elements tab
+ *   3. Look for :root { } block with CSS custom properties
+ *   4. Replace the placeholder values below
+ */
+
+$primary:    #2c7be5;   /* placeholder — replace with ESIP primary brand color */
+$link-color: #2c7be5;   /* placeholder — replace with ESIP link color */
+$body-bg:    #ffffff;
+
+/*-- scss:rules --*/
+.sidebar-title {
+  font-weight: 700;
+}
