@@ -9,6 +9,7 @@ book:
   sidebar:
     style: "docked"
     collapse-level: 2
+  number-chapters: false
   search: true
   repo-url: https://github.com/amfriesz/Governance
   repo-actions: [edit, issue]
