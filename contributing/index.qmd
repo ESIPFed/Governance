@@ -2,8 +2,8 @@
 title: "How to Contribute"
 ---
 
-Changes to ESIP governance documents are proposed through GitHub. There are two
-paths depending on your comfort with GitHub.
+Changes to ESIP governance documents are proposed through GitHub. There are
+three paths depending on your comfort with GitHub.
 
 ## Path 1 — Edit in the browser (recommended for board members)
 
@@ -16,7 +16,20 @@ No GitHub account setup or Git knowledge required.
 5. Scroll down and click **Propose changes**.
 6. GitHub creates a pull request automatically — staff will review and merge it.
 
-## Path 2 — Pull request (for staff)
+## Path 2 — Report an issue (if you don't want to make the edit yourself)
+
+Use this when you've spotted something that should change — a typo, an
+outdated policy, a broken link, or an idea for new content — but would rather
+describe it than edit it.
+
+1. Find the page in question in the web book.
+2. Click **Report an issue** (top-right corner of every page).
+3. GitHub opens a pre-filled issue linked to that page's source file.
+4. Describe what should change and why.
+5. Submit the issue. Staff will triage it and either make the edit or open a
+   pull request based on your suggestion.
+
+## Path 3 — Pull request (for staff)
 
 Standard GitHub workflow for larger changes:
 
@@ -34,11 +47,6 @@ Standard GitHub workflow for larger changes:
 | Policy content change | Board approval required before merge |
 | New policy or procedure | Board approval required before merge |
 | Structural or navigation changes | Staff lead + one other reviewer |
-
-## Reporting an issue without editing
-
-Click **Report an issue** (top-right on any page) to open a pre-filled GitHub
-Issue. Staff will triage and make the fix. No edits required on your part.
 
 ## Questions
 
