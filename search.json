@@ -1970,7 +1970,7 @@
     "href": "contributing/index.html",
     "title": "How to Contribute",
     "section": "",
-    "text": "Path 1 — Edit in the browser (recommended for board members)\nChanges to ESIP governance documents are proposed through GitHub. There are two paths depending on your comfort with GitHub.\nNo GitHub account setup or Git knowledge required.",
+    "text": "Path 1 — Edit in the browser (recommended for board members)\nChanges to ESIP governance documents are proposed through GitHub. There are three paths depending on your comfort with GitHub.\nNo GitHub account setup or Git knowledge required.",
     "crumbs": [
       "Contributing",
       "<span class='chapter-number'>57</span>  <span class='chapter-title'>How to Contribute</span>"
@@ -1988,11 +1988,22 @@
     ]
   },
   {
-    "objectID": "contributing/index.html#path-2-pull-request-for-staff",
-    "href": "contributing/index.html#path-2-pull-request-for-staff",
+    "objectID": "contributing/index.html#path-2-report-an-issue-if-you-dont-want-to-make-the-edit-yourself",
+    "href": "contributing/index.html#path-2-report-an-issue-if-you-dont-want-to-make-the-edit-yourself",
     "title": "How to Contribute",
-    "section": "Path 2 — Pull request (for staff)",
-    "text": "Path 2 — Pull request (for staff)\nStandard GitHub workflow for larger changes:\n\nCreate a branch from master.\nEdit .qmd files locally or in the GitHub interface.\nOpen a pull request with a description of what changed and why.\nA reviewer merges after approval.",
+    "section": "Path 2 — Report an issue (if you don’t want to make the edit yourself)",
+    "text": "Path 2 — Report an issue (if you don’t want to make the edit yourself)\nUse this when you’ve spotted something that should change — a typo, an outdated policy, a broken link, or an idea for new content — but would rather describe it than edit it.\n\nFind the page in question in the web book.\nClick Report an issue (top-right corner of every page).\nGitHub opens a pre-filled issue linked to that page’s source file.\nDescribe what should change and why.\nSubmit the issue. Staff will triage it and either make the edit or open a pull request based on your suggestion.",
+    "crumbs": [
+      "Contributing",
+      "<span class='chapter-number'>57</span>  <span class='chapter-title'>How to Contribute</span>"
+    ]
+  },
+  {
+    "objectID": "contributing/index.html#path-3-pull-request-for-staff",
+    "href": "contributing/index.html#path-3-pull-request-for-staff",
+    "title": "How to Contribute",
+    "section": "Path 3 — Pull request (for staff)",
+    "text": "Path 3 — Pull request (for staff)\nStandard GitHub workflow for larger changes:\n\nCreate a branch from master.\nEdit .qmd files locally or in the GitHub interface.\nOpen a pull request with a description of what changed and why.\nA reviewer merges after approval.",
     "crumbs": [
       "Contributing",
       "<span class='chapter-number'>57</span>  <span class='chapter-title'>How to Contribute</span>"
@@ -2004,17 +2015,6 @@
     "title": "How to Contribute",
     "section": "Review and approval rules",
     "text": "Review and approval rules\n\n\n\nChange type\nWho can approve\n\n\n\n\nTypo, formatting, broken link\nStaff (single reviewer)\n\n\nWording clarification, date update\nStaff (single reviewer)\n\n\nPolicy content change\nBoard approval required before merge\n\n\nNew policy or procedure\nBoard approval required before merge\n\n\nStructural or navigation changes\nStaff lead + one other reviewer",
-    "crumbs": [
-      "Contributing",
-      "<span class='chapter-number'>57</span>  <span class='chapter-title'>How to Contribute</span>"
-    ]
-  },
-  {
-    "objectID": "contributing/index.html#reporting-an-issue-without-editing",
-    "href": "contributing/index.html#reporting-an-issue-without-editing",
-    "title": "How to Contribute",
-    "section": "Reporting an issue without editing",
-    "text": "Reporting an issue without editing\nClick Report an issue (top-right on any page) to open a pre-filled GitHub Issue. Staff will triage and make the fix. No edits required on your part.",
     "crumbs": [
       "Contributing",
       "<span class='chapter-number'>57</span>  <span class='chapter-title'>How to Contribute</span>"
