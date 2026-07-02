@@ -12,12 +12,13 @@ The Quarto-based governance redesign (content audit, repo restructure, web book 
 [2026-06-24-esip-governance-redesign-design.md](2026-06-24-esip-governance-redesign-design.md))
 is feature-complete in this fork, on the local `main` branch.
 
-The upstream repository, `ESIPFed/Governance`, already has a live GitHub Pages site at
-`https://esipfed.github.io/Governance/`, currently serving the old README/Jekyll content
-from its `master` branch (the upstream default branch).
+The upstream repository, `ESIPFed/Governance`, has GitHub Pages nominally enabled
+(`Settings → Pages` shows source = `Deploy from branch: master, path /`), but
+`https://esipfed.github.io/Governance/` currently returns a **404** — there is no working
+live site today. Nothing is being replaced; this is the first functioning deployment.
 
-This spec covers pushing the redesign to upstream as a `development` branch and cutting the
-live site over to deploy from it, so ESIP staff/board can review the real, rendered result —
+This spec covers pushing the redesign to upstream as a `development` branch and pointing
+Pages at its build output, so ESIP staff/board can review the real, rendered result —
 without altering `master` or its history.
 
 ---
@@ -25,8 +26,9 @@ without altering `master` or its history.
 ## Current state (verified against upstream)
 
 - Upstream default branch: `master`. No `development`, `main`, or `gh-pages` branch exists there yet.
-- Upstream Pages: enabled, source = `Deploy from branch: master, path /`, serving Jekyll-rendered
-  Markdown (README-style navigation).
+- Upstream Pages: nominally enabled, source = `Deploy from branch: master, path /`, but
+  `https://esipfed.github.io/Governance/` returns a 404. Confirmed via `gh api repos/ESIPFed/Governance/pages`
+  and a direct `curl` of the URL. No working site exists today.
 - Upstream has no `.github/workflows` directory — no CI currently configured.
 - Local fork (`amfriesz/Governance`) already proved the build mechanism: `main` → Action renders
   the book → `quarto-actions/publish@v2` (target `gh-pages`) pushes rendered output to a `gh-pages`
@@ -61,21 +63,20 @@ without altering `master` or its history.
 - Push local `main` to upstream as `development`: `git push upstream main:development`.
 - Upstream and the fork share common history (same original repo), so this is a normal branch
   push — not a rewrite or force-push.
-- Pushing alone does not change the live site. It triggers the Action, which renders the book and
-  pushes the result to a new `gh-pages` branch on the upstream repo. The live site keeps serving
-  the old `master`-based content until step 4.
+- Pushing alone does not change the Pages source. It triggers the Action, which renders the book
+  and pushes the result to a new `gh-pages` branch on the upstream repo. `esipfed.github.io/Governance/`
+  keeps returning 404 until step 4.
 
 ### 4. Cutover
 
 - After the Action run from step 3 completes and `gh-pages` exists on upstream with the rendered
   site, change upstream **Settings → Pages** source from `Deploy from branch: master /(root)` to
   `Deploy from branch: gh-pages /(root)`.
-- This is the single step that actually flips the live URL to the new book. It will be done last,
-  with explicit confirmation immediately beforehand, since it changes a real, currently-live,
-  publicly visible page for the ESIP org.
-- `master` is not modified in any way — its content, history, and current Pages association (until
-  the switch) are all left intact. If anything about the new site needs to be walked back, Pages
-  source can be pointed back to `master` and the old site returns unchanged.
+- This is the step that makes the URL serve real content for the first time. It's still an org-repo
+  settings change, so it will be done last, with explicit confirmation immediately beforehand.
+- `master` is not modified in any way — its content and history are left intact. If the Pages source
+  ever needs to be reverted, pointing it back to `master` restores exactly today's state (a 404,
+  since master has no working Pages output either).
 
 ---
 
