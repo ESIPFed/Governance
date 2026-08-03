@@ -83,5 +83,5 @@ Partner Types were created in order to (1) allow Partners to better understand o
 
 --
 
-This Policy was revised and approved by the ESIP Board on April 20, 2026.
-This Policy was revised on this site on May 8, 2026.
+This Policy was revised and approved by the ESIP Board on July 27, 2026.
+This Policy was revised on this site on August 3, 2026.
