@@ -6,7 +6,7 @@ toc-depth: 4
 
 **ESIP Operating Policy – Record Retention and Destruction**
 
-## Policy and Procedure 1.6 - Record Maintenance Policy
+## 1.6 - Record Maintenance Policy
 
 ### 1. Purpose
 
