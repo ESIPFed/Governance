@@ -571,7 +571,11 @@ pension.</span>
 
 <span class="c1"></span>
 
-M. <span class="c10">TAX RECORDS</span>
+#### M. PROPERTY RECORDS
+
+*Content for this section has not yet been supplied. Contact the Policy Administrator to complete the Property Records retention schedule.*
+
+#### N. TAX RECORDS
 
 <span class="c1"></span>
 
@@ -649,8 +653,7 @@ and Related Correspondence</span></p></td>
 
 <span class="c1"></span>
 
-N. <span class="c10">CONTRIBUTION
-RECORDS</span>
+#### O. CONTRIBUTION RECORDS
 
 <span class="c1"></span>
 
@@ -666,8 +669,7 @@ RECORDS</span>
 
 <span class="c1"></span>
 
-O. <span class="c10">PROGRAM AND SERVICE
-RECORDS</span>
+#### P. PROGRAM AND SERVICE RECORDS
 
 <span class="c1"></span>
 
@@ -710,9 +712,8 @@ RECORDS</span>
 </tbody>
 </table>
 
-<span class="c1"></span>
+#### Q. FISCAL SPONSOR PROJECT RECORDS
 
-<span class="c1"></span>
+*Content for this section has not yet been supplied. Contact the Policy Administrator to complete the Fiscal Sponsor Project Records retention schedule.*
 
-<span class="c51">This Policy was approved by the Board of Directors of
-ESIP on October 17, 2017. </span>
+This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
