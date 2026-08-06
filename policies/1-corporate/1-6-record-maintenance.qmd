@@ -242,22 +242,14 @@ the electronic document.
 | Record Type | Retention Period |
 | --- | --- |
 | Original grant proposal | 7 years after the fiscal year of completion of grant period |
-| | |
 | Grant agreement and subsequent modifications, if applicable | 7 years after completion of grant period |
-| | |
 | All requested IRS/grantee correspondence including determination letters and “no change” in exempt status letters | 7 years after completion of grant period |
-| | |
 | Final grantee reports, both financial and narrative | 7 years after completion of grant period |
-| | |
 | All evidence of returned grant funds | 7 years after completion of grant period |
-| | |
 | All pertinent formal correspondence including opinion letters of counsel | 7 years after completion of grant period |
 | Report assessment forms | 7 years after completion of grant period |
-| | |
 | Documentation relating to grantee evidence of invoices and matching or challenge grants that would support grantee compliance with the grant agreement | 7 years after completion of grant period |
-| | |
 | Pre-grant inquiry forms and other documentation for expenditure responsibility grants | 7 years after completion of grant period |
-| | |
 | Grantee work product produced with the grant funds | 7 years after completion of grant period |
 
 #### G. INSURANCE RECORDS
@@ -320,7 +312,6 @@ pension.
 
 | Record Type | Retention Period |
 | --- | --- |
-|                                |                   |
 | Retirement and Pension Records | Permanent         |
 
 #### L. PERSONNEL RECORDS
@@ -328,24 +319,14 @@ pension.
 | Record Type | Retention Period |
 | --- | --- |
 | Commissions/Bonuses/Incentives/Awards                                                                                                                                                                                                                       | 7 years                                                                                      |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | EEO I /EEO2  Employer Information Reports                                                                                                                                                                                                                   | 2 years after superseded or filing (whichever is longer)                                     |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Employee Earnings Records                                                                                                                                                                                                                                   | Separation + 7 years                                                                         |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Employee Handbooks                                                                                                                                                                                                                                          | 1 copy kept permanently                                                                      |
-|                                                                                                                                                                                                                                                             |                                                                                              |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Employee Personnel Records (including individual attendance records, application forms, job or status change records, performance evaluations, termination papers, withholding information, garnishments, test results, training and qualification records) | 6 years after separation                                                                     |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Employment Contracts – Individual                                                                                                                                                                                                                           | 7 years after separation                                                                     |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Employment Records  All Non-Hired Applicants (including all applications and resumes  whether solicited or unsolicited, results of background investigations, if any, related correspondence)                                                               | 2-4 years (4 years if file contains any correspondence which might be construed as an offer) |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Job Descriptions                                                                                                                                                                                                                                            | 3 years after superseded                                                                     |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Personnel Count Records                                                                                                                                                                                                                                     | 3 years                                                                                      |
-|                                                                                                                                                                                                                                                             |                                                                                              |
 | Forms I-9                                                                                                                                                                                                                                                   | 3 years after hiring, or 1 year after separation if later                                    |
 
 #### M. PROPERTY RECORDS
