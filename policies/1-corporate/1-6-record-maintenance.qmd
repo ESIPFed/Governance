@@ -24,7 +24,7 @@ Maintenance Policy</span>
 
 <span class="c1"></span>
 
-1.  <span class="c10">Purpose</span>
+### 1. Purpose
 
 <span class="c1">The purpose of this Policy is to ensure that necessary
 records and documents of are adequately protected and maintained and to
@@ -36,13 +36,13 @@ documents - including e-mail, Web files, text files, sound and movie
 files, PDF documents, and all Microsoft Office or other formatted
 files.</span>
 
-2.  <span class="c10">Policy</span>
+### 2. Policy
 
 <span class="c1">This Policy represents the ESIP’s policy regarding the
 retention and disposal of records and the retention and disposal of
 electronic documents.</span>
 
-3.  <span class="c10">Administration</span>
+### 3. Administration
 
 <span class="c1">Attached as Appendix A is a Record Retention Schedule
 that is approved as the initial maintenance, retention and disposal
@@ -58,8 +58,7 @@ categories for ESIP; monitor local, state and federal laws affecting
 record retention; annually review the record retention and disposal
 program; and monitor compliance with this Policy.</span>
 
-4.  <span class="c32 c63">Suspension of Record Disposal In Event of
-    Litigation or Claims</span>
+### 4. Suspension of Record Disposal In Event of Litigation or Claims
 
 <span class="c32">In the event
 </span><span class="c35">ESIP</span><span class="c32"> is served with
@@ -75,7 +74,7 @@ Administrator, with the advice of counsel, determines otherwise. The
 Administrator shall take such steps as is necessary to promptly inform
 all staff of any suspension in the further disposal of documents.</span>
 
-5.  <span class="c10">Applicability</span>
+### 5. Applicability
 
 <span class="c1">This Policy applies to all physical records generated
 in the course of ESIP’s operation, including both original documents and
