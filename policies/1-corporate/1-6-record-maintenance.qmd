@@ -100,7 +100,7 @@ The Record Retention Schedule is organized as follows:
 | Investment Records | 7 years after sale of investment |
 | Credit card records (documents showing customer credit card number) | 2 years |
 
-1.  Credit card record retention and destruction
+##### Credit card record retention and destruction
 
 A credit card may be used to pay for the following ESIP products and services:
 ESIP Meeting registration, donation to ESIP.
@@ -227,8 +227,6 @@ form. In such cases the official document will be the electronic document.
 | Loss Runs | 10 years |
 | Releases and Settlements | 25 years |
 
------
-
 #### H. LEGAL FILES AND PAPERS
 
 | Record Type | Retention Period |
@@ -289,6 +287,9 @@ pension is payable to any person and if so the amount of such pension.
 #### M. PROPERTY RECORDS
 
 *Content for this section has not yet been supplied.*
+| Record Type | Retention Period |
+| --- | --- |
+| [ENTER RECORD TYPE] | [ENTER RETENTION PERIOD] |
 
 #### N. TAX RECORDS
 
@@ -334,8 +335,10 @@ franchise, and property tax laws.
 #### Q. FISCAL SPONSOR PROJECT RECORDS
 
 *Content for this section has not yet been supplied.*
+| Record Type | Retention Period |
+| --- | --- |
+| [ENTER RECORD TYPE] | [ENTER RETENTION PERIOD] |
 
 -----
 
 This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
-
