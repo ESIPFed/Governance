@@ -99,18 +99,18 @@ The Record Retention Schedule is organized as follows:
 
 | Record Type | Retention Period |
 | --- | --- |
-| Accounts Payable ledgers and schedules                                                   | 7 years                           |
-| Accounts Receivable ledgers and schedules                                                | 7 years                          |
-| Annual Audit Reports and Financial Statements                                            | Permanent                         |
+| Accounts Payable ledgers and schedules | 7 years |
+| Accounts Receivable ledgers and schedules | 7 years |
+| Annual Audit Reports and Financial Statements | Permanent |
 | Annual Audit Records, including work papers and other documents that relate to the audit | 7 years after completion of audit |
-| Annual Plans and Budgets                                                                 | 2 years                           |
-| Bank Statements and Canceled Checks                                                      | 7 years                          |
-| Employee Expense Reports                                                                 | 7 years                          |
-| General Ledgers                                                                          | Permanent                        |
-| Interim Financial Statements                                                             | 7 years                           |
-| Notes Receivable ledgers and schedules                                                   | 7 years                           |
-| Investment Records                                                                       | 7 years after sale of investment  |
-| Credit card records (documents showing customer credit card number)                      | 2 years                           |
+| Annual Plans and Budgets | 2 years |
+| Bank Statements and Canceled Checks | 7 years |
+| Employee Expense Reports | 7 years |
+| General Ledgers | Permanent |
+| Interim Financial Statements | 7 years |
+| Notes Receivable ledgers and schedules | 7 years |
+| Investment Records | 7 years after sale of investment |
+| Credit card records (documents showing customer credit card number) | 2 years |
 
 1.  Credit card record retention and destruction
 
@@ -139,8 +139,8 @@ document.
 
 | Record Type | Retention Period |
 | --- | --- |
-| Corporate Records (minute books, signed minutes of the Board and all committees, corporate seals, articles of incorporation, bylaws, annual corporate reports) | Permanent        |
-| Licenses and Permits                                                                                                                                           | Permanent         |
+| Corporate Records (minute books, signed minutes of the Board and all committees, corporate seals, articles of incorporation, bylaws, annual corporate reports) | Permanent |
+| Licenses and Permits | Permanent |
 
 #### D. CORRESPONDENCE AND INTERNAL MEMORANDA
 
@@ -256,17 +256,17 @@ the electronic document.
 
 | Record Type | Retention Period |
 | --- | --- |
-| Annual Loss Summaries                                                                 | 10 years                                                              |
-| Audits and Adjustments                                                                | 3 years after final adjustment                                        |
-| Certificates Issued to ESIP                                                           | Permanent                                                             |
-| Claims Files (including correspondence, medical records, injury documentation, etc.)  | Permanent                                                             |
-| Group Insurance Plans  Active Employees                                               | Until Plan is amended or terminated                                   |
-| Group Insurance Plans – Retirees                                                      | Permanent or until 6 years after death of last eligible participant   |
-| Inspections                                                                           | 3 years                                                               |
-| Insurance Policies (including expired policies)                                       | Permanent                                                             |
-| Journal Entry Support Data                                                            | 7 years                                                               |
-| Loss Runs                                                                             | 10 years                                                              |
-| Releases and Settlements                                                              | 25 years                                                              |
+| Annual Loss Summaries | 10 years |
+| Audits and Adjustments | 3 years after final adjustment |
+| Certificates Issued to ESIP | Permanent |
+| Claims Files (including correspondence, medical records, injury documentation, etc.) | Permanent |
+| Group Insurance Plans  Active Employees | Until Plan is amended or terminated |
+| Group Insurance Plans – Retirees | Permanent or until 6 years after death of last eligible participant |
+| Inspections | 3 years |
+| Insurance Policies (including expired policies) | Permanent |
+| Journal Entry Support Data | 7 years |
+| Loss Runs | 10 years |
+| Releases and Settlements | 25 years |
 
 -----
 
@@ -274,33 +274,33 @@ the electronic document.
 
 | Record Type | Retention Period |
 | --- | --- |
-| Legal Memoranda and Opinions (including all subject matter files) | 7 years after close of matter                                |
-| Litigation Files                                                  | 1 year after expiration of appeals or time for filing appeals |
-| Court Orders                                                      | Permanent                                                     |
-| Requests for Departure from Records Retention Plan                | 10 years                                                      |
+| Legal Memoranda and Opinions (including all subject matter files) | 7 years after close of matter |
+| Litigation Files | 1 year after expiration of appeals or time for filing appeals |
+| Court Orders | Permanent |
+| Requests for Departure from Records Retention Plan | 10 years |
 
 #### I. MISCELLANEOUS
 
 | Record Type | Retention Period |
 | --- | --- |
-| Consultant's Reports not pertaining to other sections of this policy | 2 years                                |
-| Material of Historical Value (including pictures, publications)      | Permanent                              |
-| Policy and Procedures Manuals – Original                             | Current version with revision history  |
-| Policy and Procedures Manuals  Copies                                | Retain current version only            |
-| Annual Reports                                                       | Permanent                              |
+| Consultant's Reports not pertaining to other sections of this policy | 2 years |
+| Material of Historical Value (including pictures, publications) | Permanent |
+| Policy and Procedures Manuals – Original | Current version with revision history |
+| Policy and Procedures Manuals  Copies | Retain current version only |
+| Annual Reports | Permanent |
 
 #### J. PAYROLL DOCUMENTS
 
 | Record Type | Retention Period |
 | --- | --- |
-| Employee Deduction Authorizations      | 4 years after termination                  |
-| Payroll Deductions                     | Termination + 7 years                      |
-| W-2 and W-4 Forms                      | Termination + 7 years                      |
-| Garnishments, Assignments, Attachments | Termination + 7 years                      |
-| Labor Distribution Cost Records        | 7 years                                    |
-| Payroll Registers (gross and net)      | 7 years                                    |
-| Time Cards/Sheets                      | Same retention period as grants documents |
-| Unclaimed Wage Records                 | 6 years                                    |
+| Employee Deduction Authorizations | 4 years after termination |
+| Payroll Deductions | Termination + 7 years |
+| W-2 and W-4 Forms | Termination + 7 years |
+| Garnishments, Assignments, Attachments | Termination + 7 years |
+| Labor Distribution Cost Records | 7 years |
+| Payroll Registers (gross and net) | 7 years |
+| Time Cards/Sheets | Same retention period as grants documents |
+| Unclaimed Wage Records | 6 years |
 
 #### K. PENSION DOCUMENTS AND SUPPORTING EMPLOYEE DATA
 
@@ -312,22 +312,22 @@ pension.
 
 | Record Type | Retention Period |
 | --- | --- |
-| Retirement and Pension Records | Permanent         |
+| Retirement and Pension Records | Permanent |
 
 #### L. PERSONNEL RECORDS
 
 | Record Type | Retention Period |
 | --- | --- |
-| Commissions/Bonuses/Incentives/Awards                                                                                                                                                                                                                       | 7 years                                                                                      |
-| EEO I /EEO2  Employer Information Reports                                                                                                                                                                                                                   | 2 years after superseded or filing (whichever is longer)                                     |
-| Employee Earnings Records                                                                                                                                                                                                                                   | Separation + 7 years                                                                         |
-| Employee Handbooks                                                                                                                                                                                                                                          | 1 copy kept permanently                                                                      |
-| Employee Personnel Records (including individual attendance records, application forms, job or status change records, performance evaluations, termination papers, withholding information, garnishments, test results, training and qualification records) | 6 years after separation                                                                     |
-| Employment Contracts – Individual                                                                                                                                                                                                                           | 7 years after separation                                                                     |
-| Employment Records  All Non-Hired Applicants (including all applications and resumes  whether solicited or unsolicited, results of background investigations, if any, related correspondence)                                                               | 2-4 years (4 years if file contains any correspondence which might be construed as an offer) |
-| Job Descriptions                                                                                                                                                                                                                                            | 3 years after superseded                                                                     |
-| Personnel Count Records                                                                                                                                                                                                                                     | 3 years                                                                                      |
-| Forms I-9                                                                                                                                                                                                                                                   | 3 years after hiring, or 1 year after separation if later                                    |
+| Commissions/Bonuses/Incentives/Awards | 7 years |
+| EEO I /EEO2  Employer Information Reports | 2 years after superseded or filing (whichever is longer) |
+| Employee Earnings Records | Separation + 7 years |
+| Employee Handbooks | 1 copy kept permanently |
+| Employee Personnel Records (including individual attendance records, application forms, job or status change records, performance evaluations, termination papers, withholding information, garnishments, test results, training and qualification records) | 6 years after separation |
+| Employment Contracts – Individual | 7 years after separation |
+| Employment Records  All Non-Hired Applicants (including all applications and resumes  whether solicited or unsolicited, results of background investigations, if any, related correspondence) | 2-4 years (4 years if file contains any correspondence which might be construed as an offer) |
+| Job Descriptions | 3 years after superseded |
+| Personnel Count Records | 3 years |
+| Forms I-9 | 3 years after hiring, or 1 year after separation if later |
 
 #### M. PROPERTY RECORDS
 
@@ -362,8 +362,8 @@ laws.
 
 | Record Type | Retention Period |
 | --- | --- |
-| Records of Contributions                            | Permanent         |
-| ESIP’s or other documents evidencing terms of gifts | Permanent         |
+| Records of Contributions | Permanent |
+| ESIP’s or other documents evidencing terms of gifts | Permanent |
 
 #### P. PROGRAM AND SERVICE RECORDS
 
