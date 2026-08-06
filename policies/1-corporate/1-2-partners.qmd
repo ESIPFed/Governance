@@ -1,6 +1,6 @@
 ---
 title: "1.2 Partners and Partner Organizations"
-date: 2026-05-08
+date: 2026-08-03
 ---
 
 **Policy and Procedure 1.2 - ESIP Partners and Partner Organizations**
@@ -88,5 +88,5 @@ Partner Types were created in order to (1) allow Partners to better understand o
 
 --
 
-This Policy was revised and approved by the ESIP Board on April 20, 2026.
-This Policy was revised on this site on May 8, 2026.
+This Policy was revised and approved by the ESIP Board on July 27, 2026.
+This Policy was revised on this site on August 3, 2026.
