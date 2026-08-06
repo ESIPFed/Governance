@@ -97,9 +97,8 @@ The Record Retention Schedule is organized as follows:
 
 #### A. ACCOUNTING AND FINANCE
 
-|                                                                                                                  |                                                           |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Record Type                                                                             | Retention Period                 |
+| Record Type | Retention Period |
+| --- | --- |
 | Accounts Payable ledgers and schedules                                                   | 7 years                           |
 | Accounts Receivable ledgers and schedules                                                | 7 years                          |
 | Annual Audit Reports and Financial Statements                                            | Permanent                         |
@@ -138,9 +137,8 @@ document.
 
 #### C. CORPORATE RECORDS
 
-|                                                                                                                                                                                        |                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| Record Type                                                                                                                                                   | Retention Period |
+| Record Type | Retention Period |
+| --- | --- |
 | Corporate Records (minute books, signed minutes of the Board and all committees, corporate seals, articles of incorporation, bylaws, annual corporate reports) | Permanent        |
 | Licenses and Permits                                                                                                                                           | Permanent         |
 
@@ -264,9 +262,8 @@ the electronic document.
 
 #### G. INSURANCE RECORDS
 
-|                                                                                                               |                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Record Type                                                                          | Retention Period                                                     |
+| Record Type | Retention Period |
+| --- | --- |
 | Annual Loss Summaries                                                                 | 10 years                                                              |
 | Audits and Adjustments                                                                | 3 years after final adjustment                                        |
 | Certificates Issued to ESIP                                                           | Permanent                                                             |
@@ -283,9 +280,8 @@ the electronic document.
 
 #### H. LEGAL FILES AND PAPERS
 
-|                                                                                           |                                                                                       |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Record Type                                                      | Retention Period                                             |
+| Record Type | Retention Period |
+| --- | --- |
 | Legal Memoranda and Opinions (including all subject matter files) | 7 years after close of matter                                |
 | Litigation Files                                                  | 1 year after expiration of appeals or time for filing appeals |
 | Court Orders                                                      | Permanent                                                     |
@@ -293,9 +289,8 @@ the electronic document.
 
 #### I. MISCELLANEOUS
 
-|                                                                                              |                                                                |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Record Type                                                         | Retention Period                      |
+| Record Type | Retention Period |
+| --- | --- |
 | Consultant's Reports not pertaining to other sections of this policy | 2 years                                |
 | Material of Historical Value (including pictures, publications)      | Permanent                              |
 | Policy and Procedures Manuals – Original                             | Current version with revision history  |
@@ -304,9 +299,8 @@ the electronic document.
 
 #### J. PAYROLL DOCUMENTS
 
-|                                                                |                                                                    |
-| -------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Record Type                           | Retention Period                          |
+| Record Type | Retention Period |
+| --- | --- |
 | Employee Deduction Authorizations      | 4 years after termination                  |
 | Payroll Deductions                     | Termination + 7 years                      |
 | W-2 and W-4 Forms                      | Termination + 7 years                      |
@@ -324,17 +318,15 @@ that Donors Forum can establish at all times whether or not any pension
 is payable to any person and if so the amount of such
 pension.
 
-|                                                        |                                           |
-| ------------------------------------------------------ | ----------------------------------------- |
-| Record Type                   | Retention Period |
+| Record Type | Retention Period |
+| --- | --- |
 |                                |                   |
 | Retirement and Pension Records | Permanent         |
 
 #### L. PERSONNEL RECORDS
 
-|                                                                                                                                                                                                                                                                                     |                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Record Type                                                                                                                                                                                                                                                | Retention Period                                                                            |
+| Record Type | Retention Period |
+| --- | --- |
 | Commissions/Bonuses/Incentives/Awards                                                                                                                                                                                                                       | 7 years                                                                                      |
 |                                                                                                                                                                                                                                                             |                                                                                              |
 | EEO I /EEO2  Employer Information Reports                                                                                                                                                                                                                   | 2 years after superseded or filing (whichever is longer)                                     |
@@ -387,9 +379,8 @@ laws.
 
 #### O. CONTRIBUTION RECORDS
 
-|                                                                             |                                           |
-| --------------------------------------------------------------------------- | ----------------------------------------- |
-| Record Type                                        | Retention Period |
+| Record Type | Retention Period |
+| --- | --- |
 | Records of Contributions                            | Permanent         |
 | ESIP’s or other documents evidencing terms of gifts | Permanent         |
 
