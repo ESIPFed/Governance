@@ -115,8 +115,7 @@ The Record Retention Schedule is organized as follows:
 
 <span class="c1"></span>
 
-A.  <span class="c10">ACCOUNTING AND
-FINANCE</span>
+#### A. ACCOUNTING AND FINANCE
 
 <span class="c1"></span>
 
@@ -167,7 +166,7 @@ document.</span>
 
 <span class="c1"></span>
 
-B.  <span class="c10">CONTRACTS</span>
+#### B. CONTRACTS
 
 <span class="c1"></span>
 
@@ -195,8 +194,7 @@ B.  <span class="c10">CONTRACTS</span>
 
 <span class="c1"></span>
 
-C.  <span class="c10">CORPORATE RECORDS
-</span>
+#### C. CORPORATE RECORDS
 
 <span class="c1"></span>
 
@@ -210,7 +208,7 @@ C.  <span class="c10">CORPORATE RECORDS
 
 <span class="c1"></span>
 
-D.  <span class="c10">CORRESPONDENCE AND INTERNAL MEMORANDA</span>
+#### D. CORRESPONDENCE AND INTERNAL MEMORANDA
 
 <span class="c1"></span>
 
@@ -271,8 +269,7 @@ traceability.</span>
 
 <span class="c1"></span>
 
-E.  <span class="c10">ELECTRONIC
-    </span><span class="c10">DOCUMENTS</span>
+#### E. ELECTRONIC DOCUMENTS
 
 <span class="c1"></span>
 
@@ -336,8 +333,7 @@ the electronic document.</span>
 
 <span class="c1"></span>
 
-F.  <span class="c10">GRANT RECORDS
-</span>
+#### F. GRANT RECORDS
 
 <span class="c1"></span>
 
@@ -431,8 +427,7 @@ F.  <span class="c10">GRANT RECORDS
 
 <span class="c1"></span>
 
-G.  <span class="c10">INSURANCE
-RECORDS</span>
+#### G. INSURANCE RECORDS
 
 <span class="c1"></span>
 
@@ -457,8 +452,7 @@ RECORDS</span>
 
 -----
 
-H.  <span class="c10">LEGAL FILES AND
-PAPERS</span>
+#### H. LEGAL FILES AND PAPERS
 
 <span class="c1"></span>
 
@@ -476,7 +470,7 @@ PAPERS</span>
 
 <span class="c1"></span>
 
-I.  <span class="c10">MISCELLANEOUS</span>
+#### I. MISCELLANEOUS
 
 <span class="c1"></span>
 
@@ -495,8 +489,7 @@ I.  <span class="c10">MISCELLANEOUS</span>
 
 <span class="c1"></span>
 
-J. <span class="c10">PAYROLL
-DOCUMENTS</span>
+#### J. PAYROLL DOCUMENTS
 
 <span class="c1"></span>
 
@@ -518,8 +511,7 @@ DOCUMENTS</span>
 
 <span class="c1"></span>
 
-K. <span class="c10">PENSION DOCUMENTS AND SUPPORTING EMPLOYEE
-    DATA</span>
+#### K. PENSION DOCUMENTS AND SUPPORTING EMPLOYEE DATA
 
 <span class="c1"></span>
 
@@ -543,8 +535,7 @@ pension.</span>
 
 <span class="c1"></span>
 
-L. <span class="c10">PERSONNEL
-RECORDS</span>
+#### L. PERSONNEL RECORDS
 
 <span class="c1"></span>
 
