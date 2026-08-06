@@ -19,9 +19,8 @@ Copy this file, fill in the sections, and open a pull request.*
 
 [Describe the purpose of this policy in one to three sentences.]
 
-## Section 2 — Scope
-
-[Describe who this policy applies to.]
+## Section 2 — Definitions (optional)
+This section contains any definitions, if needed, contained in this policy and procedures document.
 
 ## Section 3 — Policy
 
