@@ -87,50 +87,29 @@ ESIP on</span><span class="c50"> </span><span>October 17,
 
 -----
 
-<span class="c10">APPENDIX A  RECORD RETENTION SCHEDULE</span>
+### Appendix A: Record Retention Schedule
 
-<span class="c1">The Record Retention Schedule is organized as
-follows:</span>
+The Record Retention Schedule is organized as follows:
 
-<span class="c1"></span>
+**Section Topic**
 
-<span class="c10">SECTION TOPIC</span>
-
-<span class="c1"></span>
-
-A.  <span class="c1">Accounting and Finance</span>
-
-B.  <span class="c1">Contracts</span>
-
-C.  <span class="c1">Corporate Records</span>
-
-D.  <span class="c1">Correspondence and Internal Memoranda</span>
-
-E.  <span class="c1">Electronic Documents</span>
-
-F.  <span class="c1">Grant Records </span>
-
-G.  <span class="c1">Insurance Records</span>
-
-H.  <span class="c1">Legal Files and Papers</span>
-
-I.  <span class="c1">Miscellaneous</span>
-
-J. <span class="c1">Payroll Documents</span>
-
-K. <span class="c1">Pension Documents </span>
-
-L. <span class="c1">Personnel Records</span>
-
-M. <span class="c1">Property Records</span>
-
-N. <span class="c1">Tax Records</span>
-
-O. <span class="c1">Contribution Records</span>
-
-P. <span class="c1">Programs & Services Records</span>
-
-Q. <span class="c1">Fiscal Sponsor Project Records</span>
+- A. Accounting and Finance
+- B. Contracts
+- C. Corporate Records
+- D. Correspondence and Internal Memoranda
+- E. Electronic Documents
+- F. Grant Records
+- G. Insurance Records
+- H. Legal Files and Papers
+- I. Miscellaneous
+- J. Payroll Documents
+- K. Pension Documents
+- L. Personnel Records
+- M. Property Records
+- N. Tax Records
+- O. Contribution Records
+- P. Programs & Services Records
+- Q. Fiscal Sponsor Project Records
 
 <span class="c1"></span>
 
