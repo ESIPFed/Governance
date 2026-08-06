@@ -44,9 +44,7 @@ program; and monitor compliance with this Policy.
 
 ### 4. Suspension of Record Disposal In Event of Litigation or Claims
 
-In the event
-ESIP is served with
-any subpoena or request for documents or any employee becomes aware of a
+In the event ESIP is served with any subpoena or request for documents or any employee becomes aware of a
 governmental investigation or audit concerning
 ESIP or the
 commencement of any litigation against or concerning
@@ -65,9 +63,7 @@ in the course of ESIP’s operation, including both original documents and
 reproductions.  It also applies to the electronic documents described
 above. 
 
-This Policy was approved by the Board of Directors of
-ESIP on October 17,
-2017.
+This Policy was approved by the Board of Directors of ESIP on October 17, 2017.
 
 -----
 
@@ -161,7 +157,6 @@ categories:
     significant, lasting consequences should be discarded
     within two years.
     Some examples include:
-
   - Routine letters and notes that require no
     acknowledgment or follow-up, such as notes of appreciation,
     congratulations, letters of transmittal, and plans for
@@ -191,10 +186,7 @@ traceability.
 
 1.  Electronic Mail:
     Not all email needs to be retained,
-    depending on the subject matter. 
-
-<!-- end list -->
-
+    depending on the subject matter.
   - Staff will strive to keep all but an insignificant
     minority of their e-mail related to business issues. 
   - Staff will not store or transfer ESIP-related
@@ -202,16 +194,12 @@ traceability.
     appropriate for ESIP purposes. 
   - Staff will take care not to send
     confidential/proprietary ESIP information to outside sources.
-    
   - Any e-mail staff deems vital to the performance of
     their job should be sent to Highrise.
 
 2.  Electronic Documents: including Google Docs,
     Microsoft Office Suite and PDF files. Retention also depends on the
     subject matter.
-
-<!-- end list -->
-
   - PDF documents – The length
     of time that a PDF file should be retained should be based upon the
     content of the file and the category under the various sections of
@@ -331,7 +319,7 @@ pension.
 
 #### M. PROPERTY RECORDS
 
-*Content for this section has not yet been supplied. Contact the Policy Administrator to complete the Property Records retention schedule.*
+*Content for this section has not yet been supplied.*
 
 #### N. TAX RECORDS
 
@@ -369,13 +357,16 @@ laws.
 
 | Record Type | Retention Period |
 | --- | --- |
-| {Insert Types of Programs and Services} | 7 years |
-| FUNding Friday winning posters<br>Funded ESIP Lab project proposals<br>Final ESIP Lab project reports<br>Final ESIP Lab evaluation reports<br><br>SIP convenings | 5 years<br>5 years<br>Permanent<br>Permanent<br><br>Permanent (1 copy only) |
+| FUNding Friday winning posters | 5 years |
+| Funded ESIP Lab project proposals | 5 years |
+| Final ESIP Lab project reports | Permanent |
+| Final ESIP Lab evaluation reports | Permanent |
+| SIP convenings | Permanent (1 copy only) |
 | Research & Publications | Permanent (1 copy only) |
 
 #### Q. FISCAL SPONSOR PROJECT RECORDS
 
-*Content for this section has not yet been supplied. Contact the Policy Administrator to complete the Fiscal Sponsor Project Records retention schedule.*
+*Content for this section has not yet been supplied.*
 
 -----
 
