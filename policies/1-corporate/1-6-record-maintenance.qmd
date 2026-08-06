@@ -4,8 +4,6 @@ date: 2018-03-22
 toc-depth: 4
 ---
 
-![](images/image1.jpg)
-
 **ESIP Operating Policy – Record Retention and Destruction**
 
 ## Policy and Procedure 1.6 - Record Maintenance Policy
