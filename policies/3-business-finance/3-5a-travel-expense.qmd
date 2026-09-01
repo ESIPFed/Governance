@@ -5,8 +5,10 @@ date: 2024-06-18
 
 **Earth Science Information Partners (ESIP)** Travel and Expense Reimbursement
 
-(This Travel Policy is for our Volunteers and Is currently being revised.  The Staff Travel Policy is located in the ESIP Employee Handbook)
-==============================================================================
+::: {.callout-note}
+This Travel Policy is for our Volunteers and Is currently being revised. The
+Staff Travel Policy is located in the ESIP Employee Handbook.
+:::
 
 Travel (including registration fee) to ESIP workshops and professional
 meetings at which ESIP is represented by organizing a session, town hall
@@ -45,7 +47,7 @@ reimbursement review.
 Actual reasonable expenses will be reimbursed subject to any limits set
 forth in these guidelines and approved budgeted travel limits.
 
-a) **Air Travel**
+## 3.5a.1. Air Travel
 
 Expenses for commercial air travel are reimbursed on the basis of the
 actual cost incurred by the traveler using normally traveled routes in
@@ -58,7 +60,7 @@ checked baggage or seat selection fee applies the receipt should also
 include details of these items. Except with prior agreement of the ESIP
 Office, change fees are not normally reimbursable.
 
-b) **Rental Cars**
+## 3.5a.2. Rental Cars
 
 Rental car use should be limited to situations where other means of
 transportation are not practical, economical or available. Travelers
@@ -69,18 +71,18 @@ traveler needs to accept the rental car company's Liability and Physical
 Damage coverage. Itemized rental car receipts are required for
 reimbursement.
 
-c) **Bus, Train, Taxi Services**
+## 3.5a.3. Bus, Train, Taxi Services
 
 A receipt should be requested to document these expenses.
 
-d) **Personal Vehicles**
+## 3.5a.4. Personal Vehicles
 
 The use of personal vehicles is discouraged, except for regional travel,
 and to and from a 'home' airport. Prior approval is required for all
 other journeys, and such personal vehicle travel shall be reimbursed in
 accordance with the GSA guidelines in effect at the time of travel.
 
-e) **Lodging**
+## 3.5a.5. Lodging
 
 In the event that there is no scheduled conference or workshop hotel,
 travelers are encouraged to book ordinary accommodations at mid-market
@@ -89,7 +91,7 @@ Reasonable efforts should be made to obtain hotel accommodations at the
 location per diem limit as stated in the GSA guidelines. Original
 itemized hotel receipts are required for reimbursement.
 
-f) **Conference/Workshop Registration**
+## 3.5a.6. Conference/Workshop Registration
 
 Original receipts or proof of registration payments are required. Prior
 approval must be obtained if the traveler wishes to attend optional
@@ -116,7 +118,7 @@ standard registration fee.
 
         -   Waive registration if plenary level speaker (do this now)
 
-g) **Meal Expenses**
+## 3.5a.7. Meal Expenses
 
 ESIP reimburses meal and incidental expenses based on standard GSA
 per-diem rates in effect at the time of travel and according to the
@@ -125,12 +127,12 @@ workshop. Prior approval is required for business meals where additional
 professional guests are present, and reimbursement will be made on
 actual cost basis.
 
-h) **Miscellaneous Expenses**
+## 3.5a.8. Miscellaneous Expenses
 
 Miscellaneous expenses, such as charges for ground transportation and
 parking, are reimbursable upon submission of original receipts.
 
-i) **Non-Reimbursable Expenses**
+## 3.5a.9. Non-Reimbursable Expenses
 
 Non-reimbursable expenses include, but are not limited to:
 
