@@ -50,6 +50,7 @@ collaborative activities.
 
 Funded activities will advance one or more identified ESIP community interests,
 such as the following examples:
+
 - ESIP community-level technical solutions that ESIP partners can collectively
   develop and utilize.
 - Travel support to represent an ESIP entity at a professional meeting.
@@ -58,6 +59,7 @@ such as the following examples:
 ### 3.3f.2.2.
 
 Funded activities will align with ESIP's strategic plan.
+
 - Budget proposals will describe how each proposed activity will meet strategic
   priorities.
 - Proposed activities will be mapped to specific strategic plan goals or
@@ -69,6 +71,7 @@ Funded activities will align with ESIP's strategic plan.
 
 Committee and Working Group budgets will be based on the deliberations of the
 entire Committee/Working Group, including open competition among the membership.
+
 - Notice of budget deliberations must be sent by the Committee/Working Group
   chair to the membership at least 14 days prior to such deliberations.
 
@@ -76,6 +79,7 @@ entire Committee/Working Group, including open competition among the membership.
 
 Funded activities and their responsible Committee or Working Group will submit
 required reports to the Executive Committee.
+
 - Reports will be submitted semi-annually, 30 days prior to the January and July
   meetings.
 - Reports will document milestones, money spent, and finished products,as
