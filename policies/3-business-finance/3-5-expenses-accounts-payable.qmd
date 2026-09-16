@@ -83,7 +83,7 @@ date: 2022-04-18
         submit receipts along with the expense record for reimbursement
         to the Operations Director.  All reimbursements are processed through Bill.com.
 
-#### F.  [Travel Expense - see policy](http://localhost:4654/policies/3-business-finance/3-5a-travel-expense.html)
+#### F.  [Travel Expense - see policy](3-5a-travel-expense.html)
 
 #### H.  Company Credit Cards
 

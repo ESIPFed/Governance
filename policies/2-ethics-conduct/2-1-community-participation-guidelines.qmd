@@ -163,7 +163,7 @@ Sustained disruption of events, forums, or meetings, including talks and present
 Intentional efforts to exclude people from ESIP activities (except as a consequence of these guidelines or other official action) are not acceptable and will be dealt with appropriately.
 
 ### **Influencing Unacceptable Behaviors**
-We will treat influencing or leading unacceptable behaviors the same way we treat the unacceptable behaviors themselves. Thus, the same consequences ([Section 4](#section-4-consequences-of-unacceptable-behavior) apply.
+We will treat influencing or leading unacceptable behaviors the same way we treat the unacceptable behaviors themselves. Thus, the same consequences ([Section 4](#section-4-consequences-of-unacceptable-behavior)) apply.
 
 
 **Section 4 -- Consequences of Unacceptable Behavior**
@@ -197,7 +197,7 @@ If you believe you have experienced or are experiencing unacceptable behavior as
    **Toll Free Number:** 1-800-881-9418 select Executive Director or Operations Director
    **Email:** inclusion@esipfed.org
 
-Additional details on this process can be found [here](#section-5-reporting).
+Additional details on this process can be found [here](../../procedures/cpg-reporting.html).
 
 If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process. Acts of retaliation should also be reported via the same process as described above.
 
