@@ -7,7 +7,7 @@ date: 2018-02-27
 ===================================================
 
 A.  Conflict of Interest - See [Conflict of Interest
-    Policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/2.0%20Ethics%20and%20Conduct/ESIP%20P%26P%202.2%20Conflict%20Of%20Interest.md)
+    Policy](../2-ethics-conduct/2-2-conflict-of-interest.html)
 
 B.  Lines of Authority
 

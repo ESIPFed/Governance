@@ -34,7 +34,7 @@ date: 2026-01-27
    iv. The Board of Directors will review and approve the budget at
             its last meeting prior to the start of the fiscal year.
 
-   v. [Timeline](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3A%20FiCom%20annual%20budget%20cycle.md)
+   v. [Timeline](3-3a-ficom-budget-cycle.qmd)
 
 ##### B.  Internal Financial Reports
 
@@ -118,7 +118,7 @@ date: 2026-01-27
 
 ##### F.  Committee and Working Group Proposals and Budget Requests
 
-  a.  See the [ESIP Policy on Committee and Working Group Proposals and Supporting Budget Requests](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.3F%ESIP%20Committee%20Budget%20Request%20Policy.md)
+  a.  See the [ESIP Policy on Committee and Working Group Proposals and Supporting Budget Requests](3-3f-committee-budget-request.qmd)
     
 
 This Policy was approved by the Board of Directors of ESIP on October

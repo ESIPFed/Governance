@@ -83,7 +83,7 @@ date: 2022-04-18
         submit receipts along with the expense record for reimbursement
         to the Operations Director.  All reimbursements are processed through Bill.com.
 
-#### F.  [Travel Expense - see policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
+#### F.  [Travel Expense - see policy](http://localhost:4654/policies/3-business-finance/3-5a-travel-expense.html)
 
 #### H.  Company Credit Cards
 
@@ -159,4 +159,3 @@ will share in the allocation of the pooled expenses. The basic
 classifications of indirect pools are fringe, indirect, and unallowable.
 
 This Policy was approved by the Board of Directors of ESIP on October 17, 2017. Revisions to this policy were approved by the Board on September 15 2021.
-
