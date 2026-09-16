@@ -85,8 +85,7 @@ The Operations Director processes payroll through Quickbooks.
 
 ## 3.5.6. Travel Expense
 
-[Travel Expense - see
-policy](https://github.com/ESIPFed/Governance/blob/master/ESIP%20Policies%20and%20Procedures/3.0%20Business%20and%20Finance/ESIP%20P%26P%203.5A%20Travel%20and%20Expense%20Reimbursement%20Policy.md)
+[Travel Expense - see policy](3-5a-travel-expense.html)
 
 ## 3.5.7. Company Credit Cards
 
