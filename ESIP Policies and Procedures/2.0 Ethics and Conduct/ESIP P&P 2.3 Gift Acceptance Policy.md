@@ -1,43 +1,22 @@
-**Policy and Procedure 2.3 - Earth Science Information Partners (ESIP) Gift Acceptance**
+**Policy and Procedure 2.3 - Gift Acceptance Policy**
 ========================================================================================
 
-Acceptance of any contribution, gift or grant is at the discretion of
-ESIP. ESIP will not accept any gift unless it can be used or expended
-consistently with the purpose and mission of ESIP.
+## Philosophy & Independence
+ESIP accepts many types of funding to support its mission of fostering Earth science data interoperability. To maintain public trust and scientific integrity, ESIP operates under a strict principle of institutional independence. Acceptance of any contribution, gift or grant is at the discretion of ESIP. ESIP will not accept any gift unless it can be used or expended consistently with the purpose and mission of ESIP. Acceptance does not imply endorsement of the donor’s products, services, or activities. Donors shall not have excessive influence over ESIP’s strategic priorities, governance, scientific standards, data protocols, research outcomes, or the selection of participants and awardees. In cases where this is in doubt, the ESIP Board will decide.
 
-No irrevocable gift, whether outright or life-income in character, will
-be accepted if under any reasonable set of circumstances the gift would
-jeopardize the donor's financial security.
+ESIP reserves the right to decline any gift that could damage its reputation, jeopardize its tax-exempt status, or compromise its mission. The Board will evaluate major gifts (exceeding $50,000 value); staff will evaluate smaller gifts. In every case, ESIP will evaluate gifts considering ESIP’s mission, vision, values, and public perception. ESIP will reject funds from sources that contradict its commitment to Earth stewardship or environmental integrity, including major polluters or entities involved in human rights violations. Funding derived from illegal or unethical activities will be declined. Associations that create a significant conflict of interest or a "toxic" public association will be avoided. If a donor’s future conduct is contrary to ESIP’s values or mission, the Board reserves the right to return funds or remove a donor’s name from a program.
 
-ESIP will refrain from providing advice about the tax or other treatment
-of gifts and will encourage donors to seek guidance from their own
-professional advisors to assist them in the process of making their.
+## Asset Acceptance & Fees
+ESIP will accept donations of cash or publicly traded securities. ESIP does not accept cryptocurrency in any form, including all digital assets and blockchain-based tokens. Gifts of in-kind services (including software, computational services, and volunteer time) or discounted services will be accepted at the discretion of ESIP. ESIP reserves the right to apply an overhead fee of 10–15% to cover the cost of administration, unless specifically prohibited by the donor or law. International gifts must be reviewed and approved by the Board.
 
-ESIP will accept donations of cash or publicly traded securities. Gifts
-of in-kind services will be accepted at the discretion of ESIP.
+## Review & Vetting
+ESIP is committed to transparency in its funding. A "non-transparent" source is defined as any contribution greater than $10,000 where the ultimate beneficial owner or the legal origin of the funds cannot be verified through standard due diligence. Major gifts from non-transparent sources or gifts that come with restrictions unlike others ESIP has already navigated must be reviewed by the ESIP Board prior to acceptance. 
 
-Certain other gifts, real property, personal property, in-kind gifts,
-non-liquid securities, and contributions whose sources are not
-transparent or whose use is restricted in some manner, must be reviewed
-by the ESIP Board prior to acceptance due to the special obligations
-raised or liabilities they may pose for ESIP.
+## Privacy, Transparency & Data Storage
+All donor data will be stored securely, protected by multifactor authentication and robust internal controls. Donor data will not be used to train artificial intelligence (AI) models, and it will never be sold to or shared with third-party organizations. ESIP will also respect the desire of donors who wish to remain anonymous and will restrict anonymous donor information only to those staff members with a need to know.  ESIP will maintain a public registry of all corporate and institutional donors contributing over a threshold of $5,000 annually to ensure transparency and prevent the appearance of undue influence.
 
-ESIP will provide acknowledgments to donors meeting IRS substantiation
-requirements for property received by the charity as a gift. However,
-except for gifts of cash and publicly traded securities, no value shall
-be ascribed to any receipt or other form of substantiation of a gift
-received by Council of Nonprofits.
+## Legal & Compliance
+ESIP will comply with all IRS regulations relevant to specific gifts. ESIP will not accept informal agreements that attempt to circumvent legal controls on restricted gifts. ESIP will not provide advice about the tax treatment of gifts but will encourage donors to seek guidance from their own professional advisors in developing their gifts. ESIP will not compensate, whether through commissions, finders’ fees, or other means, any third party for directing a gift or a donor to ESIP.
 
-ESIP will respect the intent of the donor relating to gifts for
-restricted purposes and those relating to the desire to remain
-anonymous. With respect to anonymous gifts, ESIP will restrict
-information about the donor to only those staff members with a need to
-know.
 
-ESIP will not compensate, whether through commissions, finders' fees, or
-other means, any third party for directing a gift or a donor to ESIP.
-
-#### Adapted from: [https://www.councilofnonprofits.org/tools-resources/gift-acceptance-policies](https://www.councilofnonprofits.org/tools-resources/gift-acceptance-policies)
-
-This Policy was approved by the Board of Directors of ESIP on October
-17, 2017.
+Adapted from: [The National Council of Nonprofits Gift Acceptance Policy](https://www.councilofnonprofits.org/tools-resources/gift-acceptance-policies) and ESIP’s previous Gift Acceptance Policy, approved by its Board of Directors October 17, 2017.
