@@ -35,14 +35,15 @@ ability as a community organization, and not to perform basic Earth
 science research. In these cases, ESIP will provide its members with
 information on how they can participate in these funded activities.
 
-**A-3:** ESIP intends to not compete with its members individually or
-collectively for funding opportunities. ESIP will announce to its
-members when it is pursuing an open call (RFP) for a funding
-opportunity. Should an ESIP member object (via an email to the ESIP
-President) to ESIP pursuing funding, this matter will be decided by a
-vote of the Program Committee, which will advise staff to pursue or
-refrain from pursuing the opportunity. ESIP can request funding from
-private foundations for ESIP community support without constraint.
+**A-3:** ESIP may submit to funding opportunities when ESIP is well suited to 
+the nature of the work, e.g. work focused on ESIP's community building and 
+collaborative strengths. To avoid competition with ESIP members, ESIP will 
+not pursue competitive funding opportunities that do not directly relate to ESIP's 
+strengths and mission.
+
+Staff must notify the Board of such opportunities. If the Board determines that 
+an opportunity may create competition or conflict with members' interests, it 
+may direct staff to notify the membership.
 
 **A-4:** ESIP is not a funding organization. Some funds from ESIP
 sponsors are made available for ESIP members to do work in ESIP
