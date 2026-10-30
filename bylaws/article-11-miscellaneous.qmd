@@ -1,0 +1,85 @@
+---
+title: "Article 11: Miscellaneous Provisions"
+---
+
+## **11.1 - FISCAL YEAR OF THE CORPORATION**
+
+### **11.1.1**
+
+The fiscal year of the Corporation shall begin on the first day of October in each calendar year and end on the last day of the succeeding September.
+
+
+## **11.2 - AMENDMENT OF BYLAWS**
+
+### **11.2.1**
+
+Except as set forth in Section 11.2.2, the bylaws may be amended by a vote of the majority of directors when a quorum is present.
+
+### **11.2.2**
+
+Any amendment that would do any of the following must be approved by the members:
+
+   **11.2.2.1** - Increase quorum or voting requirements for the Board;  
+   **11.2.2.2** - Provide that some of the members have different rights or obligations than other members with respect to voting, dissolution, transfer of memberships or other matters;  
+   **11.2.2.3** - Levy dues, assessments, or fees on some or all of the members;  
+   **11.2.2.4** - Affect the termination or suspension of members;  
+   **11.2.2.5** - Authorize the purchase of memberships;  
+   **11.2.2.6** - Require cause to remove a director or that specifies what constitutes cause to remove a director; or  
+   **11.2.2.7** - Relates to the removal of a director who is designated in a manner other than election or appointment.
+
+### **11.2.3**
+
+The members of each class of members shall be entitled to vote as a separate voting group on an amendment to the bylaws that would:
+
+   **11.2.3.1** - Affect the members of that class differently than the members of another class;  
+   **11.2.3.2** - Effect an exchange or reclassification of all or part of the memberships of the class into memberships of another class;  
+   **11.2.3.3** - Effect an exchange or reclassification, or create the right of exchange, of all or part of the memberships of another class into memberships of the class;  
+   **11.2.3.4** - Change the rights, preferences, or limitations of all or part of the memberships of the class in a manner different than the amendment would affect another class;  
+   **11.2.3.5** - Change the rights, preferences, or limitations of all or part of the memberships of the class by changing the rights, preferences, or limitations of another class;  
+   **11.2.3.6** - Increase or decrease the number of memberships authorized for that class;  
+   **11.2.3.7** - Increase the number of memberships authorized for another class; or  
+   **11.2.3.8** - Authorize a new class of memberships.
+   **11.2.3.9** - Subject to any provision of law applicable to the amendment of bylaws of a District of Columbia Nonprofit Corporation, these bylaws, or any of them, may be altered, amended or repealed, and new bylaws adopted by approval of:
+      **11.2.3.9.1** - A majority of directors then currently in office; or  
+      **11.2.3.9.2** - A majority of the members represented and voting.
+
+### **11.2.4**
+
+Subject to the members' rights under these bylaws and the limitations set forth below, the Board may adopt, amend or repeal the bylaws unless doing so would materially and adversely affect the members', or a class or classes of members' rights, as to voting, dissolution, redemption or transfer. The Board may not extend a director's term beyond that for which the director was elected.
+
+## **11.2.5**
+
+If any provision of these bylaws requires the vote of a larger proportion of the Board than is otherwise required by law, that provision may not be altered, amended or repealed except by that greater vote.
+
+
+
+### **11.3.1**
+
+The Articles of Incorporation shall be amended in the following manner:
+
+   **11.3.1.1** - Except as pursuant to Section 11.3.3, the proposed amendment shall be adopted by the Board;  
+   **11.3.1.2** - The Board shall transmit to the members a recommendation that the members approve the amendment, unless the Board makes a determination that because of conflicts of interest or other special circumstances, it should not make such a recommendation, in which case the Board must transmit to the members the basis for that determination.  
+   **11.3.1.3** - The Board may condition its submission of the amendment to the members on any basis.  
+   **11.3.1.4** - An amendment may be proposed by 10% or more of the members entitled to vote on the amendment or by such greater or lesser number of members as is specified in the articles. Sections 11.3.1.1 through 11.3.1.3 shall not apply to an amendment proposed by the members under this paragraph.  
+   **11.3.1.5** - If the amendment is required to be approved by the members, and the approval is to be given at a meeting, the Corporation shall give notice to each member entitled to vote on the amendment of the meeting of members at which the amendment is to be submitted for approval. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider the amendment and shall contain or be accompanied by a copy of the amendment.  
+   **11.3.1.6** - The amendment shall be adopted by approval of a majority of the Member Representatives voting at a meeting at which a quorum exists.
+
+### **11.3.2**
+
+The Board of directors may adopt amendments to the Articles of Incorporation without approval of the members to:
+
+   **11.3.2.1** - Change the designation of registered agent;  
+   **11.3.2.2** - Change the corporation name by substituting or deleting the word “corporation,” “incorporated,” “company,” “limited,” or the abbreviation “corp.,” “inc.,” “co.,” or “ltd.,” for a similar word or abbreviation in the name; or  
+   **11.3.2.3** - Restate without change all of the then operative provisions of the Articles.
+
+### **11.3.3**
+
+The Board may restate its articles of incorporation at any time, without approval by the members or any other person, to consolidate all amendments into a single document without substantive change. The restated articles shall be delivered to the Mayor of the District of Columbia for filing articles of amendment, including a statement that the articles of amendment are a restatement that consolidates all amendments into a single record. Duly adopted restated articles of incorporation shall supersede the original articles of incorporation and all amendments thereto.
+
+
+
+## **11.4 - CONSTRUCTION AND DEFINITIONS**
+
+Unless the context requires otherwise, the general provisions, rules of construction, and definitions in the Act shall govern the construction of these bylaws. Without limiting the generality of the above, the masculine gender includes the feminine and neuter, the singular number includes the plural, the plural number includes the singular, the term “person” includes both the Corporation and a natural person, and vice versa. All references to statutes, regulations and laws shall include any future statutes, regulations and laws that replace those referenced.
+
+

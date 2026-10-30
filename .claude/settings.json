@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 .claude/hooks/check-prose-wrap.py",
+            "if": "Bash(git commit*)",
+            "statusMessage": "Checking prose line wrap..."
+          }
+        ]
+      }
+    ]
+  }
+}

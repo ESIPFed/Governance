@@ -1,0 +1,13 @@
+---
+title: "Committee Procedures"
+---
+
+These procedures govern ESIP standing committees, awards, and community
+participation processes.
+
+| Procedure | Description |
+|-----------|-------------|
+| [FUNding Friday Rules](funding-friday.qmd) | Annual mini-grant competition rules |
+| [Raskin Scholarship](raskin-scholarship.qmd) | Student scholarship procedures |
+| [Martha Maiden Award](martha-maiden-award.qmd) | Annual recognition award procedures |
+| [CPG Reporting](cpg-reporting.qmd) | Community Participation Guidelines reporting guidance |

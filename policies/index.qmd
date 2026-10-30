@@ -1,0 +1,17 @@
+---
+title: "Policies & Procedures"
+---
+
+# ESIP Policies and Procedures
+
+**Approved by the ESIP Board, October 2017. Last updated April 2025.**
+
+These policies and procedures govern ESIP's organizational operations across four
+areas. Use the sidebar or the table below to navigate to a specific policy.
+
+| Section | Policies |
+|---------|---------|
+| [1. Corporate](1-corporate/1-1-goals.qmd) | Goals, membership, corporate organization, record maintenance, privacy |
+| [2. Ethics & Conduct](2-ethics-conduct/2-1-community-participation-guidelines.qmd) | Community guidelines, conflict of interest, gift acceptance, whistleblower |
+| [3. Business & Finance](3-business-finance/3-1-accounting.qmd) | Accounting, financial planning, expense reimbursement, procurement |
+| [4. Human Resources](4-human-resources/4-1-employee-handbook.qmd) | Employee handbook, personnel records, search and selection |

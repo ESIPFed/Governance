@@ -1,0 +1,20 @@
+---
+title: "3.3A FiCom Annual Budget Cycle"
+date: 2024-04-02
+---
+
+| Task | Timeframe |
+| --- | --- |
+| Annual Committee and Working Group budgets | 4 months before beginning of fiscal year |
+| Budget request for next fiscal year to Standing Committee and Working Group chairs | First week of June |
+| Committee and Working Group budgets due to FiCom | First week of August |
+| Committee and Working Group budget reviews complete and forwarded to Board for approval | First week of September |
+| Committee and Working Group chairs notified of budget decisions | Second week of September |
+| ESIP meeting travel funding requests (to be handled by Program Committee going forward) | tied to ESIP meeting planning schedule |
+| Availability of travel funds announced | ESIP call for sessions |
+| Travel budgets due to FiCom | Session proposal due date |
+| Travel budget reviews complete and requestors notified | 2 weeks after budgets due |
+| Special Project funding requests - workshops, etc. | As needed |
+| Special Project request submitted (NOTE: Special Projects are those that don't fit into testbed, incubator, or other ESIP funding opportunities) | At least 2 months before funds needed |
+| Special Project budget reviews complete and requestors notified | Within 1 month of request |
+| Committee Membership Cycle | Nominal 1 year term |
