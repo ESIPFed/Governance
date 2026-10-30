@@ -2,7 +2,7 @@ name: Quarto Publish
 
 on:
   push:
-    branches: [development]
+    branches: [master]
   workflow_dispatch:
 
 permissions:

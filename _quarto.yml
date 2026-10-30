@@ -10,8 +10,9 @@ book:
     style: "docked"
     collapse-level: 2
   search: true
+  site-url: https://policies.esipfed.org
   repo-url: https://github.com/ESIPFed/Governance
-  repo-branch: development
+  repo-branch: master
   repo-actions: [edit, issue]
   # NOTE: Chapter files below are pre-declared targets — they will be created
   # by the content migration tasks (Tasks 4–10). Running quarto render before
