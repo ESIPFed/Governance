@@ -1,3 +1,6 @@
 .superpowers/
 _book/
 .quarto/
+
+/.quarto/
+**/*.quarto_ipynb
